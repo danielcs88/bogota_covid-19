@@ -1,6 +1,7 @@
+# -*- coding: utf-8 -*-
 # %%
 # import chardet
-import subprocess
+# import subprocess
 
 import pandas as pd
 from IPython import get_ipython
@@ -12,14 +13,14 @@ from IPython import get_ipython
 # %%
 # Comando para descargar los datos de la página del Distrito en una carpeta llamada 'datos'
 
-# subprocess.run(
-#     [
-#         "wget",
-#         "https://datosabiertos.bogota.gov.co/dataset/44eacdb7-a535-45ed-be03-16dbbea6f6da/resource/b64ba3c4-9e41-41b8-b3fd-2da21d627558/download/osb_enftransm-covid-19.csv",
-#         "-P",
-#         "datos/",
-#     ]
-# )
+subprocess.run(
+    [
+        "wget",
+        "https://datosabiertos.bogota.gov.co/dataset/44eacdb7-a535-45ed-be03-16dbbea6f6da/resource/b64ba3c4-9e41-41b8-b3fd-2da21d627558/download/osb_enftransm-covid-19.csv",
+        "-P",
+        "datos/",
+    ]
+)
 
 
 # %%
@@ -95,14 +96,14 @@ print(result["encoding"])
 # except ValueError:
 
 bogota = pd.read_csv(
-    "https://datosabiertos.bogota.gov.co/dataset/44eacdb7-a535-45ed-be03-16dbbea6f6da/resource/b64ba3c4-9e41-41b8-b3fd-2da21d627558/download/osb_enftransm-covid-19.csv",
-    #     encoding="ascii",
+    "datos/osb_enftransm-covid-19.csv",
+#     encoding="ascii",
     cache_dates=True,
     parse_dates=[s for s in cols if "DIAGNOSTICO" in s],
     dayfirst=True,
     sep=";",
     skipfooter=5,
-    #     encoding=result["encoding"],
+    encoding=result["encoding"],
     engine="python",
     # converters={
     #     "LOCALIDAD_ASIS": lambda x: x.replace("Antonio Nari�o", "Antonio Nariño"),
@@ -152,7 +153,9 @@ if set(bogota["LOCALIDAD_ASIS"]) != set(localidades.values()):
 print(set(bogota["LOCALIDAD_ASIS"]))
 
 # %%
-subprocess.run(["rm", "datos/osb_enftransm-covid-19.csv"])
+import os, glob
+for filename in glob.glob("datos/osb*"):
+    os.remove(filename) 
 
 # %%
 bogota.head()

@@ -16,4 +16,6 @@ ipython Bogota_R_t.py
 
 black *.py
 
+find . -type f -name osb\* -exec rm {} \;
+
 git add --all && git commit -m "Update" && git push
