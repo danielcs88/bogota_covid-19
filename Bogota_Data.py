@@ -1,7 +1,6 @@
-# -*- coding: utf-8 -*-
 # %%
-# import chardet
-# import subprocess
+import chardet
+import subprocess
 
 import pandas as pd
 from IPython import get_ipython
@@ -97,7 +96,7 @@ print(result["encoding"])
 
 bogota = pd.read_csv(
     "datos/osb_enftransm-covid-19.csv",
-#     encoding="ascii",
+    #     encoding="ascii",
     cache_dates=True,
     parse_dates=[s for s in cols if "DIAGNOSTICO" in s],
     dayfirst=True,
@@ -154,8 +153,9 @@ print(set(bogota["LOCALIDAD_ASIS"]))
 
 # %%
 import os, glob
+
 for filename in glob.glob("datos/osb*"):
-    os.remove(filename) 
+    os.remove(filename)
 
 # %%
 bogota.head()
