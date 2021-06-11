@@ -83,34 +83,41 @@ print(result["encoding"])
 # por comas (,) o Punto y comas (;). No me dejaron opción sino crear la
 # condición para ambos.
 
-# try:
-#     bogota = pd.read_csv(
-#         "datos/osb_enftransm-covid-19.csv",
-#         encoding="iso-8859-1",
-#         cache_dates=True,
-#         parse_dates=[s for s in cols if "DIAGNOSTICO" in s],
-#         dayfirst=True,
-#         sep=",",
-#         #         usecols=cols,
+try:
+    bogota = pd.read_csv(
+        "datos/osb_enftransm-covid-19.csv",
+        #     encoding="ascii",
+        cache_dates=True,
+        parse_dates=[s for s in cols if "DIAGNOSTICO" in s],
+        dayfirst=True,
+        sep=",",
+        skipfooter=5,
+        encoding=result["encoding"],
+        engine="python",
+        # converters={
+        #     "LOCALIDAD_ASIS": lambda x: x.replace("Antonio Nari�o", "Antonio Nariño"),
+        #     "LOCALIDAD_ASIS": lambda x: x.repace("Engativ�": "Engativá")
+        # }
+        #         usecols=cols,
+    )
 #     )
-# except ValueError:
-
-bogota = pd.read_csv(
-    "datos/osb_enftransm-covid-19.csv",
-    #     encoding="ascii",
-    cache_dates=True,
-    parse_dates=[s for s in cols if "DIAGNOSTICO" in s],
-    dayfirst=True,
-    sep=";",
-    skipfooter=5,
-    encoding=result["encoding"],
-    engine="python",
-    # converters={
-    #     "LOCALIDAD_ASIS": lambda x: x.replace("Antonio Nari�o", "Antonio Nariño"),
-    #     "LOCALIDAD_ASIS": lambda x: x.repace("Engativ�": "Engativá")
-    # }
-    #         usecols=cols,
-)
+except ValueError:
+    bogota = pd.read_csv(
+        "datos/osb_enftransm-covid-19.csv",
+        #     encoding="ascii",
+        cache_dates=True,
+        parse_dates=[s for s in cols if "DIAGNOSTICO" in s],
+        dayfirst=True,
+        sep=";",
+        skipfooter=5,
+        encoding=result["encoding"],
+        engine="python",
+        # converters={
+        #     "LOCALIDAD_ASIS": lambda x: x.replace("Antonio Nari�o", "Antonio Nariño"),
+        #     "LOCALIDAD_ASIS": lambda x: x.repace("Engativ�": "Engativá")
+        # }
+        #         usecols=cols,
+    )
 
 bogota = bogota.dropna(how="all")
 print(set(bogota["LOCALIDAD_ASIS"]))
