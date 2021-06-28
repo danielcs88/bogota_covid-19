@@ -10,48 +10,47 @@ fecha,localidad,casos,codigo
 2020-03-13,Fontibón,1.0,9
 2020-03-13,Kennedy,1.0,8
 2020-03-13,Suba,1.0,11
-2020-03-13,Teusaquillo,1.0,13
 2020-03-13,Chapinero,1.0,2
 2020-03-13,Engativá,5.0,10
 2020-03-14,Usaquén,1.0,1
 2020-03-14,Kennedy,1.0,8
+2020-03-14,Teusaquillo,1.0,13
 2020-03-14,Fontibón,2.0,9
 2020-03-14,Suba,2.0,11
-2020-03-14,Teusaquillo,2.0,13
 2020-03-14,Chapinero,2.0,2
 2020-03-14,Engativá,5.0,10
+2020-03-15,Teusaquillo,1.0,13
 2020-03-15,Ciudad Bolívar,1.0,19
 2020-03-15,Fontibón,2.0,9
 2020-03-15,Suba,2.0,11
-2020-03-15,Teusaquillo,2.0,13
 2020-03-15,Barrios Unidos,2.0,12
 2020-03-15,Kennedy,3.0,8
 2020-03-15,Usaquén,4.0,1
 2020-03-15,Engativá,6.0,10
 2020-03-15,Chapinero,8.0,2
+2020-03-16,Teusaquillo,1.0,13
 2020-03-16,Ciudad Bolívar,1.0,19
 2020-03-16,Fontibón,2.0,9
-2020-03-16,Teusaquillo,2.0,13
 2020-03-16,Barrios Unidos,2.0,12
 2020-03-16,Kennedy,3.0,8
 2020-03-16,Suba,3.0,11
 2020-03-16,Usaquén,5.0,1
 2020-03-16,Engativá,6.0,10
 2020-03-16,Chapinero,8.0,2
+2020-03-17,Teusaquillo,1.0,13
 2020-03-17,Ciudad Bolívar,1.0,19
 2020-03-17,Rafael Uribe Uribe,1.0,18
 2020-03-17,Fontibón,2.0,9
-2020-03-17,Teusaquillo,2.0,13
 2020-03-17,Barrios Unidos,2.0,12
 2020-03-17,Kennedy,3.0,8
 2020-03-17,Suba,4.0,11
 2020-03-17,Usaquén,6.0,1
 2020-03-17,Engativá,6.0,10
 2020-03-17,Chapinero,13.0,2
+2020-03-18,Teusaquillo,1.0,13
 2020-03-18,Ciudad Bolívar,1.0,19
 2020-03-18,Rafael Uribe Uribe,1.0,18
 2020-03-18,Puente Aranda,1.0,16
-2020-03-18,Teusaquillo,2.0,13
 2020-03-18,Barrios Unidos,2.0,12
 2020-03-18,Fontibón,3.0,9
 2020-03-18,Kennedy,3.0,8
@@ -59,9 +58,9 @@ fecha,localidad,casos,codigo
 2020-03-18,Engativá,6.0,10
 2020-03-18,Usaquén,7.0,1
 2020-03-18,Chapinero,13.0,2
+2020-03-19,Teusaquillo,1.0,13
 2020-03-19,Ciudad Bolívar,1.0,19
 2020-03-19,Rafael Uribe Uribe,1.0,18
-2020-03-19,Teusaquillo,2.0,13
 2020-03-19,Barrios Unidos,2.0,12
 2020-03-19,Puente Aranda,2.0,16
 2020-03-19,Kennedy,3.0,8
@@ -76,7 +75,7 @@ fecha,localidad,casos,codigo
 2020-03-20,Barrios Unidos,2.0,12
 2020-03-20,Kennedy,3.0,8
 2020-03-20,Puente Aranda,3.0,16
-2020-03-20,Teusaquillo,5.0,13
+2020-03-20,Teusaquillo,4.0,13
 2020-03-20,Fontibón,9.0,9
 2020-03-20,Engativá,11.0,10
 2020-03-20,Suba,11.0,11
@@ -90,7 +89,7 @@ fecha,localidad,casos,codigo
 2020-03-21,Tunjuelito,2.0,6
 2020-03-21,Kennedy,3.0,8
 2020-03-21,Puente Aranda,3.0,16
-2020-03-21,Teusaquillo,6.0,13
+2020-03-21,Teusaquillo,5.0,13
 2020-03-21,Fontibón,9.0,9
 2020-03-21,Engativá,11.0,10
 2020-03-21,Suba,13.0,11
@@ -104,8 +103,8 @@ fecha,localidad,casos,codigo
 2020-03-22,Barrios Unidos,2.0,12
 2020-03-22,Tunjuelito,2.0,6
 2020-03-22,Puente Aranda,3.0,16
+2020-03-22,Teusaquillo,5.0,13
 2020-03-22,Kennedy,6.0,8
-2020-03-22,Teusaquillo,6.0,13
 2020-03-22,Engativá,13.0,10
 2020-03-22,Fontibón,13.0,9
 2020-03-22,Suba,18.0,11
@@ -120,7 +119,7 @@ fecha,localidad,casos,codigo
 2020-03-23,Tunjuelito,2.0,6
 2020-03-23,Puente Aranda,3.0,16
 2020-03-23,Kennedy,6.0,8
-2020-03-23,Teusaquillo,7.0,13
+2020-03-23,Teusaquillo,6.0,13
 2020-03-23,Fontibón,13.0,9
 2020-03-23,Engativá,14.0,10
 2020-03-23,Suba,20.0,11
@@ -137,7 +136,7 @@ fecha,localidad,casos,codigo
 2020-03-24,La Candelaria,2.0,17
 2020-03-24,Puente Aranda,4.0,16
 2020-03-24,Kennedy,8.0,8
-2020-03-24,Teusaquillo,13.0,13
+2020-03-24,Teusaquillo,12.0,13
 2020-03-24,Fontibón,17.0,9
 2020-03-24,Engativá,24.0,10
 2020-03-24,Suba,27.0,11
@@ -154,7 +153,7 @@ fecha,localidad,casos,codigo
 2020-03-25,Barrios Unidos,3.0,12
 2020-03-25,Puente Aranda,4.0,16
 2020-03-25,Kennedy,8.0,8
-2020-03-25,Teusaquillo,13.0,13
+2020-03-25,Teusaquillo,12.0,13
 2020-03-25,Fontibón,20.0,9
 2020-03-25,Engativá,26.0,10
 2020-03-25,Suba,30.0,11
@@ -171,7 +170,7 @@ fecha,localidad,casos,codigo
 2020-03-26,Santa Fe,5.0,3
 2020-03-26,Puente Aranda,6.0,16
 2020-03-26,Bosa,7.0,7
-2020-03-26,Teusaquillo,16.0,13
+2020-03-26,Teusaquillo,15.0,13
 2020-03-26,Kennedy,19.0,8
 2020-03-26,Fontibón,26.0,9
 2020-03-26,Engativá,37.0,10
@@ -189,7 +188,7 @@ fecha,localidad,casos,codigo
 2020-03-27,Barrios Unidos,6.0,12
 2020-03-27,Puente Aranda,7.0,16
 2020-03-27,Bosa,7.0,7
-2020-03-27,Teusaquillo,16.0,13
+2020-03-27,Teusaquillo,15.0,13
 2020-03-27,Kennedy,24.0,8
 2020-03-27,Fontibón,26.0,9
 2020-03-27,Chapinero,40.0,2
@@ -208,7 +207,7 @@ fecha,localidad,casos,codigo
 2020-03-28,Barrios Unidos,6.0,12
 2020-03-28,Bosa,7.0,7
 2020-03-28,Puente Aranda,8.0,16
-2020-03-28,Teusaquillo,21.0,13
+2020-03-28,Teusaquillo,20.0,13
 2020-03-28,Fontibón,31.0,9
 2020-03-28,Kennedy,32.0,8
 2020-03-28,Chapinero,42.0,2
@@ -227,7 +226,7 @@ fecha,localidad,casos,codigo
 2020-03-29,Tunjuelito,6.0,6
 2020-03-29,Puente Aranda,9.0,16
 2020-03-29,Bosa,9.0,7
-2020-03-29,Teusaquillo,22.0,13
+2020-03-29,Teusaquillo,21.0,13
 2020-03-29,Fontibón,32.0,9
 2020-03-29,Kennedy,35.0,8
 2020-03-29,Chapinero,44.0,2
@@ -246,7 +245,7 @@ fecha,localidad,casos,codigo
 2020-03-30,Ciudad Bolívar,8.0,19
 2020-03-30,Puente Aranda,12.0,16
 2020-03-30,Bosa,12.0,7
-2020-03-30,Teusaquillo,25.0,13
+2020-03-30,Teusaquillo,24.0,13
 2020-03-30,Fontibón,34.0,9
 2020-03-30,Kennedy,37.0,8
 2020-03-30,Chapinero,50.0,2
@@ -265,7 +264,7 @@ fecha,localidad,casos,codigo
 2020-03-31,Ciudad Bolívar,8.0,19
 2020-03-31,Puente Aranda,12.0,16
 2020-03-31,Bosa,14.0,7
-2020-03-31,Teusaquillo,27.0,13
+2020-03-31,Teusaquillo,26.0,13
 2020-03-31,Fontibón,37.0,9
 2020-03-31,Kennedy,39.0,8
 2020-03-31,Chapinero,51.0,2
@@ -284,7 +283,7 @@ fecha,localidad,casos,codigo
 2020-04-01,Ciudad Bolívar,8.0,19
 2020-04-01,Puente Aranda,12.0,16
 2020-04-01,Bosa,15.0,7
-2020-04-01,Teusaquillo,28.0,13
+2020-04-01,Teusaquillo,27.0,13
 2020-04-01,Fontibón,37.0,9
 2020-04-01,Kennedy,44.0,8
 2020-04-01,Chapinero,53.0,2
@@ -303,7 +302,7 @@ fecha,localidad,casos,codigo
 2020-04-02,Rafael Uribe Uribe,11.0,18
 2020-04-02,Puente Aranda,17.0,16
 2020-04-02,Bosa,21.0,7
-2020-04-02,Teusaquillo,34.0,13
+2020-04-02,Teusaquillo,33.0,13
 2020-04-02,Fontibón,41.0,9
 2020-04-02,Chapinero,55.0,2
 2020-04-02,Kennedy,58.0,8
@@ -322,7 +321,7 @@ fecha,localidad,casos,codigo
 2020-04-03,Barrios Unidos,14.0,12
 2020-04-03,Puente Aranda,20.0,16
 2020-04-03,Bosa,29.0,7
-2020-04-03,Teusaquillo,42.0,13
+2020-04-03,Teusaquillo,41.0,13
 2020-04-03,Fontibón,48.0,9
 2020-04-03,Chapinero,70.0,2
 2020-04-03,Kennedy,72.0,8
@@ -341,7 +340,7 @@ fecha,localidad,casos,codigo
 2020-04-04,Rafael Uribe Uribe,19.0,18
 2020-04-04,Puente Aranda,23.0,16
 2020-04-04,Bosa,37.0,7
-2020-04-04,Teusaquillo,44.0,13
+2020-04-04,Teusaquillo,43.0,13
 2020-04-04,Fontibón,55.0,9
 2020-04-04,Chapinero,73.0,2
 2020-04-04,Kennedy,83.0,8
@@ -360,7 +359,7 @@ fecha,localidad,casos,codigo
 2020-04-05,Rafael Uribe Uribe,19.0,18
 2020-04-05,Puente Aranda,23.0,16
 2020-04-05,Bosa,38.0,7
-2020-04-05,Teusaquillo,45.0,13
+2020-04-05,Teusaquillo,44.0,13
 2020-04-05,Fontibón,55.0,9
 2020-04-05,Chapinero,74.0,2
 2020-04-05,Kennedy,84.0,8
@@ -379,7 +378,7 @@ fecha,localidad,casos,codigo
 2020-04-06,Ciudad Bolívar,25.0,19
 2020-04-06,Puente Aranda,27.0,16
 2020-04-06,Bosa,46.0,7
-2020-04-06,Teusaquillo,52.0,13
+2020-04-06,Teusaquillo,51.0,13
 2020-04-06,Fontibón,64.0,9
 2020-04-06,Chapinero,80.0,2
 2020-04-06,Kennedy,99.0,8
@@ -397,8 +396,8 @@ fecha,localidad,casos,codigo
 2020-04-07,Rafael Uribe Uribe,24.0,18
 2020-04-07,Ciudad Bolívar,26.0,19
 2020-04-07,Puente Aranda,31.0,16
+2020-04-07,Teusaquillo,51.0,13
 2020-04-07,Bosa,51.0,7
-2020-04-07,Teusaquillo,52.0,13
 2020-04-07,Fontibón,71.0,9
 2020-04-07,Chapinero,82.0,2
 2020-04-07,Kennedy,111.0,8
@@ -416,7 +415,7 @@ fecha,localidad,casos,codigo
 2020-04-08,Rafael Uribe Uribe,26.0,18
 2020-04-08,Puente Aranda,33.0,16
 2020-04-08,Ciudad Bolívar,44.0,19
-2020-04-08,Teusaquillo,56.0,13
+2020-04-08,Teusaquillo,55.0,13
 2020-04-08,Bosa,56.0,7
 2020-04-08,Fontibón,72.0,9
 2020-04-08,Chapinero,84.0,2
@@ -435,7 +434,7 @@ fecha,localidad,casos,codigo
 2020-04-09,Rafael Uribe Uribe,26.0,18
 2020-04-09,Puente Aranda,36.0,16
 2020-04-09,Ciudad Bolívar,46.0,19
-2020-04-09,Teusaquillo,60.0,13
+2020-04-09,Teusaquillo,59.0,13
 2020-04-09,Bosa,61.0,7
 2020-04-09,Fontibón,76.0,9
 2020-04-09,Chapinero,85.0,2
@@ -454,7 +453,7 @@ fecha,localidad,casos,codigo
 2020-04-10,Rafael Uribe Uribe,27.0,18
 2020-04-10,Puente Aranda,37.0,16
 2020-04-10,Ciudad Bolívar,49.0,19
-2020-04-10,Teusaquillo,61.0,13
+2020-04-10,Teusaquillo,60.0,13
 2020-04-10,Bosa,63.0,7
 2020-04-10,Fontibón,78.0,9
 2020-04-10,Chapinero,86.0,2
@@ -474,7 +473,7 @@ fecha,localidad,casos,codigo
 2020-04-11,Rafael Uribe Uribe,27.0,18
 2020-04-11,Puente Aranda,37.0,16
 2020-04-11,Ciudad Bolívar,49.0,19
-2020-04-11,Teusaquillo,61.0,13
+2020-04-11,Teusaquillo,60.0,13
 2020-04-11,Bosa,63.0,7
 2020-04-11,Fontibón,78.0,9
 2020-04-11,Chapinero,86.0,2
@@ -494,7 +493,7 @@ fecha,localidad,casos,codigo
 2020-04-12,Tunjuelito,29.0,6
 2020-04-12,Puente Aranda,39.0,16
 2020-04-12,Ciudad Bolívar,53.0,19
-2020-04-12,Teusaquillo,63.0,13
+2020-04-12,Teusaquillo,62.0,13
 2020-04-12,Bosa,65.0,7
 2020-04-12,Fontibón,78.0,9
 2020-04-12,Chapinero,86.0,2
@@ -515,7 +514,7 @@ fecha,localidad,casos,codigo
 2020-04-13,Puente Aranda,42.0,16
 2020-04-13,Ciudad Bolívar,56.0,19
 2020-04-13,Bosa,68.0,7
-2020-04-13,Teusaquillo,70.0,13
+2020-04-13,Teusaquillo,69.0,13
 2020-04-13,Fontibón,81.0,9
 2020-04-13,Chapinero,88.0,2
 2020-04-13,Kennedy,155.0,8
@@ -534,7 +533,7 @@ fecha,localidad,casos,codigo
 2020-04-14,Rafael Uribe Uribe,33.0,18
 2020-04-14,Puente Aranda,45.0,16
 2020-04-14,Ciudad Bolívar,61.0,19
-2020-04-14,Teusaquillo,72.0,13
+2020-04-14,Teusaquillo,71.0,13
 2020-04-14,Bosa,72.0,7
 2020-04-14,Fontibón,82.0,9
 2020-04-14,Chapinero,88.0,2
@@ -554,7 +553,7 @@ fecha,localidad,casos,codigo
 2020-04-15,Tunjuelito,35.0,6
 2020-04-15,Puente Aranda,47.0,16
 2020-04-15,Ciudad Bolívar,64.0,19
-2020-04-15,Teusaquillo,73.0,13
+2020-04-15,Teusaquillo,72.0,13
 2020-04-15,Bosa,78.0,7
 2020-04-15,Fontibón,85.0,9
 2020-04-15,Chapinero,89.0,2
@@ -574,7 +573,7 @@ fecha,localidad,casos,codigo
 2020-04-16,Rafael Uribe Uribe,42.0,18
 2020-04-16,Puente Aranda,50.0,16
 2020-04-16,Ciudad Bolívar,69.0,19
-2020-04-16,Teusaquillo,76.0,13
+2020-04-16,Teusaquillo,75.0,13
 2020-04-16,Bosa,83.0,7
 2020-04-16,Fontibón,91.0,9
 2020-04-16,Chapinero,93.0,2
@@ -593,7 +592,7 @@ fecha,localidad,casos,codigo
 2020-04-17,Tunjuelito,37.0,6
 2020-04-17,Rafael Uribe Uribe,50.0,18
 2020-04-17,Puente Aranda,51.0,16
-2020-04-17,Teusaquillo,78.0,13
+2020-04-17,Teusaquillo,77.0,13
 2020-04-17,Ciudad Bolívar,81.0,19
 2020-04-17,Fontibón,95.0,9
 2020-04-17,Bosa,97.0,7
@@ -613,7 +612,7 @@ fecha,localidad,casos,codigo
 2020-04-18,Tunjuelito,40.0,6
 2020-04-18,Puente Aranda,55.0,16
 2020-04-18,Rafael Uribe Uribe,58.0,18
-2020-04-18,Teusaquillo,80.0,13
+2020-04-18,Teusaquillo,79.0,13
 2020-04-18,Ciudad Bolívar,92.0,19
 2020-04-18,Fontibón,103.0,9
 2020-04-18,Bosa,103.0,7
@@ -633,7 +632,7 @@ fecha,localidad,casos,codigo
 2020-04-19,San Cristóbal,43.0,4
 2020-04-19,Puente Aranda,57.0,16
 2020-04-19,Rafael Uribe Uribe,65.0,18
-2020-04-19,Teusaquillo,86.0,13
+2020-04-19,Teusaquillo,85.0,13
 2020-04-19,Ciudad Bolívar,100.0,19
 2020-04-19,Fontibón,106.0,9
 2020-04-19,Bosa,107.0,7
@@ -653,7 +652,7 @@ fecha,localidad,casos,codigo
 2020-04-20,Tunjuelito,47.0,6
 2020-04-20,Puente Aranda,61.0,16
 2020-04-20,Rafael Uribe Uribe,70.0,18
-2020-04-20,Teusaquillo,87.0,13
+2020-04-20,Teusaquillo,86.0,13
 2020-04-20,Ciudad Bolívar,105.0,19
 2020-04-20,Fontibón,109.0,9
 2020-04-20,Chapinero,112.0,2
@@ -673,7 +672,7 @@ fecha,localidad,casos,codigo
 2020-04-21,Tunjuelito,47.0,6
 2020-04-21,Puente Aranda,62.0,16
 2020-04-21,Rafael Uribe Uribe,71.0,18
-2020-04-21,Teusaquillo,92.0,13
+2020-04-21,Teusaquillo,91.0,13
 2020-04-21,Ciudad Bolívar,108.0,19
 2020-04-21,Fontibón,109.0,9
 2020-04-21,Chapinero,115.0,2
@@ -693,7 +692,7 @@ fecha,localidad,casos,codigo
 2020-04-22,San Cristóbal,48.0,4
 2020-04-22,Puente Aranda,69.0,16
 2020-04-22,Rafael Uribe Uribe,74.0,18
-2020-04-22,Teusaquillo,95.0,13
+2020-04-22,Teusaquillo,94.0,13
 2020-04-22,Ciudad Bolívar,108.0,19
 2020-04-22,Fontibón,110.0,9
 2020-04-22,Chapinero,116.0,2
@@ -713,7 +712,7 @@ fecha,localidad,casos,codigo
 2020-04-23,San Cristóbal,53.0,4
 2020-04-23,Puente Aranda,75.0,16
 2020-04-23,Rafael Uribe Uribe,76.0,18
-2020-04-23,Teusaquillo,97.0,13
+2020-04-23,Teusaquillo,96.0,13
 2020-04-23,Ciudad Bolívar,114.0,19
 2020-04-23,Fontibón,115.0,9
 2020-04-23,Chapinero,116.0,2
@@ -733,7 +732,7 @@ fecha,localidad,casos,codigo
 2020-04-24,San Cristóbal,57.0,4
 2020-04-24,Rafael Uribe Uribe,76.0,18
 2020-04-24,Puente Aranda,84.0,16
-2020-04-24,Teusaquillo,99.0,13
+2020-04-24,Teusaquillo,98.0,13
 2020-04-24,Chapinero,117.0,2
 2020-04-24,Fontibón,119.0,9
 2020-04-24,Ciudad Bolívar,119.0,19
@@ -753,7 +752,7 @@ fecha,localidad,casos,codigo
 2020-04-25,San Cristóbal,63.0,4
 2020-04-25,Rafael Uribe Uribe,80.0,18
 2020-04-25,Puente Aranda,90.0,16
-2020-04-25,Teusaquillo,102.0,13
+2020-04-25,Teusaquillo,101.0,13
 2020-04-25,Chapinero,117.0,2
 2020-04-25,Ciudad Bolívar,121.0,19
 2020-04-25,Fontibón,123.0,9
@@ -773,7 +772,7 @@ fecha,localidad,casos,codigo
 2020-04-26,San Cristóbal,75.0,4
 2020-04-26,Rafael Uribe Uribe,85.0,18
 2020-04-26,Puente Aranda,91.0,16
-2020-04-26,Teusaquillo,105.0,13
+2020-04-26,Teusaquillo,104.0,13
 2020-04-26,Chapinero,121.0,2
 2020-04-26,Fontibón,129.0,9
 2020-04-26,Ciudad Bolívar,133.0,19
@@ -793,7 +792,7 @@ fecha,localidad,casos,codigo
 2020-04-27,San Cristóbal,76.0,4
 2020-04-27,Rafael Uribe Uribe,91.0,18
 2020-04-27,Puente Aranda,98.0,16
-2020-04-27,Teusaquillo,107.0,13
+2020-04-27,Teusaquillo,106.0,13
 2020-04-27,Chapinero,122.0,2
 2020-04-27,Fontibón,135.0,9
 2020-04-27,Ciudad Bolívar,139.0,19
@@ -813,7 +812,7 @@ fecha,localidad,casos,codigo
 2020-04-28,San Cristóbal,83.0,4
 2020-04-28,Rafael Uribe Uribe,92.0,18
 2020-04-28,Puente Aranda,100.0,16
-2020-04-28,Teusaquillo,110.0,13
+2020-04-28,Teusaquillo,109.0,13
 2020-04-28,Chapinero,125.0,2
 2020-04-28,Fontibón,142.0,9
 2020-04-28,Ciudad Bolívar,144.0,19
@@ -833,7 +832,7 @@ fecha,localidad,casos,codigo
 2020-04-29,San Cristóbal,85.0,4
 2020-04-29,Rafael Uribe Uribe,97.0,18
 2020-04-29,Puente Aranda,106.0,16
-2020-04-29,Teusaquillo,111.0,13
+2020-04-29,Teusaquillo,110.0,13
 2020-04-29,Chapinero,126.0,2
 2020-04-29,Fontibón,145.0,9
 2020-04-29,Ciudad Bolívar,145.0,19
@@ -852,7 +851,7 @@ fecha,localidad,casos,codigo
 2020-04-30,Usme,69.0,5
 2020-04-30,San Cristóbal,89.0,4
 2020-04-30,Rafael Uribe Uribe,105.0,18
-2020-04-30,Teusaquillo,113.0,13
+2020-04-30,Teusaquillo,112.0,13
 2020-04-30,Puente Aranda,115.0,16
 2020-04-30,Chapinero,127.0,2
 2020-04-30,Fontibón,152.0,9
@@ -872,7 +871,7 @@ fecha,localidad,casos,codigo
 2020-05-01,Usme,72.0,5
 2020-05-01,San Cristóbal,94.0,4
 2020-05-01,Rafael Uribe Uribe,107.0,18
-2020-05-01,Teusaquillo,115.0,13
+2020-05-01,Teusaquillo,114.0,13
 2020-05-01,Chapinero,129.0,2
 2020-05-01,Puente Aranda,136.0,16
 2020-05-01,Fontibón,156.0,9
@@ -892,7 +891,7 @@ fecha,localidad,casos,codigo
 2020-05-02,Usme,75.0,5
 2020-05-02,San Cristóbal,101.0,4
 2020-05-02,Rafael Uribe Uribe,110.0,18
-2020-05-02,Teusaquillo,116.0,13
+2020-05-02,Teusaquillo,115.0,13
 2020-05-02,Chapinero,129.0,2
 2020-05-02,Puente Aranda,144.0,16
 2020-05-02,Fontibón,160.0,9
@@ -911,7 +910,7 @@ fecha,localidad,casos,codigo
 2020-05-03,Barrios Unidos,71.0,12
 2020-05-03,Usme,78.0,5
 2020-05-03,San Cristóbal,109.0,4
-2020-05-03,Teusaquillo,116.0,13
+2020-05-03,Teusaquillo,115.0,13
 2020-05-03,Rafael Uribe Uribe,120.0,18
 2020-05-03,Chapinero,129.0,2
 2020-05-03,Puente Aranda,148.0,16
@@ -931,7 +930,7 @@ fecha,localidad,casos,codigo
 2020-05-04,Barrios Unidos,74.0,12
 2020-05-04,Usme,82.0,5
 2020-05-04,San Cristóbal,112.0,4
-2020-05-04,Teusaquillo,116.0,13
+2020-05-04,Teusaquillo,115.0,13
 2020-05-04,Rafael Uribe Uribe,125.0,18
 2020-05-04,Chapinero,129.0,2
 2020-05-04,Puente Aranda,154.0,16
@@ -950,7 +949,7 @@ fecha,localidad,casos,codigo
 2020-05-05,Barrios Unidos,75.0,12
 2020-05-05,Tunjuelito,76.0,6
 2020-05-05,Usme,106.0,5
-2020-05-05,Teusaquillo,117.0,13
+2020-05-05,Teusaquillo,116.0,13
 2020-05-05,San Cristóbal,121.0,4
 2020-05-05,Chapinero,136.0,2
 2020-05-05,Rafael Uribe Uribe,152.0,18
@@ -970,7 +969,7 @@ fecha,localidad,casos,codigo
 2020-05-06,Barrios Unidos,76.0,12
 2020-05-06,Tunjuelito,77.0,6
 2020-05-06,Usme,109.0,5
-2020-05-06,Teusaquillo,117.0,13
+2020-05-06,Teusaquillo,116.0,13
 2020-05-06,San Cristóbal,126.0,4
 2020-05-06,Chapinero,136.0,2
 2020-05-06,Rafael Uribe Uribe,155.0,18
@@ -990,7 +989,7 @@ fecha,localidad,casos,codigo
 2020-05-07,Barrios Unidos,76.0,12
 2020-05-07,Tunjuelito,85.0,6
 2020-05-07,Usme,120.0,5
-2020-05-07,Teusaquillo,122.0,13
+2020-05-07,Teusaquillo,121.0,13
 2020-05-07,Chapinero,138.0,2
 2020-05-07,San Cristóbal,154.0,4
 2020-05-07,Rafael Uribe Uribe,168.0,18
@@ -1009,7 +1008,7 @@ fecha,localidad,casos,codigo
 2020-05-08,Los Mártires,56.0,14
 2020-05-08,Barrios Unidos,81.0,12
 2020-05-08,Tunjuelito,87.0,6
-2020-05-08,Teusaquillo,122.0,13
+2020-05-08,Teusaquillo,121.0,13
 2020-05-08,Usme,128.0,5
 2020-05-08,Chapinero,139.0,2
 2020-05-08,San Cristóbal,163.0,4
@@ -1029,7 +1028,7 @@ fecha,localidad,casos,codigo
 2020-05-09,Antonio Nariño,66.0,15
 2020-05-09,Barrios Unidos,81.0,12
 2020-05-09,Tunjuelito,88.0,6
-2020-05-09,Teusaquillo,126.0,13
+2020-05-09,Teusaquillo,125.0,13
 2020-05-09,Usme,137.0,5
 2020-05-09,Chapinero,141.0,2
 2020-05-09,San Cristóbal,165.0,4
@@ -1049,7 +1048,7 @@ fecha,localidad,casos,codigo
 2020-05-10,Barrios Unidos,84.0,12
 2020-05-10,Antonio Nariño,86.0,15
 2020-05-10,Tunjuelito,91.0,6
-2020-05-10,Teusaquillo,134.0,13
+2020-05-10,Teusaquillo,133.0,13
 2020-05-10,Chapinero,141.0,2
 2020-05-10,Usme,146.0,5
 2020-05-10,San Cristóbal,168.0,4
@@ -1069,7 +1068,7 @@ fecha,localidad,casos,codigo
 2020-05-11,Barrios Unidos,88.0,12
 2020-05-11,Antonio Nariño,88.0,15
 2020-05-11,Tunjuelito,102.0,6
-2020-05-11,Teusaquillo,137.0,13
+2020-05-11,Teusaquillo,136.0,13
 2020-05-11,Chapinero,142.0,2
 2020-05-11,Usme,156.0,5
 2020-05-11,San Cristóbal,179.0,4
@@ -1089,7 +1088,7 @@ fecha,localidad,casos,codigo
 2020-05-12,Antonio Nariño,89.0,15
 2020-05-12,Barrios Unidos,90.0,12
 2020-05-12,Tunjuelito,106.0,6
-2020-05-12,Teusaquillo,139.0,13
+2020-05-12,Teusaquillo,138.0,13
 2020-05-12,Chapinero,143.0,2
 2020-05-12,Usme,160.0,5
 2020-05-12,San Cristóbal,184.0,4
@@ -1109,7 +1108,7 @@ fecha,localidad,casos,codigo
 2020-05-13,Antonio Nariño,90.0,15
 2020-05-13,Barrios Unidos,91.0,12
 2020-05-13,Tunjuelito,108.0,6
-2020-05-13,Teusaquillo,139.0,13
+2020-05-13,Teusaquillo,138.0,13
 2020-05-13,Chapinero,144.0,2
 2020-05-13,Usme,163.0,5
 2020-05-13,San Cristóbal,191.0,4
@@ -1129,7 +1128,7 @@ fecha,localidad,casos,codigo
 2020-05-14,Antonio Nariño,92.0,15
 2020-05-14,Barrios Unidos,93.0,12
 2020-05-14,Tunjuelito,110.0,6
-2020-05-14,Teusaquillo,141.0,13
+2020-05-14,Teusaquillo,140.0,13
 2020-05-14,Chapinero,147.0,2
 2020-05-14,Usme,171.0,5
 2020-05-14,San Cristóbal,199.0,4
@@ -1149,7 +1148,7 @@ fecha,localidad,casos,codigo
 2020-05-15,Barrios Unidos,96.0,12
 2020-05-15,Antonio Nariño,96.0,15
 2020-05-15,Tunjuelito,118.0,6
-2020-05-15,Teusaquillo,142.0,13
+2020-05-15,Teusaquillo,141.0,13
 2020-05-15,Chapinero,151.0,2
 2020-05-15,Usme,189.0,5
 2020-05-15,San Cristóbal,215.0,4
@@ -1169,7 +1168,7 @@ fecha,localidad,casos,codigo
 2020-05-16,Antonio Nariño,96.0,15
 2020-05-16,Barrios Unidos,97.0,12
 2020-05-16,Tunjuelito,121.0,6
-2020-05-16,Teusaquillo,143.0,13
+2020-05-16,Teusaquillo,142.0,13
 2020-05-16,Chapinero,151.0,2
 2020-05-16,Usme,199.0,5
 2020-05-16,San Cristóbal,221.0,4
@@ -1189,7 +1188,7 @@ fecha,localidad,casos,codigo
 2020-05-17,Barrios Unidos,98.0,12
 2020-05-17,Antonio Nariño,100.0,15
 2020-05-17,Tunjuelito,123.0,6
-2020-05-17,Teusaquillo,145.0,13
+2020-05-17,Teusaquillo,144.0,13
 2020-05-17,Chapinero,153.0,2
 2020-05-17,Usme,206.0,5
 2020-05-17,San Cristóbal,234.0,4
@@ -1209,7 +1208,7 @@ fecha,localidad,casos,codigo
 2020-05-18,Barrios Unidos,98.0,12
 2020-05-18,Antonio Nariño,102.0,15
 2020-05-18,Tunjuelito,125.0,6
-2020-05-18,Teusaquillo,148.0,13
+2020-05-18,Teusaquillo,147.0,13
 2020-05-18,Chapinero,154.0,2
 2020-05-18,Usme,210.0,5
 2020-05-18,San Cristóbal,238.0,4
@@ -1229,7 +1228,7 @@ fecha,localidad,casos,codigo
 2020-05-19,Antonio Nariño,105.0,15
 2020-05-19,Barrios Unidos,107.0,12
 2020-05-19,Tunjuelito,130.0,6
-2020-05-19,Teusaquillo,153.0,13
+2020-05-19,Teusaquillo,152.0,13
 2020-05-19,Chapinero,158.0,2
 2020-05-19,Usme,222.0,5
 2020-05-19,Puente Aranda,252.0,16
@@ -1249,7 +1248,7 @@ fecha,localidad,casos,codigo
 2020-05-20,Antonio Nariño,106.0,15
 2020-05-20,Barrios Unidos,113.0,12
 2020-05-20,Tunjuelito,137.0,6
-2020-05-20,Teusaquillo,158.0,13
+2020-05-20,Teusaquillo,157.0,13
 2020-05-20,Chapinero,159.0,2
 2020-05-20,Usme,233.0,5
 2020-05-20,Puente Aranda,257.0,16
@@ -1270,7 +1269,7 @@ fecha,localidad,casos,codigo
 2020-05-21,Barrios Unidos,118.0,12
 2020-05-21,Tunjuelito,140.0,6
 2020-05-21,Chapinero,160.0,2
-2020-05-21,Teusaquillo,164.0,13
+2020-05-21,Teusaquillo,163.0,13
 2020-05-21,Usme,236.0,5
 2020-05-21,Puente Aranda,262.0,16
 2020-05-21,Rafael Uribe Uribe,275.0,18
@@ -1290,7 +1289,7 @@ fecha,localidad,casos,codigo
 2020-05-22,Barrios Unidos,122.0,12
 2020-05-22,Tunjuelito,146.0,6
 2020-05-22,Chapinero,163.0,2
-2020-05-22,Teusaquillo,172.0,13
+2020-05-22,Teusaquillo,171.0,13
 2020-05-22,Usme,244.0,5
 2020-05-22,Puente Aranda,276.0,16
 2020-05-22,San Cristóbal,299.0,4
@@ -1310,7 +1309,7 @@ fecha,localidad,casos,codigo
 2020-05-23,Barrios Unidos,124.0,12
 2020-05-23,Tunjuelito,155.0,6
 2020-05-23,Chapinero,167.0,2
-2020-05-23,Teusaquillo,176.0,13
+2020-05-23,Teusaquillo,175.0,13
 2020-05-23,Usme,258.0,5
 2020-05-23,Puente Aranda,279.0,16
 2020-05-23,San Cristóbal,312.0,4
@@ -1330,7 +1329,7 @@ fecha,localidad,casos,codigo
 2020-05-24,Barrios Unidos,127.0,12
 2020-05-24,Tunjuelito,158.0,6
 2020-05-24,Chapinero,169.0,2
-2020-05-24,Teusaquillo,178.0,13
+2020-05-24,Teusaquillo,177.0,13
 2020-05-24,Usme,264.0,5
 2020-05-24,Puente Aranda,286.0,16
 2020-05-24,San Cristóbal,314.0,4
@@ -1350,7 +1349,7 @@ fecha,localidad,casos,codigo
 2020-05-25,Tunjuelito,166.0,6
 2020-05-25,Antonio Nariño,166.0,15
 2020-05-25,Chapinero,173.0,2
-2020-05-25,Teusaquillo,184.0,13
+2020-05-25,Teusaquillo,183.0,13
 2020-05-25,Usme,277.0,5
 2020-05-25,Puente Aranda,305.0,16
 2020-05-25,San Cristóbal,331.0,4
@@ -1370,7 +1369,7 @@ fecha,localidad,casos,codigo
 2020-05-26,Tunjuelito,172.0,6
 2020-05-26,Antonio Nariño,174.0,15
 2020-05-26,Chapinero,175.0,2
-2020-05-26,Teusaquillo,191.0,13
+2020-05-26,Teusaquillo,190.0,13
 2020-05-26,Usme,282.0,5
 2020-05-26,Puente Aranda,316.0,16
 2020-05-26,San Cristóbal,337.0,4
@@ -1390,7 +1389,7 @@ fecha,localidad,casos,codigo
 2020-05-27,Antonio Nariño,177.0,15
 2020-05-27,Tunjuelito,180.0,6
 2020-05-27,Chapinero,183.0,2
-2020-05-27,Teusaquillo,198.0,13
+2020-05-27,Teusaquillo,197.0,13
 2020-05-27,Usme,298.0,5
 2020-05-27,Puente Aranda,331.0,16
 2020-05-27,San Cristóbal,362.0,4
@@ -1409,7 +1408,7 @@ fecha,localidad,casos,codigo
 2020-05-28,Antonio Nariño,181.0,15
 2020-05-28,Chapinero,190.0,2
 2020-05-28,Tunjuelito,191.0,6
-2020-05-28,Teusaquillo,201.0,13
+2020-05-28,Teusaquillo,200.0,13
 2020-05-28,Los Mártires,275.0,14
 2020-05-28,Usme,319.0,5
 2020-05-28,Puente Aranda,348.0,16
@@ -1429,7 +1428,7 @@ fecha,localidad,casos,codigo
 2020-05-29,Antonio Nariño,184.0,15
 2020-05-29,Chapinero,197.0,2
 2020-05-29,Tunjuelito,201.0,6
-2020-05-29,Teusaquillo,206.0,13
+2020-05-29,Teusaquillo,205.0,13
 2020-05-29,Los Mártires,298.0,14
 2020-05-29,Usme,343.0,5
 2020-05-29,Puente Aranda,358.0,16
@@ -1449,7 +1448,7 @@ fecha,localidad,casos,codigo
 2020-05-30,Antonio Nariño,187.0,15
 2020-05-30,Chapinero,202.0,2
 2020-05-30,Tunjuelito,205.0,6
-2020-05-30,Teusaquillo,214.0,13
+2020-05-30,Teusaquillo,213.0,13
 2020-05-30,Los Mártires,307.0,14
 2020-05-30,Usme,353.0,5
 2020-05-30,Puente Aranda,374.0,16
@@ -1468,7 +1467,7 @@ fecha,localidad,casos,codigo
 2020-05-31,Santa Fe,162.0,3
 2020-05-31,Antonio Nariño,193.0,15
 2020-05-31,Tunjuelito,215.0,6
-2020-05-31,Teusaquillo,222.0,13
+2020-05-31,Teusaquillo,221.0,13
 2020-05-31,Chapinero,236.0,2
 2020-05-31,Los Mártires,329.0,14
 2020-05-31,Usme,360.0,5
@@ -1488,7 +1487,7 @@ fecha,localidad,casos,codigo
 2020-06-01,Santa Fe,170.0,3
 2020-06-01,Antonio Nariño,194.0,15
 2020-06-01,Tunjuelito,217.0,6
-2020-06-01,Teusaquillo,227.0,13
+2020-06-01,Teusaquillo,226.0,13
 2020-06-01,Chapinero,250.0,2
 2020-06-01,Los Mártires,339.0,14
 2020-06-01,Usme,366.0,5
@@ -1508,7 +1507,7 @@ fecha,localidad,casos,codigo
 2020-06-02,Santa Fe,182.0,3
 2020-06-02,Antonio Nariño,202.0,15
 2020-06-02,Tunjuelito,226.0,6
-2020-06-02,Teusaquillo,233.0,13
+2020-06-02,Teusaquillo,232.0,13
 2020-06-02,Chapinero,261.0,2
 2020-06-02,Los Mártires,361.0,14
 2020-06-02,Usme,380.0,5
@@ -1527,7 +1526,7 @@ fecha,localidad,casos,codigo
 2020-06-03,Barrios Unidos,176.0,12
 2020-06-03,Santa Fe,193.0,3
 2020-06-03,Antonio Nariño,210.0,15
-2020-06-03,Teusaquillo,236.0,13
+2020-06-03,Teusaquillo,235.0,13
 2020-06-03,Tunjuelito,243.0,6
 2020-06-03,Chapinero,272.0,2
 2020-06-03,Los Mártires,369.0,14
@@ -1547,7 +1546,7 @@ fecha,localidad,casos,codigo
 2020-06-04,Barrios Unidos,180.0,12
 2020-06-04,Santa Fe,205.0,3
 2020-06-04,Antonio Nariño,214.0,15
-2020-06-04,Teusaquillo,246.0,13
+2020-06-04,Teusaquillo,245.0,13
 2020-06-04,Tunjuelito,254.0,6
 2020-06-04,Chapinero,275.0,2
 2020-06-04,Los Mártires,377.0,14
@@ -1567,7 +1566,7 @@ fecha,localidad,casos,codigo
 2020-06-05,Barrios Unidos,186.0,12
 2020-06-05,Santa Fe,214.0,3
 2020-06-05,Antonio Nariño,222.0,15
-2020-06-05,Teusaquillo,248.0,13
+2020-06-05,Teusaquillo,247.0,13
 2020-06-05,Tunjuelito,260.0,6
 2020-06-05,Chapinero,277.0,2
 2020-06-05,Los Mártires,383.0,14
@@ -1587,7 +1586,7 @@ fecha,localidad,casos,codigo
 2020-06-06,Barrios Unidos,188.0,12
 2020-06-06,Santa Fe,217.0,3
 2020-06-06,Antonio Nariño,226.0,15
-2020-06-06,Teusaquillo,252.0,13
+2020-06-06,Teusaquillo,251.0,13
 2020-06-06,Tunjuelito,266.0,6
 2020-06-06,Chapinero,281.0,2
 2020-06-06,Los Mártires,391.0,14
@@ -1607,7 +1606,7 @@ fecha,localidad,casos,codigo
 2020-06-07,Barrios Unidos,194.0,12
 2020-06-07,Santa Fe,226.0,3
 2020-06-07,Antonio Nariño,232.0,15
-2020-06-07,Teusaquillo,260.0,13
+2020-06-07,Teusaquillo,259.0,13
 2020-06-07,Tunjuelito,274.0,6
 2020-06-07,Chapinero,285.0,2
 2020-06-07,Los Mártires,405.0,14
@@ -1627,7 +1626,7 @@ fecha,localidad,casos,codigo
 2020-06-08,Barrios Unidos,200.0,12
 2020-06-08,Santa Fe,231.0,3
 2020-06-08,Antonio Nariño,234.0,15
-2020-06-08,Teusaquillo,267.0,13
+2020-06-08,Teusaquillo,266.0,13
 2020-06-08,Tunjuelito,283.0,6
 2020-06-08,Chapinero,291.0,2
 2020-06-08,Los Mártires,411.0,14
@@ -1647,7 +1646,7 @@ fecha,localidad,casos,codigo
 2020-06-09,Barrios Unidos,210.0,12
 2020-06-09,Antonio Nariño,240.0,15
 2020-06-09,Santa Fe,241.0,3
-2020-06-09,Teusaquillo,272.0,13
+2020-06-09,Teusaquillo,271.0,13
 2020-06-09,Tunjuelito,299.0,6
 2020-06-09,Chapinero,301.0,2
 2020-06-09,Los Mártires,426.0,14
@@ -1667,7 +1666,7 @@ fecha,localidad,casos,codigo
 2020-06-10,Barrios Unidos,217.0,12
 2020-06-10,Antonio Nariño,248.0,15
 2020-06-10,Santa Fe,250.0,3
-2020-06-10,Teusaquillo,276.0,13
+2020-06-10,Teusaquillo,275.0,13
 2020-06-10,Tunjuelito,305.0,6
 2020-06-10,Chapinero,311.0,2
 2020-06-10,Los Mártires,433.0,14
@@ -1687,7 +1686,7 @@ fecha,localidad,casos,codigo
 2020-06-11,Barrios Unidos,222.0,12
 2020-06-11,Antonio Nariño,249.0,15
 2020-06-11,Santa Fe,254.0,3
-2020-06-11,Teusaquillo,279.0,13
+2020-06-11,Teusaquillo,278.0,13
 2020-06-11,Tunjuelito,313.0,6
 2020-06-11,Chapinero,318.0,2
 2020-06-11,Los Mártires,440.0,14
@@ -1707,7 +1706,7 @@ fecha,localidad,casos,codigo
 2020-06-12,Barrios Unidos,227.0,12
 2020-06-12,Santa Fe,256.0,3
 2020-06-12,Antonio Nariño,257.0,15
-2020-06-12,Teusaquillo,289.0,13
+2020-06-12,Teusaquillo,288.0,13
 2020-06-12,Tunjuelito,317.0,6
 2020-06-12,Chapinero,330.0,2
 2020-06-12,Los Mártires,447.0,14
@@ -1727,7 +1726,7 @@ fecha,localidad,casos,codigo
 2020-06-13,Barrios Unidos,235.0,12
 2020-06-13,Antonio Nariño,260.0,15
 2020-06-13,Santa Fe,268.0,3
-2020-06-13,Teusaquillo,294.0,13
+2020-06-13,Teusaquillo,293.0,13
 2020-06-13,Tunjuelito,327.0,6
 2020-06-13,Chapinero,347.0,2
 2020-06-13,Los Mártires,455.0,14
@@ -1747,7 +1746,7 @@ fecha,localidad,casos,codigo
 2020-06-14,Barrios Unidos,239.0,12
 2020-06-14,Antonio Nariño,264.0,15
 2020-06-14,Santa Fe,273.0,3
-2020-06-14,Teusaquillo,299.0,13
+2020-06-14,Teusaquillo,298.0,13
 2020-06-14,Tunjuelito,334.0,6
 2020-06-14,Chapinero,353.0,2
 2020-06-14,Los Mártires,465.0,14
@@ -1767,7 +1766,7 @@ fecha,localidad,casos,codigo
 2020-06-15,Barrios Unidos,244.0,12
 2020-06-15,Antonio Nariño,268.0,15
 2020-06-15,Santa Fe,279.0,3
-2020-06-15,Teusaquillo,310.0,13
+2020-06-15,Teusaquillo,309.0,13
 2020-06-15,Tunjuelito,349.0,6
 2020-06-15,Chapinero,362.0,2
 2020-06-15,Los Mártires,468.0,14
@@ -1787,7 +1786,7 @@ fecha,localidad,casos,codigo
 2020-06-16,Barrios Unidos,250.0,12
 2020-06-16,Antonio Nariño,274.0,15
 2020-06-16,Santa Fe,299.0,3
-2020-06-16,Teusaquillo,320.0,13
+2020-06-16,Teusaquillo,319.0,13
 2020-06-16,Tunjuelito,373.0,6
 2020-06-16,Chapinero,375.0,2
 2020-06-16,Los Mártires,489.0,14
@@ -1807,7 +1806,7 @@ fecha,localidad,casos,codigo
 2020-06-17,Barrios Unidos,259.0,12
 2020-06-17,Antonio Nariño,286.0,15
 2020-06-17,Santa Fe,309.0,3
-2020-06-17,Teusaquillo,333.0,13
+2020-06-17,Teusaquillo,332.0,13
 2020-06-17,Chapinero,391.0,2
 2020-06-17,Tunjuelito,391.0,6
 2020-06-17,Los Mártires,509.0,14
@@ -1827,7 +1826,7 @@ fecha,localidad,casos,codigo
 2020-06-18,Barrios Unidos,268.0,12
 2020-06-18,Santa Fe,325.0,3
 2020-06-18,Antonio Nariño,341.0,15
-2020-06-18,Teusaquillo,347.0,13
+2020-06-18,Teusaquillo,346.0,13
 2020-06-18,Chapinero,405.0,2
 2020-06-18,Tunjuelito,409.0,6
 2020-06-18,Los Mártires,527.0,14
@@ -1846,7 +1845,7 @@ fecha,localidad,casos,codigo
 2020-06-19,Fuera de Bogotá,207.0,99
 2020-06-19,Barrios Unidos,278.0,12
 2020-06-19,Santa Fe,338.0,3
-2020-06-19,Teusaquillo,365.0,13
+2020-06-19,Teusaquillo,364.0,13
 2020-06-19,Antonio Nariño,368.0,15
 2020-06-19,Chapinero,419.0,2
 2020-06-19,Tunjuelito,424.0,6
@@ -1866,7 +1865,7 @@ fecha,localidad,casos,codigo
 2020-06-20,Fuera de Bogotá,225.0,99
 2020-06-20,Barrios Unidos,291.0,12
 2020-06-20,Santa Fe,366.0,3
-2020-06-20,Teusaquillo,382.0,13
+2020-06-20,Teusaquillo,381.0,13
 2020-06-20,Antonio Nariño,389.0,15
 2020-06-20,Chapinero,436.0,2
 2020-06-20,Tunjuelito,453.0,6
@@ -1886,7 +1885,7 @@ fecha,localidad,casos,codigo
 2020-06-21,Fuera de Bogotá,228.0,99
 2020-06-21,Barrios Unidos,312.0,12
 2020-06-21,Santa Fe,390.0,3
-2020-06-21,Teusaquillo,395.0,13
+2020-06-21,Teusaquillo,394.0,13
 2020-06-21,Antonio Nariño,428.0,15
 2020-06-21,Chapinero,455.0,2
 2020-06-21,Tunjuelito,463.0,6
@@ -1906,7 +1905,7 @@ fecha,localidad,casos,codigo
 2020-06-22,Fuera de Bogotá,233.0,99
 2020-06-22,Barrios Unidos,325.0,12
 2020-06-22,Santa Fe,406.0,3
-2020-06-22,Teusaquillo,408.0,13
+2020-06-22,Teusaquillo,407.0,13
 2020-06-22,Antonio Nariño,438.0,15
 2020-06-22,Chapinero,478.0,2
 2020-06-22,Tunjuelito,527.0,6
@@ -1925,7 +1924,7 @@ fecha,localidad,casos,codigo
 2020-06-23,La Candelaria,163.0,17
 2020-06-23,Fuera de Bogotá,240.0,99
 2020-06-23,Barrios Unidos,335.0,12
-2020-06-23,Teusaquillo,421.0,13
+2020-06-23,Teusaquillo,420.0,13
 2020-06-23,Santa Fe,435.0,3
 2020-06-23,Antonio Nariño,449.0,15
 2020-06-23,Chapinero,501.0,2
@@ -1945,7 +1944,7 @@ fecha,localidad,casos,codigo
 2020-06-24,La Candelaria,167.0,17
 2020-06-24,Fuera de Bogotá,250.0,99
 2020-06-24,Barrios Unidos,358.0,12
-2020-06-24,Teusaquillo,451.0,13
+2020-06-24,Teusaquillo,450.0,13
 2020-06-24,Santa Fe,466.0,3
 2020-06-24,Antonio Nariño,484.0,15
 2020-06-24,Chapinero,522.0,2
@@ -1965,7 +1964,7 @@ fecha,localidad,casos,codigo
 2020-06-25,La Candelaria,169.0,17
 2020-06-25,Fuera de Bogotá,256.0,99
 2020-06-25,Barrios Unidos,372.0,12
-2020-06-25,Teusaquillo,465.0,13
+2020-06-25,Teusaquillo,464.0,13
 2020-06-25,Santa Fe,477.0,3
 2020-06-25,Antonio Nariño,501.0,15
 2020-06-25,Chapinero,540.0,2
@@ -1985,7 +1984,7 @@ fecha,localidad,casos,codigo
 2020-06-26,La Candelaria,172.0,17
 2020-06-26,Fuera de Bogotá,269.0,99
 2020-06-26,Barrios Unidos,385.0,12
-2020-06-26,Teusaquillo,479.0,13
+2020-06-26,Teusaquillo,478.0,13
 2020-06-26,Santa Fe,496.0,3
 2020-06-26,Antonio Nariño,520.0,15
 2020-06-26,Chapinero,556.0,2
@@ -2005,7 +2004,7 @@ fecha,localidad,casos,codigo
 2020-06-27,La Candelaria,175.0,17
 2020-06-27,Fuera de Bogotá,289.0,99
 2020-06-27,Barrios Unidos,410.0,12
-2020-06-27,Teusaquillo,504.0,13
+2020-06-27,Teusaquillo,503.0,13
 2020-06-27,Santa Fe,512.0,3
 2020-06-27,Antonio Nariño,545.0,15
 2020-06-27,Chapinero,586.0,2
@@ -2026,7 +2025,7 @@ fecha,localidad,casos,codigo
 2020-06-28,Fuera de Bogotá,302.0,99
 2020-06-28,Barrios Unidos,438.0,12
 2020-06-28,Santa Fe,532.0,3
-2020-06-28,Teusaquillo,540.0,13
+2020-06-28,Teusaquillo,539.0,13
 2020-06-28,Antonio Nariño,569.0,15
 2020-06-28,Chapinero,614.0,2
 2020-06-28,Tunjuelito,706.0,6
@@ -2046,7 +2045,7 @@ fecha,localidad,casos,codigo
 2020-06-29,Fuera de Bogotá,313.0,99
 2020-06-29,Barrios Unidos,450.0,12
 2020-06-29,Santa Fe,543.0,3
-2020-06-29,Teusaquillo,550.0,13
+2020-06-29,Teusaquillo,549.0,13
 2020-06-29,Antonio Nariño,581.0,15
 2020-06-29,Chapinero,634.0,2
 2020-06-29,Tunjuelito,737.0,6
@@ -2065,7 +2064,7 @@ fecha,localidad,casos,codigo
 2020-06-30,La Candelaria,205.0,17
 2020-06-30,Fuera de Bogotá,327.0,99
 2020-06-30,Barrios Unidos,469.0,12
-2020-06-30,Teusaquillo,577.0,13
+2020-06-30,Teusaquillo,576.0,13
 2020-06-30,Santa Fe,587.0,3
 2020-06-30,Antonio Nariño,611.0,15
 2020-06-30,Chapinero,681.0,2
@@ -2085,7 +2084,7 @@ fecha,localidad,casos,codigo
 2020-07-01,La Candelaria,212.0,17
 2020-07-01,Fuera de Bogotá,340.0,99
 2020-07-01,Barrios Unidos,486.0,12
-2020-07-01,Teusaquillo,602.0,13
+2020-07-01,Teusaquillo,601.0,13
 2020-07-01,Santa Fe,612.0,3
 2020-07-01,Antonio Nariño,631.0,15
 2020-07-01,Chapinero,714.0,2
@@ -2105,7 +2104,7 @@ fecha,localidad,casos,codigo
 2020-07-02,La Candelaria,214.0,17
 2020-07-02,Fuera de Bogotá,359.0,99
 2020-07-02,Barrios Unidos,510.0,12
-2020-07-02,Teusaquillo,636.0,13
+2020-07-02,Teusaquillo,635.0,13
 2020-07-02,Santa Fe,720.0,3
 2020-07-02,Antonio Nariño,739.0,15
 2020-07-02,Chapinero,746.0,2
@@ -2125,7 +2124,7 @@ fecha,localidad,casos,codigo
 2020-07-03,La Candelaria,217.0,17
 2020-07-03,Fuera de Bogotá,378.0,99
 2020-07-03,Barrios Unidos,527.0,12
-2020-07-03,Teusaquillo,660.0,13
+2020-07-03,Teusaquillo,659.0,13
 2020-07-03,Santa Fe,742.0,3
 2020-07-03,Antonio Nariño,748.0,15
 2020-07-03,Chapinero,774.0,2
@@ -2145,7 +2144,7 @@ fecha,localidad,casos,codigo
 2020-07-04,La Candelaria,228.0,17
 2020-07-04,Fuera de Bogotá,398.0,99
 2020-07-04,Barrios Unidos,545.0,12
-2020-07-04,Teusaquillo,687.0,13
+2020-07-04,Teusaquillo,686.0,13
 2020-07-04,Antonio Nariño,806.0,15
 2020-07-04,Chapinero,822.0,2
 2020-07-04,Santa Fe,857.0,3
@@ -2165,7 +2164,7 @@ fecha,localidad,casos,codigo
 2020-07-05,La Candelaria,229.0,17
 2020-07-05,Fuera de Bogotá,402.0,99
 2020-07-05,Barrios Unidos,556.0,12
-2020-07-05,Teusaquillo,709.0,13
+2020-07-05,Teusaquillo,708.0,13
 2020-07-05,Antonio Nariño,815.0,15
 2020-07-05,Chapinero,847.0,2
 2020-07-05,Santa Fe,881.0,3
@@ -2185,7 +2184,7 @@ fecha,localidad,casos,codigo
 2020-07-06,La Candelaria,231.0,17
 2020-07-06,Fuera de Bogotá,415.0,99
 2020-07-06,Barrios Unidos,583.0,12
-2020-07-06,Teusaquillo,754.0,13
+2020-07-06,Teusaquillo,753.0,13
 2020-07-06,Antonio Nariño,833.0,15
 2020-07-06,Chapinero,871.0,2
 2020-07-06,Santa Fe,907.0,3
@@ -2205,7 +2204,7 @@ fecha,localidad,casos,codigo
 2020-07-07,La Candelaria,236.0,17
 2020-07-07,Fuera de Bogotá,430.0,99
 2020-07-07,Barrios Unidos,634.0,12
-2020-07-07,Teusaquillo,785.0,13
+2020-07-07,Teusaquillo,784.0,13
 2020-07-07,Antonio Nariño,853.0,15
 2020-07-07,Chapinero,920.0,2
 2020-07-07,Santa Fe,955.0,3
@@ -2225,7 +2224,7 @@ fecha,localidad,casos,codigo
 2020-07-08,La Candelaria,245.0,17
 2020-07-08,Fuera de Bogotá,443.0,99
 2020-07-08,Barrios Unidos,658.0,12
-2020-07-08,Teusaquillo,814.0,13
+2020-07-08,Teusaquillo,813.0,13
 2020-07-08,Antonio Nariño,916.0,15
 2020-07-08,Chapinero,955.0,2
 2020-07-08,Santa Fe,1013.0,3
@@ -2245,7 +2244,7 @@ fecha,localidad,casos,codigo
 2020-07-09,La Candelaria,260.0,17
 2020-07-09,Fuera de Bogotá,462.0,99
 2020-07-09,Barrios Unidos,708.0,12
-2020-07-09,Teusaquillo,843.0,13
+2020-07-09,Teusaquillo,842.0,13
 2020-07-09,Antonio Nariño,946.0,15
 2020-07-09,Chapinero,992.0,2
 2020-07-09,Los Mártires,1049.0,14
@@ -2265,7 +2264,7 @@ fecha,localidad,casos,codigo
 2020-07-10,La Candelaria,279.0,17
 2020-07-10,Fuera de Bogotá,491.0,99
 2020-07-10,Barrios Unidos,747.0,12
-2020-07-10,Teusaquillo,882.0,13
+2020-07-10,Teusaquillo,881.0,13
 2020-07-10,Antonio Nariño,965.0,15
 2020-07-10,Chapinero,1057.0,2
 2020-07-10,Los Mártires,1070.0,14
@@ -2285,7 +2284,7 @@ fecha,localidad,casos,codigo
 2020-07-11,La Candelaria,283.0,17
 2020-07-11,Fuera de Bogotá,510.0,99
 2020-07-11,Barrios Unidos,773.0,12
-2020-07-11,Teusaquillo,925.0,13
+2020-07-11,Teusaquillo,924.0,13
 2020-07-11,Antonio Nariño,1000.0,15
 2020-07-11,Chapinero,1086.0,2
 2020-07-11,Los Mártires,1087.0,14
@@ -2305,7 +2304,7 @@ fecha,localidad,casos,codigo
 2020-07-12,La Candelaria,305.0,17
 2020-07-12,Fuera de Bogotá,520.0,99
 2020-07-12,Barrios Unidos,798.0,12
-2020-07-12,Teusaquillo,944.0,13
+2020-07-12,Teusaquillo,943.0,13
 2020-07-12,Antonio Nariño,1059.0,15
 2020-07-12,Chapinero,1105.0,2
 2020-07-12,Los Mártires,1117.0,14
@@ -2325,7 +2324,7 @@ fecha,localidad,casos,codigo
 2020-07-13,La Candelaria,310.0,17
 2020-07-13,Fuera de Bogotá,543.0,99
 2020-07-13,Barrios Unidos,843.0,12
-2020-07-13,Teusaquillo,1002.0,13
+2020-07-13,Teusaquillo,1001.0,13
 2020-07-13,Antonio Nariño,1085.0,15
 2020-07-13,Los Mártires,1144.0,14
 2020-07-13,Chapinero,1151.0,2
@@ -2345,7 +2344,7 @@ fecha,localidad,casos,codigo
 2020-07-14,La Candelaria,319.0,17
 2020-07-14,Fuera de Bogotá,573.0,99
 2020-07-14,Barrios Unidos,874.0,12
-2020-07-14,Teusaquillo,1026.0,13
+2020-07-14,Teusaquillo,1025.0,13
 2020-07-14,Antonio Nariño,1114.0,15
 2020-07-14,Los Mártires,1165.0,14
 2020-07-14,Chapinero,1189.0,2
@@ -2365,7 +2364,7 @@ fecha,localidad,casos,codigo
 2020-07-15,La Candelaria,330.0,17
 2020-07-15,Fuera de Bogotá,595.0,99
 2020-07-15,Barrios Unidos,929.0,12
-2020-07-15,Teusaquillo,1057.0,13
+2020-07-15,Teusaquillo,1056.0,13
 2020-07-15,Antonio Nariño,1146.0,15
 2020-07-15,Los Mártires,1220.0,14
 2020-07-15,Chapinero,1243.0,2
@@ -2385,7 +2384,7 @@ fecha,localidad,casos,codigo
 2020-07-16,La Candelaria,337.0,17
 2020-07-16,Fuera de Bogotá,634.0,99
 2020-07-16,Barrios Unidos,968.0,12
-2020-07-16,Teusaquillo,1105.0,13
+2020-07-16,Teusaquillo,1104.0,13
 2020-07-16,Antonio Nariño,1216.0,15
 2020-07-16,Los Mártires,1254.0,14
 2020-07-16,Chapinero,1340.0,2
@@ -2405,7 +2404,7 @@ fecha,localidad,casos,codigo
 2020-07-17,La Candelaria,343.0,17
 2020-07-17,Fuera de Bogotá,655.0,99
 2020-07-17,Barrios Unidos,1004.0,12
-2020-07-17,Teusaquillo,1149.0,13
+2020-07-17,Teusaquillo,1148.0,13
 2020-07-17,Antonio Nariño,1250.0,15
 2020-07-17,Los Mártires,1299.0,14
 2020-07-17,Chapinero,1388.0,2
@@ -2425,7 +2424,7 @@ fecha,localidad,casos,codigo
 2020-07-18,La Candelaria,357.0,17
 2020-07-18,Fuera de Bogotá,674.0,99
 2020-07-18,Barrios Unidos,1051.0,12
-2020-07-18,Teusaquillo,1214.0,13
+2020-07-18,Teusaquillo,1213.0,13
 2020-07-18,Antonio Nariño,1298.0,15
 2020-07-18,Los Mártires,1356.0,14
 2020-07-18,Chapinero,1503.0,2
@@ -2445,7 +2444,7 @@ fecha,localidad,casos,codigo
 2020-07-19,La Candelaria,365.0,17
 2020-07-19,Fuera de Bogotá,705.0,99
 2020-07-19,Barrios Unidos,1098.0,12
-2020-07-19,Teusaquillo,1275.0,13
+2020-07-19,Teusaquillo,1274.0,13
 2020-07-19,Antonio Nariño,1325.0,15
 2020-07-19,Los Mártires,1392.0,14
 2020-07-19,Santa Fe,1567.0,3
@@ -2465,7 +2464,7 @@ fecha,localidad,casos,codigo
 2020-07-20,La Candelaria,371.0,17
 2020-07-20,Fuera de Bogotá,723.0,99
 2020-07-20,Barrios Unidos,1127.0,12
-2020-07-20,Teusaquillo,1312.0,13
+2020-07-20,Teusaquillo,1311.0,13
 2020-07-20,Antonio Nariño,1350.0,15
 2020-07-20,Los Mártires,1413.0,14
 2020-07-20,Santa Fe,1608.0,3
@@ -2485,7 +2484,7 @@ fecha,localidad,casos,codigo
 2020-07-21,La Candelaria,393.0,17
 2020-07-21,Fuera de Bogotá,762.0,99
 2020-07-21,Barrios Unidos,1201.0,12
-2020-07-21,Teusaquillo,1366.0,13
+2020-07-21,Teusaquillo,1365.0,13
 2020-07-21,Antonio Nariño,1407.0,15
 2020-07-21,Los Mártires,1472.0,14
 2020-07-21,Santa Fe,1701.0,3
@@ -2505,7 +2504,7 @@ fecha,localidad,casos,codigo
 2020-07-22,La Candelaria,407.0,17
 2020-07-22,Fuera de Bogotá,804.0,99
 2020-07-22,Barrios Unidos,1283.0,12
-2020-07-22,Teusaquillo,1446.0,13
+2020-07-22,Teusaquillo,1445.0,13
 2020-07-22,Antonio Nariño,1459.0,15
 2020-07-22,Los Mártires,1503.0,14
 2020-07-22,Santa Fe,1774.0,3
@@ -2525,7 +2524,7 @@ fecha,localidad,casos,codigo
 2020-07-23,La Candelaria,417.0,17
 2020-07-23,Fuera de Bogotá,844.0,99
 2020-07-23,Barrios Unidos,1332.0,12
-2020-07-23,Teusaquillo,1498.0,13
+2020-07-23,Teusaquillo,1497.0,13
 2020-07-23,Antonio Nariño,1509.0,15
 2020-07-23,Los Mártires,1527.0,14
 2020-07-23,Santa Fe,1872.0,3
@@ -2547,7 +2546,7 @@ fecha,localidad,casos,codigo
 2020-07-24,Barrios Unidos,1449.0,12
 2020-07-24,Antonio Nariño,1572.0,15
 2020-07-24,Los Mártires,1580.0,14
-2020-07-24,Teusaquillo,1589.0,13
+2020-07-24,Teusaquillo,1588.0,13
 2020-07-24,Santa Fe,2001.0,3
 2020-07-24,Chapinero,2019.0,2
 2020-07-24,Tunjuelito,2234.0,6
@@ -2567,7 +2566,7 @@ fecha,localidad,casos,codigo
 2020-07-25,Barrios Unidos,1601.0,12
 2020-07-25,Antonio Nariño,1603.0,15
 2020-07-25,Los Mártires,1609.0,14
-2020-07-25,Teusaquillo,1663.0,13
+2020-07-25,Teusaquillo,1662.0,13
 2020-07-25,Santa Fe,2048.0,3
 2020-07-25,Chapinero,2112.0,2
 2020-07-25,Tunjuelito,2393.0,6
@@ -2586,7 +2585,7 @@ fecha,localidad,casos,codigo
 2020-07-26,Fuera de Bogotá,934.0,99
 2020-07-26,Antonio Nariño,1628.0,15
 2020-07-26,Los Mártires,1657.0,14
-2020-07-26,Teusaquillo,1688.0,13
+2020-07-26,Teusaquillo,1687.0,13
 2020-07-26,Barrios Unidos,1700.0,12
 2020-07-26,Santa Fe,2084.0,3
 2020-07-26,Chapinero,2156.0,2
@@ -2607,7 +2606,7 @@ fecha,localidad,casos,codigo
 2020-07-27,Antonio Nariño,1672.0,15
 2020-07-27,Los Mártires,1705.0,14
 2020-07-27,Barrios Unidos,1776.0,12
-2020-07-27,Teusaquillo,1779.0,13
+2020-07-27,Teusaquillo,1778.0,13
 2020-07-27,Santa Fe,2173.0,3
 2020-07-27,Chapinero,2238.0,2
 2020-07-27,Tunjuelito,2670.0,6
@@ -2627,7 +2626,7 @@ fecha,localidad,casos,codigo
 2020-07-28,Antonio Nariño,1712.0,15
 2020-07-28,Los Mártires,1752.0,14
 2020-07-28,Barrios Unidos,1852.0,12
-2020-07-28,Teusaquillo,1891.0,13
+2020-07-28,Teusaquillo,1890.0,13
 2020-07-28,Santa Fe,2224.0,3
 2020-07-28,Chapinero,2348.0,2
 2020-07-28,Tunjuelito,2783.0,6
@@ -2647,7 +2646,7 @@ fecha,localidad,casos,codigo
 2020-07-29,Antonio Nariño,1751.0,15
 2020-07-29,Los Mártires,1844.0,14
 2020-07-29,Barrios Unidos,1907.0,12
-2020-07-29,Teusaquillo,1960.0,13
+2020-07-29,Teusaquillo,1959.0,13
 2020-07-29,Santa Fe,2289.0,3
 2020-07-29,Chapinero,2426.0,2
 2020-07-29,Tunjuelito,2848.0,6
@@ -2667,7 +2666,7 @@ fecha,localidad,casos,codigo
 2020-07-30,Antonio Nariño,1792.0,15
 2020-07-30,Los Mártires,1884.0,14
 2020-07-30,Barrios Unidos,1975.0,12
-2020-07-30,Teusaquillo,2034.0,13
+2020-07-30,Teusaquillo,2033.0,13
 2020-07-30,Santa Fe,2372.0,3
 2020-07-30,Chapinero,2509.0,2
 2020-07-30,Tunjuelito,2957.0,6
@@ -2687,7 +2686,7 @@ fecha,localidad,casos,codigo
 2020-07-31,Antonio Nariño,1832.0,15
 2020-07-31,Los Mártires,1921.0,14
 2020-07-31,Barrios Unidos,2060.0,12
-2020-07-31,Teusaquillo,2116.0,13
+2020-07-31,Teusaquillo,2115.0,13
 2020-07-31,Santa Fe,2404.0,3
 2020-07-31,Chapinero,2691.0,2
 2020-07-31,Tunjuelito,3086.0,6
@@ -2707,7 +2706,7 @@ fecha,localidad,casos,codigo
 2020-08-01,Antonio Nariño,1891.0,15
 2020-08-01,Los Mártires,1963.0,14
 2020-08-01,Barrios Unidos,2153.0,12
-2020-08-01,Teusaquillo,2176.0,13
+2020-08-01,Teusaquillo,2175.0,13
 2020-08-01,Santa Fe,2449.0,3
 2020-08-01,Chapinero,2822.0,2
 2020-08-01,Tunjuelito,3220.0,6
@@ -2727,7 +2726,7 @@ fecha,localidad,casos,codigo
 2020-08-02,Antonio Nariño,1957.0,15
 2020-08-02,Los Mártires,1999.0,14
 2020-08-02,Barrios Unidos,2204.0,12
-2020-08-02,Teusaquillo,2209.0,13
+2020-08-02,Teusaquillo,2208.0,13
 2020-08-02,Santa Fe,2483.0,3
 2020-08-02,Chapinero,2910.0,2
 2020-08-02,Tunjuelito,3275.0,6
@@ -2747,7 +2746,7 @@ fecha,localidad,casos,codigo
 2020-08-03,Antonio Nariño,1988.0,15
 2020-08-03,Los Mártires,2036.0,14
 2020-08-03,Barrios Unidos,2264.0,12
-2020-08-03,Teusaquillo,2271.0,13
+2020-08-03,Teusaquillo,2270.0,13
 2020-08-03,Santa Fe,2539.0,3
 2020-08-03,Chapinero,3042.0,2
 2020-08-03,Tunjuelito,3328.0,6
@@ -2767,7 +2766,7 @@ fecha,localidad,casos,codigo
 2020-08-04,Antonio Nariño,2055.0,15
 2020-08-04,Los Mártires,2102.0,14
 2020-08-04,Barrios Unidos,2366.0,12
-2020-08-04,Teusaquillo,2393.0,13
+2020-08-04,Teusaquillo,2392.0,13
 2020-08-04,Santa Fe,2622.0,3
 2020-08-04,Chapinero,3234.0,2
 2020-08-04,Tunjuelito,3444.0,6
@@ -2787,7 +2786,7 @@ fecha,localidad,casos,codigo
 2020-08-05,Los Mártires,2141.0,14
 2020-08-05,Antonio Nariño,2146.0,15
 2020-08-05,Barrios Unidos,2446.0,12
-2020-08-05,Teusaquillo,2485.0,13
+2020-08-05,Teusaquillo,2484.0,13
 2020-08-05,Santa Fe,2686.0,3
 2020-08-05,Chapinero,3338.0,2
 2020-08-05,Tunjuelito,3560.0,6
@@ -2807,7 +2806,7 @@ fecha,localidad,casos,codigo
 2020-08-06,Antonio Nariño,2174.0,15
 2020-08-06,Los Mártires,2176.0,14
 2020-08-06,Barrios Unidos,2505.0,12
-2020-08-06,Teusaquillo,2530.0,13
+2020-08-06,Teusaquillo,2529.0,13
 2020-08-06,Santa Fe,2732.0,3
 2020-08-06,Chapinero,3390.0,2
 2020-08-06,Tunjuelito,3661.0,6
@@ -2827,7 +2826,7 @@ fecha,localidad,casos,codigo
 2020-08-07,Antonio Nariño,2204.0,15
 2020-08-07,Los Mártires,2224.0,14
 2020-08-07,Barrios Unidos,2571.0,12
-2020-08-07,Teusaquillo,2596.0,13
+2020-08-07,Teusaquillo,2595.0,13
 2020-08-07,Santa Fe,2785.0,3
 2020-08-07,Chapinero,3451.0,2
 2020-08-07,Tunjuelito,3729.0,6
@@ -2847,7 +2846,7 @@ fecha,localidad,casos,codigo
 2020-08-08,Antonio Nariño,2246.0,15
 2020-08-08,Los Mártires,2261.0,14
 2020-08-08,Barrios Unidos,2633.0,12
-2020-08-08,Teusaquillo,2673.0,13
+2020-08-08,Teusaquillo,2672.0,13
 2020-08-08,Santa Fe,2835.0,3
 2020-08-08,Chapinero,3560.0,2
 2020-08-08,Tunjuelito,3810.0,6
@@ -2866,7 +2865,7 @@ fecha,localidad,casos,codigo
 2020-08-09,Fuera de Bogotá,1465.0,99
 2020-08-09,Antonio Nariño,2292.0,15
 2020-08-09,Los Mártires,2294.0,14
-2020-08-09,Teusaquillo,2744.0,13
+2020-08-09,Teusaquillo,2743.0,13
 2020-08-09,Barrios Unidos,2810.0,12
 2020-08-09,Santa Fe,2881.0,3
 2020-08-09,Chapinero,3622.0,2
@@ -2886,7 +2885,7 @@ fecha,localidad,casos,codigo
 2020-08-10,Fuera de Bogotá,1482.0,99
 2020-08-10,Antonio Nariño,2340.0,15
 2020-08-10,Los Mártires,2353.0,14
-2020-08-10,Teusaquillo,2861.0,13
+2020-08-10,Teusaquillo,2860.0,13
 2020-08-10,Barrios Unidos,2939.0,12
 2020-08-10,Santa Fe,2947.0,3
 2020-08-10,Chapinero,3725.0,2
@@ -2906,7 +2905,7 @@ fecha,localidad,casos,codigo
 2020-08-11,Fuera de Bogotá,1499.0,99
 2020-08-11,Los Mártires,2405.0,14
 2020-08-11,Antonio Nariño,2417.0,15
-2020-08-11,Teusaquillo,2956.0,13
+2020-08-11,Teusaquillo,2955.0,13
 2020-08-11,Barrios Unidos,3029.0,12
 2020-08-11,Santa Fe,3038.0,3
 2020-08-11,Chapinero,3813.0,2
@@ -2926,7 +2925,7 @@ fecha,localidad,casos,codigo
 2020-08-12,Fuera de Bogotá,1535.0,99
 2020-08-12,Los Mártires,2443.0,14
 2020-08-12,Antonio Nariño,2459.0,15
-2020-08-12,Teusaquillo,3045.0,13
+2020-08-12,Teusaquillo,3044.0,13
 2020-08-12,Santa Fe,3084.0,3
 2020-08-12,Barrios Unidos,3157.0,12
 2020-08-12,Chapinero,3917.0,2
@@ -2946,7 +2945,7 @@ fecha,localidad,casos,codigo
 2020-08-13,Fuera de Bogotá,1547.0,99
 2020-08-13,Los Mártires,2467.0,14
 2020-08-13,Antonio Nariño,2491.0,15
-2020-08-13,Teusaquillo,3101.0,13
+2020-08-13,Teusaquillo,3100.0,13
 2020-08-13,Santa Fe,3120.0,3
 2020-08-13,Barrios Unidos,3247.0,12
 2020-08-13,Chapinero,3987.0,2
@@ -2967,7 +2966,7 @@ fecha,localidad,casos,codigo
 2020-08-14,Los Mártires,2520.0,14
 2020-08-14,Antonio Nariño,2544.0,15
 2020-08-14,Santa Fe,3153.0,3
-2020-08-14,Teusaquillo,3158.0,13
+2020-08-14,Teusaquillo,3157.0,13
 2020-08-14,Barrios Unidos,3345.0,12
 2020-08-14,Chapinero,4067.0,2
 2020-08-14,Tunjuelito,4384.0,6
@@ -2987,7 +2986,7 @@ fecha,localidad,casos,codigo
 2020-08-15,Los Mártires,2564.0,14
 2020-08-15,Antonio Nariño,2598.0,15
 2020-08-15,Santa Fe,3197.0,3
-2020-08-15,Teusaquillo,3247.0,13
+2020-08-15,Teusaquillo,3246.0,13
 2020-08-15,Barrios Unidos,3434.0,12
 2020-08-15,Chapinero,4165.0,2
 2020-08-15,Tunjuelito,4501.0,6
@@ -3007,7 +3006,7 @@ fecha,localidad,casos,codigo
 2020-08-16,Antonio Nariño,2618.0,15
 2020-08-16,Los Mártires,2647.0,14
 2020-08-16,Santa Fe,3246.0,3
-2020-08-16,Teusaquillo,3290.0,13
+2020-08-16,Teusaquillo,3289.0,13
 2020-08-16,Barrios Unidos,3485.0,12
 2020-08-16,Chapinero,4231.0,2
 2020-08-16,Tunjuelito,4560.0,6
@@ -3027,7 +3026,7 @@ fecha,localidad,casos,codigo
 2020-08-17,Antonio Nariño,2658.0,15
 2020-08-17,Los Mártires,2674.0,14
 2020-08-17,Santa Fe,3298.0,3
-2020-08-17,Teusaquillo,3370.0,13
+2020-08-17,Teusaquillo,3369.0,13
 2020-08-17,Barrios Unidos,3583.0,12
 2020-08-17,Chapinero,4299.0,2
 2020-08-17,Tunjuelito,4655.0,6
@@ -3047,7 +3046,7 @@ fecha,localidad,casos,codigo
 2020-08-18,Antonio Nariño,2720.0,15
 2020-08-18,Los Mártires,2732.0,14
 2020-08-18,Santa Fe,3368.0,3
-2020-08-18,Teusaquillo,3450.0,13
+2020-08-18,Teusaquillo,3449.0,13
 2020-08-18,Barrios Unidos,3683.0,12
 2020-08-18,Chapinero,4375.0,2
 2020-08-18,Tunjuelito,4780.0,6
@@ -3067,7 +3066,7 @@ fecha,localidad,casos,codigo
 2020-08-19,Los Mártires,2759.0,14
 2020-08-19,Antonio Nariño,2773.0,15
 2020-08-19,Santa Fe,3414.0,3
-2020-08-19,Teusaquillo,3500.0,13
+2020-08-19,Teusaquillo,3499.0,13
 2020-08-19,Barrios Unidos,3726.0,12
 2020-08-19,Chapinero,4424.0,2
 2020-08-19,Tunjuelito,4825.0,6
@@ -3087,7 +3086,7 @@ fecha,localidad,casos,codigo
 2020-08-20,Los Mártires,2794.0,14
 2020-08-20,Antonio Nariño,2827.0,15
 2020-08-20,Santa Fe,3473.0,3
-2020-08-20,Teusaquillo,3559.0,13
+2020-08-20,Teusaquillo,3558.0,13
 2020-08-20,Barrios Unidos,3778.0,12
 2020-08-20,Chapinero,4500.0,2
 2020-08-20,Tunjuelito,4937.0,6
@@ -3107,7 +3106,7 @@ fecha,localidad,casos,codigo
 2020-08-21,Los Mártires,2819.0,14
 2020-08-21,Antonio Nariño,2867.0,15
 2020-08-21,Santa Fe,3514.0,3
-2020-08-21,Teusaquillo,3634.0,13
+2020-08-21,Teusaquillo,3633.0,13
 2020-08-21,Barrios Unidos,3834.0,12
 2020-08-21,Chapinero,4571.0,2
 2020-08-21,Tunjuelito,5058.0,6
@@ -3127,7 +3126,7 @@ fecha,localidad,casos,codigo
 2020-08-22,Los Mártires,2850.0,14
 2020-08-22,Antonio Nariño,2896.0,15
 2020-08-22,Santa Fe,3550.0,3
-2020-08-22,Teusaquillo,3673.0,13
+2020-08-22,Teusaquillo,3672.0,13
 2020-08-22,Barrios Unidos,3871.0,12
 2020-08-22,Chapinero,4616.0,2
 2020-08-22,Tunjuelito,5126.0,6
@@ -3147,7 +3146,7 @@ fecha,localidad,casos,codigo
 2020-08-23,Los Mártires,2889.0,14
 2020-08-23,Antonio Nariño,2951.0,15
 2020-08-23,Santa Fe,3640.0,3
-2020-08-23,Teusaquillo,3744.0,13
+2020-08-23,Teusaquillo,3743.0,13
 2020-08-23,Barrios Unidos,3921.0,12
 2020-08-23,Chapinero,4679.0,2
 2020-08-23,Tunjuelito,5188.0,6
@@ -3167,7 +3166,7 @@ fecha,localidad,casos,codigo
 2020-08-24,Los Mártires,2918.0,14
 2020-08-24,Antonio Nariño,2994.0,15
 2020-08-24,Santa Fe,3712.0,3
-2020-08-24,Teusaquillo,3797.0,13
+2020-08-24,Teusaquillo,3796.0,13
 2020-08-24,Barrios Unidos,3965.0,12
 2020-08-24,Chapinero,4739.0,2
 2020-08-24,Tunjuelito,5240.0,6
@@ -3187,7 +3186,7 @@ fecha,localidad,casos,codigo
 2020-08-25,Los Mártires,2964.0,14
 2020-08-25,Antonio Nariño,3075.0,15
 2020-08-25,Santa Fe,3757.0,3
-2020-08-25,Teusaquillo,3850.0,13
+2020-08-25,Teusaquillo,3849.0,13
 2020-08-25,Barrios Unidos,4008.0,12
 2020-08-25,Chapinero,4805.0,2
 2020-08-25,Tunjuelito,5299.0,6
@@ -3207,7 +3206,7 @@ fecha,localidad,casos,codigo
 2020-08-26,Los Mártires,3004.0,14
 2020-08-26,Antonio Nariño,3138.0,15
 2020-08-26,Santa Fe,3792.0,3
-2020-08-26,Teusaquillo,3884.0,13
+2020-08-26,Teusaquillo,3883.0,13
 2020-08-26,Barrios Unidos,4049.0,12
 2020-08-26,Chapinero,4847.0,2
 2020-08-26,Tunjuelito,5370.0,6
@@ -3227,7 +3226,7 @@ fecha,localidad,casos,codigo
 2020-08-27,Los Mártires,3034.0,14
 2020-08-27,Antonio Nariño,3152.0,15
 2020-08-27,Santa Fe,3816.0,3
-2020-08-27,Teusaquillo,3922.0,13
+2020-08-27,Teusaquillo,3921.0,13
 2020-08-27,Barrios Unidos,4088.0,12
 2020-08-27,Chapinero,4886.0,2
 2020-08-27,Tunjuelito,5399.0,6
@@ -3247,7 +3246,7 @@ fecha,localidad,casos,codigo
 2020-08-28,Los Mártires,3095.0,14
 2020-08-28,Antonio Nariño,3201.0,15
 2020-08-28,Santa Fe,3877.0,3
-2020-08-28,Teusaquillo,3968.0,13
+2020-08-28,Teusaquillo,3967.0,13
 2020-08-28,Barrios Unidos,4122.0,12
 2020-08-28,Chapinero,4938.0,2
 2020-08-28,Tunjuelito,5483.0,6
@@ -3267,7 +3266,7 @@ fecha,localidad,casos,codigo
 2020-08-29,Los Mártires,3123.0,14
 2020-08-29,Antonio Nariño,3247.0,15
 2020-08-29,Santa Fe,3916.0,3
-2020-08-29,Teusaquillo,3991.0,13
+2020-08-29,Teusaquillo,3990.0,13
 2020-08-29,Barrios Unidos,4160.0,12
 2020-08-29,Chapinero,4966.0,2
 2020-08-29,Tunjuelito,5544.0,6
@@ -3287,7 +3286,7 @@ fecha,localidad,casos,codigo
 2020-08-30,Los Mártires,3172.0,14
 2020-08-30,Antonio Nariño,3268.0,15
 2020-08-30,Santa Fe,3950.0,3
-2020-08-30,Teusaquillo,4036.0,13
+2020-08-30,Teusaquillo,4035.0,13
 2020-08-30,Barrios Unidos,4191.0,12
 2020-08-30,Chapinero,5006.0,2
 2020-08-30,Tunjuelito,5605.0,6
@@ -3307,7 +3306,7 @@ fecha,localidad,casos,codigo
 2020-08-31,Los Mártires,3213.0,14
 2020-08-31,Antonio Nariño,3319.0,15
 2020-08-31,Santa Fe,3990.0,3
-2020-08-31,Teusaquillo,4084.0,13
+2020-08-31,Teusaquillo,4083.0,13
 2020-08-31,Barrios Unidos,4485.0,12
 2020-08-31,Chapinero,5059.0,2
 2020-08-31,Tunjuelito,5667.0,6
@@ -3327,7 +3326,7 @@ fecha,localidad,casos,codigo
 2020-09-01,Los Mártires,3239.0,14
 2020-09-01,Antonio Nariño,3343.0,15
 2020-09-01,Santa Fe,4034.0,3
-2020-09-01,Teusaquillo,4135.0,13
+2020-09-01,Teusaquillo,4134.0,13
 2020-09-01,Barrios Unidos,4543.0,12
 2020-09-01,Chapinero,5119.0,2
 2020-09-01,Tunjuelito,5718.0,6
@@ -3347,7 +3346,7 @@ fecha,localidad,casos,codigo
 2020-09-02,Los Mártires,3258.0,14
 2020-09-02,Antonio Nariño,3369.0,15
 2020-09-02,Santa Fe,4052.0,3
-2020-09-02,Teusaquillo,4163.0,13
+2020-09-02,Teusaquillo,4162.0,13
 2020-09-02,Barrios Unidos,4577.0,12
 2020-09-02,Chapinero,5172.0,2
 2020-09-02,Tunjuelito,5778.0,6
@@ -3367,7 +3366,7 @@ fecha,localidad,casos,codigo
 2020-09-03,Los Mártires,3294.0,14
 2020-09-03,Antonio Nariño,3393.0,15
 2020-09-03,Santa Fe,4096.0,3
-2020-09-03,Teusaquillo,4212.0,13
+2020-09-03,Teusaquillo,4211.0,13
 2020-09-03,Barrios Unidos,4605.0,12
 2020-09-03,Chapinero,5223.0,2
 2020-09-03,Tunjuelito,5866.0,6
@@ -3387,7 +3386,7 @@ fecha,localidad,casos,codigo
 2020-09-04,Los Mártires,3332.0,14
 2020-09-04,Antonio Nariño,3415.0,15
 2020-09-04,Santa Fe,4134.0,3
-2020-09-04,Teusaquillo,4242.0,13
+2020-09-04,Teusaquillo,4241.0,13
 2020-09-04,Barrios Unidos,4637.0,12
 2020-09-04,Chapinero,5266.0,2
 2020-09-04,Tunjuelito,5902.0,6
@@ -3407,7 +3406,7 @@ fecha,localidad,casos,codigo
 2020-09-05,Los Mártires,3355.0,14
 2020-09-05,Antonio Nariño,3434.0,15
 2020-09-05,Santa Fe,4162.0,3
-2020-09-05,Teusaquillo,4290.0,13
+2020-09-05,Teusaquillo,4289.0,13
 2020-09-05,Barrios Unidos,4672.0,12
 2020-09-05,Chapinero,5301.0,2
 2020-09-05,Tunjuelito,5955.0,6
@@ -3427,7 +3426,7 @@ fecha,localidad,casos,codigo
 2020-09-06,Los Mártires,3365.0,14
 2020-09-06,Antonio Nariño,3445.0,15
 2020-09-06,Santa Fe,4174.0,3
-2020-09-06,Teusaquillo,4305.0,13
+2020-09-06,Teusaquillo,4304.0,13
 2020-09-06,Barrios Unidos,4751.0,12
 2020-09-06,Chapinero,5319.0,2
 2020-09-06,Tunjuelito,6006.0,6
@@ -3447,7 +3446,7 @@ fecha,localidad,casos,codigo
 2020-09-07,Los Mártires,3401.0,14
 2020-09-07,Antonio Nariño,3475.0,15
 2020-09-07,Santa Fe,4215.0,3
-2020-09-07,Teusaquillo,4350.0,13
+2020-09-07,Teusaquillo,4349.0,13
 2020-09-07,Barrios Unidos,4789.0,12
 2020-09-07,Chapinero,5376.0,2
 2020-09-07,Tunjuelito,6074.0,6
@@ -3467,7 +3466,7 @@ fecha,localidad,casos,codigo
 2020-09-08,Los Mártires,3411.0,14
 2020-09-08,Antonio Nariño,3500.0,15
 2020-09-08,Santa Fe,4267.0,3
-2020-09-08,Teusaquillo,4377.0,13
+2020-09-08,Teusaquillo,4376.0,13
 2020-09-08,Barrios Unidos,4836.0,12
 2020-09-08,Chapinero,5419.0,2
 2020-09-08,Tunjuelito,6110.0,6
@@ -3487,7 +3486,7 @@ fecha,localidad,casos,codigo
 2020-09-09,Los Mártires,3420.0,14
 2020-09-09,Antonio Nariño,3519.0,15
 2020-09-09,Santa Fe,4303.0,3
-2020-09-09,Teusaquillo,4397.0,13
+2020-09-09,Teusaquillo,4396.0,13
 2020-09-09,Barrios Unidos,4869.0,12
 2020-09-09,Chapinero,5461.0,2
 2020-09-09,Tunjuelito,6169.0,6
@@ -3507,7 +3506,7 @@ fecha,localidad,casos,codigo
 2020-09-10,Los Mártires,3451.0,14
 2020-09-10,Antonio Nariño,3551.0,15
 2020-09-10,Santa Fe,4358.0,3
-2020-09-10,Teusaquillo,4442.0,13
+2020-09-10,Teusaquillo,4441.0,13
 2020-09-10,Barrios Unidos,4978.0,12
 2020-09-10,Chapinero,5506.0,2
 2020-09-10,Tunjuelito,6234.0,6
@@ -3527,7 +3526,7 @@ fecha,localidad,casos,codigo
 2020-09-11,Los Mártires,3478.0,14
 2020-09-11,Antonio Nariño,3580.0,15
 2020-09-11,Santa Fe,4393.0,3
-2020-09-11,Teusaquillo,4480.0,13
+2020-09-11,Teusaquillo,4479.0,13
 2020-09-11,Barrios Unidos,5066.0,12
 2020-09-11,Chapinero,5549.0,2
 2020-09-11,Tunjuelito,6281.0,6
@@ -3547,7 +3546,7 @@ fecha,localidad,casos,codigo
 2020-09-12,Los Mártires,3498.0,14
 2020-09-12,Antonio Nariño,3610.0,15
 2020-09-12,Santa Fe,4434.0,3
-2020-09-12,Teusaquillo,4506.0,13
+2020-09-12,Teusaquillo,4505.0,13
 2020-09-12,Barrios Unidos,5134.0,12
 2020-09-12,Chapinero,5575.0,2
 2020-09-12,Tunjuelito,6322.0,6
@@ -3567,7 +3566,7 @@ fecha,localidad,casos,codigo
 2020-09-13,Los Mártires,3512.0,14
 2020-09-13,Antonio Nariño,3623.0,15
 2020-09-13,Santa Fe,4452.0,3
-2020-09-13,Teusaquillo,4519.0,13
+2020-09-13,Teusaquillo,4518.0,13
 2020-09-13,Barrios Unidos,5184.0,12
 2020-09-13,Chapinero,5584.0,2
 2020-09-13,Tunjuelito,6337.0,6
@@ -3587,7 +3586,7 @@ fecha,localidad,casos,codigo
 2020-09-14,Los Mártires,3532.0,14
 2020-09-14,Antonio Nariño,3646.0,15
 2020-09-14,Santa Fe,4480.0,3
-2020-09-14,Teusaquillo,4545.0,13
+2020-09-14,Teusaquillo,4544.0,13
 2020-09-14,Barrios Unidos,5218.0,12
 2020-09-14,Chapinero,5616.0,2
 2020-09-14,Tunjuelito,6406.0,6
@@ -3607,7 +3606,7 @@ fecha,localidad,casos,codigo
 2020-09-15,Los Mártires,3546.0,14
 2020-09-15,Antonio Nariño,3676.0,15
 2020-09-15,Santa Fe,4513.0,3
-2020-09-15,Teusaquillo,4576.0,13
+2020-09-15,Teusaquillo,4575.0,13
 2020-09-15,Barrios Unidos,5244.0,12
 2020-09-15,Chapinero,5672.0,2
 2020-09-15,Tunjuelito,6452.0,6
@@ -3627,7 +3626,7 @@ fecha,localidad,casos,codigo
 2020-09-16,Los Mártires,3572.0,14
 2020-09-16,Antonio Nariño,3697.0,15
 2020-09-16,Santa Fe,4539.0,3
-2020-09-16,Teusaquillo,4611.0,13
+2020-09-16,Teusaquillo,4610.0,13
 2020-09-16,Barrios Unidos,5279.0,12
 2020-09-16,Chapinero,5713.0,2
 2020-09-16,Tunjuelito,6525.0,6
@@ -3647,7 +3646,7 @@ fecha,localidad,casos,codigo
 2020-09-17,Los Mártires,3609.0,14
 2020-09-17,Antonio Nariño,3747.0,15
 2020-09-17,Santa Fe,4584.0,3
-2020-09-17,Teusaquillo,4645.0,13
+2020-09-17,Teusaquillo,4644.0,13
 2020-09-17,Barrios Unidos,5328.0,12
 2020-09-17,Chapinero,5750.0,2
 2020-09-17,Tunjuelito,6607.0,6
@@ -3667,7 +3666,7 @@ fecha,localidad,casos,codigo
 2020-09-18,Los Mártires,3634.0,14
 2020-09-18,Antonio Nariño,3777.0,15
 2020-09-18,Santa Fe,4606.0,3
-2020-09-18,Teusaquillo,4693.0,13
+2020-09-18,Teusaquillo,4692.0,13
 2020-09-18,Barrios Unidos,5364.0,12
 2020-09-18,Chapinero,5791.0,2
 2020-09-18,Tunjuelito,6655.0,6
@@ -3687,7 +3686,7 @@ fecha,localidad,casos,codigo
 2020-09-19,Los Mártires,3654.0,14
 2020-09-19,Antonio Nariño,3800.0,15
 2020-09-19,Santa Fe,4625.0,3
-2020-09-19,Teusaquillo,4731.0,13
+2020-09-19,Teusaquillo,4730.0,13
 2020-09-19,Barrios Unidos,5423.0,12
 2020-09-19,Chapinero,5820.0,2
 2020-09-19,Tunjuelito,6693.0,6
@@ -3707,7 +3706,7 @@ fecha,localidad,casos,codigo
 2020-09-20,Los Mártires,3689.0,14
 2020-09-20,Antonio Nariño,3810.0,15
 2020-09-20,Santa Fe,4652.0,3
-2020-09-20,Teusaquillo,4759.0,13
+2020-09-20,Teusaquillo,4758.0,13
 2020-09-20,Barrios Unidos,5445.0,12
 2020-09-20,Chapinero,5861.0,2
 2020-09-20,Tunjuelito,6778.0,6
@@ -3727,7 +3726,7 @@ fecha,localidad,casos,codigo
 2020-09-21,Los Mártires,3711.0,14
 2020-09-21,Antonio Nariño,3822.0,15
 2020-09-21,Santa Fe,4680.0,3
-2020-09-21,Teusaquillo,4794.0,13
+2020-09-21,Teusaquillo,4793.0,13
 2020-09-21,Barrios Unidos,5486.0,12
 2020-09-21,Chapinero,5907.0,2
 2020-09-21,Tunjuelito,6817.0,6
@@ -3747,7 +3746,7 @@ fecha,localidad,casos,codigo
 2020-09-22,Los Mártires,3727.0,14
 2020-09-22,Antonio Nariño,3843.0,15
 2020-09-22,Santa Fe,4702.0,3
-2020-09-22,Teusaquillo,4823.0,13
+2020-09-22,Teusaquillo,4822.0,13
 2020-09-22,Barrios Unidos,5515.0,12
 2020-09-22,Chapinero,5933.0,2
 2020-09-22,Tunjuelito,6865.0,6
@@ -3767,7 +3766,7 @@ fecha,localidad,casos,codigo
 2020-09-23,Los Mártires,3748.0,14
 2020-09-23,Antonio Nariño,3875.0,15
 2020-09-23,Santa Fe,4735.0,3
-2020-09-23,Teusaquillo,4849.0,13
+2020-09-23,Teusaquillo,4848.0,13
 2020-09-23,Barrios Unidos,5548.0,12
 2020-09-23,Chapinero,5994.0,2
 2020-09-23,Tunjuelito,6915.0,6
@@ -3787,7 +3786,7 @@ fecha,localidad,casos,codigo
 2020-09-24,Los Mártires,3765.0,14
 2020-09-24,Antonio Nariño,3911.0,15
 2020-09-24,Santa Fe,4767.0,3
-2020-09-24,Teusaquillo,4888.0,13
+2020-09-24,Teusaquillo,4887.0,13
 2020-09-24,Barrios Unidos,5583.0,12
 2020-09-24,Chapinero,6040.0,2
 2020-09-24,Tunjuelito,6972.0,6
@@ -3807,7 +3806,7 @@ fecha,localidad,casos,codigo
 2020-09-25,Los Mártires,3775.0,14
 2020-09-25,Antonio Nariño,3930.0,15
 2020-09-25,Santa Fe,4809.0,3
-2020-09-25,Teusaquillo,4921.0,13
+2020-09-25,Teusaquillo,4920.0,13
 2020-09-25,Barrios Unidos,5609.0,12
 2020-09-25,Chapinero,6081.0,2
 2020-09-25,Tunjuelito,6997.0,6
@@ -3827,7 +3826,7 @@ fecha,localidad,casos,codigo
 2020-09-26,Los Mártires,3793.0,14
 2020-09-26,Antonio Nariño,3946.0,15
 2020-09-26,Santa Fe,4833.0,3
-2020-09-26,Teusaquillo,4957.0,13
+2020-09-26,Teusaquillo,4956.0,13
 2020-09-26,Barrios Unidos,5632.0,12
 2020-09-26,Chapinero,6117.0,2
 2020-09-26,Tunjuelito,7056.0,6
@@ -3847,7 +3846,7 @@ fecha,localidad,casos,codigo
 2020-09-27,Los Mártires,3807.0,14
 2020-09-27,Antonio Nariño,3961.0,15
 2020-09-27,Santa Fe,4856.0,3
-2020-09-27,Teusaquillo,4976.0,13
+2020-09-27,Teusaquillo,4975.0,13
 2020-09-27,Barrios Unidos,5647.0,12
 2020-09-27,Chapinero,6140.0,2
 2020-09-27,Tunjuelito,7075.0,6
@@ -3867,7 +3866,7 @@ fecha,localidad,casos,codigo
 2020-09-28,Los Mártires,3823.0,14
 2020-09-28,Antonio Nariño,3971.0,15
 2020-09-28,Santa Fe,4898.0,3
-2020-09-28,Teusaquillo,5014.0,13
+2020-09-28,Teusaquillo,5013.0,13
 2020-09-28,Barrios Unidos,5681.0,12
 2020-09-28,Chapinero,6187.0,2
 2020-09-28,Tunjuelito,7105.0,6
@@ -3887,7 +3886,7 @@ fecha,localidad,casos,codigo
 2020-09-29,Los Mártires,3840.0,14
 2020-09-29,Antonio Nariño,3995.0,15
 2020-09-29,Santa Fe,4942.0,3
-2020-09-29,Teusaquillo,5046.0,13
+2020-09-29,Teusaquillo,5045.0,13
 2020-09-29,Barrios Unidos,5708.0,12
 2020-09-29,Chapinero,6228.0,2
 2020-09-29,Tunjuelito,7163.0,6
@@ -3907,7 +3906,7 @@ fecha,localidad,casos,codigo
 2020-09-30,Los Mártires,3866.0,14
 2020-09-30,Antonio Nariño,4007.0,15
 2020-09-30,Santa Fe,4972.0,3
-2020-09-30,Teusaquillo,5086.0,13
+2020-09-30,Teusaquillo,5085.0,13
 2020-09-30,Barrios Unidos,5735.0,12
 2020-09-30,Chapinero,6257.0,2
 2020-09-30,Tunjuelito,7196.0,6
@@ -3927,7 +3926,7 @@ fecha,localidad,casos,codigo
 2020-10-01,Los Mártires,3895.0,14
 2020-10-01,Antonio Nariño,4033.0,15
 2020-10-01,Santa Fe,4994.0,3
-2020-10-01,Teusaquillo,5123.0,13
+2020-10-01,Teusaquillo,5122.0,13
 2020-10-01,Barrios Unidos,5768.0,12
 2020-10-01,Chapinero,6303.0,2
 2020-10-01,Tunjuelito,7224.0,6
@@ -3947,7 +3946,7 @@ fecha,localidad,casos,codigo
 2020-10-02,Los Mártires,3942.0,14
 2020-10-02,Antonio Nariño,4070.0,15
 2020-10-02,Santa Fe,5034.0,3
-2020-10-02,Teusaquillo,5155.0,13
+2020-10-02,Teusaquillo,5154.0,13
 2020-10-02,Barrios Unidos,5813.0,12
 2020-10-02,Chapinero,6349.0,2
 2020-10-02,Tunjuelito,7276.0,6
@@ -3967,7 +3966,7 @@ fecha,localidad,casos,codigo
 2020-10-03,Los Mártires,3966.0,14
 2020-10-03,Antonio Nariño,4099.0,15
 2020-10-03,Santa Fe,5076.0,3
-2020-10-03,Teusaquillo,5245.0,13
+2020-10-03,Teusaquillo,5244.0,13
 2020-10-03,Barrios Unidos,5840.0,12
 2020-10-03,Chapinero,6426.0,2
 2020-10-03,Tunjuelito,7370.0,6
@@ -3987,7 +3986,7 @@ fecha,localidad,casos,codigo
 2020-10-04,Los Mártires,3992.0,14
 2020-10-04,Antonio Nariño,4121.0,15
 2020-10-04,Santa Fe,5123.0,3
-2020-10-04,Teusaquillo,5283.0,13
+2020-10-04,Teusaquillo,5282.0,13
 2020-10-04,Barrios Unidos,5877.0,12
 2020-10-04,Chapinero,6462.0,2
 2020-10-04,Tunjuelito,7418.0,6
@@ -4007,7 +4006,7 @@ fecha,localidad,casos,codigo
 2020-10-05,Los Mártires,4005.0,14
 2020-10-05,Antonio Nariño,4140.0,15
 2020-10-05,Santa Fe,5154.0,3
-2020-10-05,Teusaquillo,5337.0,13
+2020-10-05,Teusaquillo,5336.0,13
 2020-10-05,Barrios Unidos,5911.0,12
 2020-10-05,Chapinero,6506.0,2
 2020-10-05,Tunjuelito,7452.0,6
@@ -4027,7 +4026,7 @@ fecha,localidad,casos,codigo
 2020-10-06,Los Mártires,4032.0,14
 2020-10-06,Antonio Nariño,4157.0,15
 2020-10-06,Santa Fe,5190.0,3
-2020-10-06,Teusaquillo,5378.0,13
+2020-10-06,Teusaquillo,5377.0,13
 2020-10-06,Barrios Unidos,5934.0,12
 2020-10-06,Chapinero,6530.0,2
 2020-10-06,Tunjuelito,7496.0,6
@@ -4047,7 +4046,7 @@ fecha,localidad,casos,codigo
 2020-10-07,Los Mártires,4058.0,14
 2020-10-07,Antonio Nariño,4175.0,15
 2020-10-07,Santa Fe,5226.0,3
-2020-10-07,Teusaquillo,5419.0,13
+2020-10-07,Teusaquillo,5418.0,13
 2020-10-07,Barrios Unidos,5973.0,12
 2020-10-07,Chapinero,6582.0,2
 2020-10-07,Tunjuelito,7560.0,6
@@ -4067,7 +4066,7 @@ fecha,localidad,casos,codigo
 2020-10-08,Los Mártires,4094.0,14
 2020-10-08,Antonio Nariño,4204.0,15
 2020-10-08,Santa Fe,5276.0,3
-2020-10-08,Teusaquillo,5477.0,13
+2020-10-08,Teusaquillo,5476.0,13
 2020-10-08,Barrios Unidos,6006.0,12
 2020-10-08,Chapinero,6631.0,2
 2020-10-08,Tunjuelito,7623.0,6
@@ -4087,7 +4086,7 @@ fecha,localidad,casos,codigo
 2020-10-09,Los Mártires,4111.0,14
 2020-10-09,Antonio Nariño,4220.0,15
 2020-10-09,Santa Fe,5306.0,3
-2020-10-09,Teusaquillo,5509.0,13
+2020-10-09,Teusaquillo,5508.0,13
 2020-10-09,Barrios Unidos,6040.0,12
 2020-10-09,Chapinero,6662.0,2
 2020-10-09,Tunjuelito,7662.0,6
@@ -4107,7 +4106,7 @@ fecha,localidad,casos,codigo
 2020-10-10,Los Mártires,4130.0,14
 2020-10-10,Antonio Nariño,4268.0,15
 2020-10-10,Santa Fe,5349.0,3
-2020-10-10,Teusaquillo,5550.0,13
+2020-10-10,Teusaquillo,5549.0,13
 2020-10-10,Barrios Unidos,6070.0,12
 2020-10-10,Chapinero,6693.0,2
 2020-10-10,Tunjuelito,7706.0,6
@@ -4127,7 +4126,7 @@ fecha,localidad,casos,codigo
 2020-10-11,Los Mártires,4149.0,14
 2020-10-11,Antonio Nariño,4284.0,15
 2020-10-11,Santa Fe,5366.0,3
-2020-10-11,Teusaquillo,5583.0,13
+2020-10-11,Teusaquillo,5582.0,13
 2020-10-11,Barrios Unidos,6099.0,12
 2020-10-11,Chapinero,6709.0,2
 2020-10-11,Tunjuelito,7728.0,6
@@ -4147,7 +4146,7 @@ fecha,localidad,casos,codigo
 2020-10-12,Los Mártires,4161.0,14
 2020-10-12,Antonio Nariño,4299.0,15
 2020-10-12,Santa Fe,5372.0,3
-2020-10-12,Teusaquillo,5599.0,13
+2020-10-12,Teusaquillo,5598.0,13
 2020-10-12,Barrios Unidos,6110.0,12
 2020-10-12,Chapinero,6737.0,2
 2020-10-12,Tunjuelito,7758.0,6
@@ -4167,7 +4166,7 @@ fecha,localidad,casos,codigo
 2020-10-13,Los Mártires,4170.0,14
 2020-10-13,Antonio Nariño,4306.0,15
 2020-10-13,Santa Fe,5384.0,3
-2020-10-13,Teusaquillo,5617.0,13
+2020-10-13,Teusaquillo,5616.0,13
 2020-10-13,Barrios Unidos,6141.0,12
 2020-10-13,Chapinero,6759.0,2
 2020-10-13,Tunjuelito,7776.0,6
@@ -4187,7 +4186,7 @@ fecha,localidad,casos,codigo
 2020-10-14,Los Mártires,4187.0,14
 2020-10-14,Antonio Nariño,4321.0,15
 2020-10-14,Santa Fe,5404.0,3
-2020-10-14,Teusaquillo,5645.0,13
+2020-10-14,Teusaquillo,5644.0,13
 2020-10-14,Barrios Unidos,6168.0,12
 2020-10-14,Chapinero,6796.0,2
 2020-10-14,Tunjuelito,7820.0,6
@@ -4207,7 +4206,7 @@ fecha,localidad,casos,codigo
 2020-10-15,Los Mártires,4217.0,14
 2020-10-15,Antonio Nariño,4340.0,15
 2020-10-15,Santa Fe,5445.0,3
-2020-10-15,Teusaquillo,5694.0,13
+2020-10-15,Teusaquillo,5693.0,13
 2020-10-15,Barrios Unidos,6204.0,12
 2020-10-15,Chapinero,6857.0,2
 2020-10-15,Tunjuelito,7877.0,6
@@ -4227,7 +4226,7 @@ fecha,localidad,casos,codigo
 2020-10-16,Los Mártires,4239.0,14
 2020-10-16,Antonio Nariño,4364.0,15
 2020-10-16,Santa Fe,5484.0,3
-2020-10-16,Teusaquillo,5732.0,13
+2020-10-16,Teusaquillo,5731.0,13
 2020-10-16,Barrios Unidos,6242.0,12
 2020-10-16,Chapinero,6894.0,2
 2020-10-16,Tunjuelito,7916.0,6
@@ -4247,7 +4246,7 @@ fecha,localidad,casos,codigo
 2020-10-17,Los Mártires,4257.0,14
 2020-10-17,Antonio Nariño,4386.0,15
 2020-10-17,Santa Fe,5511.0,3
-2020-10-17,Teusaquillo,5775.0,13
+2020-10-17,Teusaquillo,5774.0,13
 2020-10-17,Barrios Unidos,6269.0,12
 2020-10-17,Chapinero,6932.0,2
 2020-10-17,Tunjuelito,7947.0,6
@@ -4267,7 +4266,7 @@ fecha,localidad,casos,codigo
 2020-10-18,Los Mártires,4269.0,14
 2020-10-18,Antonio Nariño,4417.0,15
 2020-10-18,Santa Fe,5530.0,3
-2020-10-18,Teusaquillo,5805.0,13
+2020-10-18,Teusaquillo,5804.0,13
 2020-10-18,Barrios Unidos,6283.0,12
 2020-10-18,Chapinero,6950.0,2
 2020-10-18,Tunjuelito,7973.0,6
@@ -4287,7 +4286,7 @@ fecha,localidad,casos,codigo
 2020-10-19,Los Mártires,4299.0,14
 2020-10-19,Antonio Nariño,4438.0,15
 2020-10-19,Santa Fe,5576.0,3
-2020-10-19,Teusaquillo,5846.0,13
+2020-10-19,Teusaquillo,5845.0,13
 2020-10-19,Barrios Unidos,6327.0,12
 2020-10-19,Chapinero,6995.0,2
 2020-10-19,Tunjuelito,8010.0,6
@@ -4307,7 +4306,7 @@ fecha,localidad,casos,codigo
 2020-10-20,Los Mártires,4330.0,14
 2020-10-20,Antonio Nariño,4456.0,15
 2020-10-20,Santa Fe,5618.0,3
-2020-10-20,Teusaquillo,5924.0,13
+2020-10-20,Teusaquillo,5923.0,13
 2020-10-20,Barrios Unidos,6370.0,12
 2020-10-20,Chapinero,7045.0,2
 2020-10-20,Tunjuelito,8070.0,6
@@ -4327,7 +4326,7 @@ fecha,localidad,casos,codigo
 2020-10-21,Los Mártires,4353.0,14
 2020-10-21,Antonio Nariño,4477.0,15
 2020-10-21,Santa Fe,5651.0,3
-2020-10-21,Teusaquillo,5968.0,13
+2020-10-21,Teusaquillo,5967.0,13
 2020-10-21,Barrios Unidos,6407.0,12
 2020-10-21,Chapinero,7089.0,2
 2020-10-21,Tunjuelito,8114.0,6
@@ -4347,7 +4346,7 @@ fecha,localidad,casos,codigo
 2020-10-22,Los Mártires,4373.0,14
 2020-10-22,Antonio Nariño,4510.0,15
 2020-10-22,Santa Fe,5684.0,3
-2020-10-22,Teusaquillo,6012.0,13
+2020-10-22,Teusaquillo,6011.0,13
 2020-10-22,Barrios Unidos,6445.0,12
 2020-10-22,Chapinero,7137.0,2
 2020-10-22,Tunjuelito,8158.0,6
@@ -4367,7 +4366,7 @@ fecha,localidad,casos,codigo
 2020-10-23,Los Mártires,4400.0,14
 2020-10-23,Antonio Nariño,4534.0,15
 2020-10-23,Santa Fe,5724.0,3
-2020-10-23,Teusaquillo,6065.0,13
+2020-10-23,Teusaquillo,6064.0,13
 2020-10-23,Barrios Unidos,6480.0,12
 2020-10-23,Chapinero,7190.0,2
 2020-10-23,Tunjuelito,8206.0,6
@@ -4387,7 +4386,7 @@ fecha,localidad,casos,codigo
 2020-10-24,Los Mártires,4417.0,14
 2020-10-24,Antonio Nariño,4558.0,15
 2020-10-24,Santa Fe,5744.0,3
-2020-10-24,Teusaquillo,6101.0,13
+2020-10-24,Teusaquillo,6100.0,13
 2020-10-24,Barrios Unidos,6530.0,12
 2020-10-24,Chapinero,7249.0,2
 2020-10-24,Tunjuelito,8231.0,6
@@ -4407,7 +4406,7 @@ fecha,localidad,casos,codigo
 2020-10-25,Los Mártires,4435.0,14
 2020-10-25,Antonio Nariño,4581.0,15
 2020-10-25,Santa Fe,5769.0,3
-2020-10-25,Teusaquillo,6143.0,13
+2020-10-25,Teusaquillo,6142.0,13
 2020-10-25,Barrios Unidos,6548.0,12
 2020-10-25,Chapinero,7288.0,2
 2020-10-25,Tunjuelito,8270.0,6
@@ -4427,7 +4426,7 @@ fecha,localidad,casos,codigo
 2020-10-26,Los Mártires,4465.0,14
 2020-10-26,Antonio Nariño,4605.0,15
 2020-10-26,Santa Fe,5812.0,3
-2020-10-26,Teusaquillo,6188.0,13
+2020-10-26,Teusaquillo,6187.0,13
 2020-10-26,Barrios Unidos,6601.0,12
 2020-10-26,Chapinero,7355.0,2
 2020-10-26,Tunjuelito,8307.0,6
@@ -4448,7 +4447,7 @@ fecha,localidad,casos,codigo
 2020-10-27,Los Mártires,4503.0,14
 2020-10-27,Antonio Nariño,4633.0,15
 2020-10-27,Santa Fe,5839.0,3
-2020-10-27,Teusaquillo,6255.0,13
+2020-10-27,Teusaquillo,6254.0,13
 2020-10-27,Barrios Unidos,6644.0,12
 2020-10-27,Chapinero,7400.0,2
 2020-10-27,Tunjuelito,8365.0,6
@@ -4469,7 +4468,7 @@ fecha,localidad,casos,codigo
 2020-10-28,Los Mártires,4536.0,14
 2020-10-28,Antonio Nariño,4660.0,15
 2020-10-28,Santa Fe,5882.0,3
-2020-10-28,Teusaquillo,6306.0,13
+2020-10-28,Teusaquillo,6305.0,13
 2020-10-28,Barrios Unidos,6683.0,12
 2020-10-28,Chapinero,7442.0,2
 2020-10-28,Tunjuelito,8425.0,6
@@ -4490,7 +4489,7 @@ fecha,localidad,casos,codigo
 2020-10-29,Los Mártires,4586.0,14
 2020-10-29,Antonio Nariño,4695.0,15
 2020-10-29,Santa Fe,5923.0,3
-2020-10-29,Teusaquillo,6386.0,13
+2020-10-29,Teusaquillo,6385.0,13
 2020-10-29,Barrios Unidos,6721.0,12
 2020-10-29,Chapinero,7486.0,2
 2020-10-29,Tunjuelito,8462.0,6
@@ -4511,7 +4510,7 @@ fecha,localidad,casos,codigo
 2020-10-30,Los Mártires,4611.0,14
 2020-10-30,Antonio Nariño,4720.0,15
 2020-10-30,Santa Fe,5961.0,3
-2020-10-30,Teusaquillo,6465.0,13
+2020-10-30,Teusaquillo,6464.0,13
 2020-10-30,Barrios Unidos,6746.0,12
 2020-10-30,Chapinero,7543.0,2
 2020-10-30,Tunjuelito,8500.0,6
@@ -4532,7 +4531,7 @@ fecha,localidad,casos,codigo
 2020-10-31,Los Mártires,4651.0,14
 2020-10-31,Antonio Nariño,4739.0,15
 2020-10-31,Santa Fe,6003.0,3
-2020-10-31,Teusaquillo,6537.0,13
+2020-10-31,Teusaquillo,6536.0,13
 2020-10-31,Barrios Unidos,6784.0,12
 2020-10-31,Chapinero,7606.0,2
 2020-10-31,Tunjuelito,8538.0,6
@@ -4553,7 +4552,7 @@ fecha,localidad,casos,codigo
 2020-11-01,Los Mártires,4673.0,14
 2020-11-01,Antonio Nariño,4760.0,15
 2020-11-01,Santa Fe,6024.0,3
-2020-11-01,Teusaquillo,6602.0,13
+2020-11-01,Teusaquillo,6601.0,13
 2020-11-01,Barrios Unidos,6814.0,12
 2020-11-01,Chapinero,7627.0,2
 2020-11-01,Tunjuelito,8568.0,6
@@ -4574,7 +4573,7 @@ fecha,localidad,casos,codigo
 2020-11-02,Los Mártires,4694.0,14
 2020-11-02,Antonio Nariño,4783.0,15
 2020-11-02,Santa Fe,6055.0,3
-2020-11-02,Teusaquillo,6663.0,13
+2020-11-02,Teusaquillo,6662.0,13
 2020-11-02,Barrios Unidos,6864.0,12
 2020-11-02,Chapinero,7670.0,2
 2020-11-02,Tunjuelito,8632.0,6
@@ -4595,7 +4594,7 @@ fecha,localidad,casos,codigo
 2020-11-03,Los Mártires,4712.0,14
 2020-11-03,Antonio Nariño,4809.0,15
 2020-11-03,Santa Fe,6087.0,3
-2020-11-03,Teusaquillo,6720.0,13
+2020-11-03,Teusaquillo,6719.0,13
 2020-11-03,Barrios Unidos,6902.0,12
 2020-11-03,Chapinero,7744.0,2
 2020-11-03,Tunjuelito,8700.0,6
@@ -4616,7 +4615,7 @@ fecha,localidad,casos,codigo
 2020-11-04,Los Mártires,4733.0,14
 2020-11-04,Antonio Nariño,4847.0,15
 2020-11-04,Santa Fe,6153.0,3
-2020-11-04,Teusaquillo,6765.0,13
+2020-11-04,Teusaquillo,6764.0,13
 2020-11-04,Barrios Unidos,6936.0,12
 2020-11-04,Chapinero,7804.0,2
 2020-11-04,Tunjuelito,8747.0,6
@@ -4637,7 +4636,7 @@ fecha,localidad,casos,codigo
 2020-11-05,Los Mártires,4754.0,14
 2020-11-05,Antonio Nariño,4863.0,15
 2020-11-05,Santa Fe,6183.0,3
-2020-11-05,Teusaquillo,6816.0,13
+2020-11-05,Teusaquillo,6815.0,13
 2020-11-05,Barrios Unidos,6968.0,12
 2020-11-05,Chapinero,7857.0,2
 2020-11-05,Tunjuelito,8774.0,6
@@ -4658,7 +4657,7 @@ fecha,localidad,casos,codigo
 2020-11-06,Los Mártires,4779.0,14
 2020-11-06,Antonio Nariño,4884.0,15
 2020-11-06,Santa Fe,6222.0,3
-2020-11-06,Teusaquillo,6862.0,13
+2020-11-06,Teusaquillo,6861.0,13
 2020-11-06,Barrios Unidos,7021.0,12
 2020-11-06,Chapinero,7926.0,2
 2020-11-06,Tunjuelito,8812.0,6
@@ -4679,7 +4678,7 @@ fecha,localidad,casos,codigo
 2020-11-07,Los Mártires,4805.0,14
 2020-11-07,Antonio Nariño,4910.0,15
 2020-11-07,Santa Fe,6247.0,3
-2020-11-07,Teusaquillo,6920.0,13
+2020-11-07,Teusaquillo,6919.0,13
 2020-11-07,Barrios Unidos,7059.0,12
 2020-11-07,Chapinero,7984.0,2
 2020-11-07,Tunjuelito,8839.0,6
@@ -4700,7 +4699,7 @@ fecha,localidad,casos,codigo
 2020-11-08,Los Mártires,4834.0,14
 2020-11-08,Antonio Nariño,4934.0,15
 2020-11-08,Santa Fe,6279.0,3
-2020-11-08,Teusaquillo,6984.0,13
+2020-11-08,Teusaquillo,6983.0,13
 2020-11-08,Barrios Unidos,7101.0,12
 2020-11-08,Chapinero,8034.0,2
 2020-11-08,Tunjuelito,8863.0,6
@@ -4721,7 +4720,7 @@ fecha,localidad,casos,codigo
 2020-11-09,Los Mártires,4853.0,14
 2020-11-09,Antonio Nariño,4957.0,15
 2020-11-09,Santa Fe,6307.0,3
-2020-11-09,Teusaquillo,7042.0,13
+2020-11-09,Teusaquillo,7041.0,13
 2020-11-09,Barrios Unidos,7124.0,12
 2020-11-09,Chapinero,8087.0,2
 2020-11-09,Tunjuelito,8901.0,6
@@ -4742,7 +4741,7 @@ fecha,localidad,casos,codigo
 2020-11-10,Los Mártires,4878.0,14
 2020-11-10,Antonio Nariño,4986.0,15
 2020-11-10,Santa Fe,6335.0,3
-2020-11-10,Teusaquillo,7103.0,13
+2020-11-10,Teusaquillo,7102.0,13
 2020-11-10,Barrios Unidos,7166.0,12
 2020-11-10,Chapinero,8151.0,2
 2020-11-10,Tunjuelito,8944.0,6
@@ -4763,7 +4762,7 @@ fecha,localidad,casos,codigo
 2020-11-11,Los Mártires,4904.0,14
 2020-11-11,Antonio Nariño,5009.0,15
 2020-11-11,Santa Fe,6369.0,3
-2020-11-11,Teusaquillo,7166.0,13
+2020-11-11,Teusaquillo,7165.0,13
 2020-11-11,Barrios Unidos,7202.0,12
 2020-11-11,Chapinero,8206.0,2
 2020-11-11,Tunjuelito,8973.0,6
@@ -4784,7 +4783,7 @@ fecha,localidad,casos,codigo
 2020-11-12,Los Mártires,4933.0,14
 2020-11-12,Antonio Nariño,5025.0,15
 2020-11-12,Santa Fe,6409.0,3
-2020-11-12,Teusaquillo,7224.0,13
+2020-11-12,Teusaquillo,7223.0,13
 2020-11-12,Barrios Unidos,7245.0,12
 2020-11-12,Chapinero,8285.0,2
 2020-11-12,Tunjuelito,9006.0,6
@@ -4805,7 +4804,7 @@ fecha,localidad,casos,codigo
 2020-11-13,Los Mártires,4952.0,14
 2020-11-13,Antonio Nariño,5044.0,15
 2020-11-13,Santa Fe,6434.0,3
-2020-11-13,Teusaquillo,7258.0,13
+2020-11-13,Teusaquillo,7257.0,13
 2020-11-13,Barrios Unidos,7278.0,12
 2020-11-13,Chapinero,8345.0,2
 2020-11-13,Tunjuelito,9022.0,6
@@ -4826,7 +4825,7 @@ fecha,localidad,casos,codigo
 2020-11-14,Los Mártires,4968.0,14
 2020-11-14,Antonio Nariño,5061.0,15
 2020-11-14,Santa Fe,6464.0,3
-2020-11-14,Teusaquillo,7297.0,13
+2020-11-14,Teusaquillo,7296.0,13
 2020-11-14,Barrios Unidos,7303.0,12
 2020-11-14,Chapinero,8416.0,2
 2020-11-14,Tunjuelito,9042.0,6
@@ -4847,7 +4846,7 @@ fecha,localidad,casos,codigo
 2020-11-15,Los Mártires,4980.0,14
 2020-11-15,Antonio Nariño,5075.0,15
 2020-11-15,Santa Fe,6475.0,3
-2020-11-15,Teusaquillo,7319.0,13
+2020-11-15,Teusaquillo,7318.0,13
 2020-11-15,Barrios Unidos,7324.0,12
 2020-11-15,Chapinero,8435.0,2
 2020-11-15,Tunjuelito,9075.0,6
@@ -4869,7 +4868,7 @@ fecha,localidad,casos,codigo
 2020-11-16,Antonio Nariño,5091.0,15
 2020-11-16,Santa Fe,6515.0,3
 2020-11-16,Barrios Unidos,7350.0,12
-2020-11-16,Teusaquillo,7363.0,13
+2020-11-16,Teusaquillo,7362.0,13
 2020-11-16,Chapinero,8485.0,2
 2020-11-16,Tunjuelito,9111.0,6
 2020-11-16,Usme,13564.0,5
@@ -4890,7 +4889,7 @@ fecha,localidad,casos,codigo
 2020-11-17,Antonio Nariño,5125.0,15
 2020-11-17,Santa Fe,6563.0,3
 2020-11-17,Barrios Unidos,7387.0,12
-2020-11-17,Teusaquillo,7419.0,13
+2020-11-17,Teusaquillo,7418.0,13
 2020-11-17,Chapinero,8555.0,2
 2020-11-17,Tunjuelito,9144.0,6
 2020-11-17,Usme,13637.0,5
@@ -4911,7 +4910,7 @@ fecha,localidad,casos,codigo
 2020-11-18,Antonio Nariño,5146.0,15
 2020-11-18,Santa Fe,6598.0,3
 2020-11-18,Barrios Unidos,7420.0,12
-2020-11-18,Teusaquillo,7454.0,13
+2020-11-18,Teusaquillo,7453.0,13
 2020-11-18,Chapinero,8592.0,2
 2020-11-18,Tunjuelito,9187.0,6
 2020-11-18,Usme,13705.0,5
@@ -4932,7 +4931,7 @@ fecha,localidad,casos,codigo
 2020-11-19,Antonio Nariño,5175.0,15
 2020-11-19,Santa Fe,6643.0,3
 2020-11-19,Barrios Unidos,7473.0,12
-2020-11-19,Teusaquillo,7518.0,13
+2020-11-19,Teusaquillo,7517.0,13
 2020-11-19,Chapinero,8691.0,2
 2020-11-19,Tunjuelito,9236.0,6
 2020-11-19,Usme,13775.0,5
@@ -4953,7 +4952,7 @@ fecha,localidad,casos,codigo
 2020-11-20,Antonio Nariño,5197.0,15
 2020-11-20,Santa Fe,6671.0,3
 2020-11-20,Barrios Unidos,7512.0,12
-2020-11-20,Teusaquillo,7577.0,13
+2020-11-20,Teusaquillo,7576.0,13
 2020-11-20,Chapinero,8762.0,2
 2020-11-20,Tunjuelito,9272.0,6
 2020-11-20,Usme,13829.0,5
@@ -4974,7 +4973,7 @@ fecha,localidad,casos,codigo
 2020-11-21,Antonio Nariño,5234.0,15
 2020-11-21,Santa Fe,6700.0,3
 2020-11-21,Barrios Unidos,7555.0,12
-2020-11-21,Teusaquillo,7691.0,13
+2020-11-21,Teusaquillo,7690.0,13
 2020-11-21,Chapinero,8847.0,2
 2020-11-21,Tunjuelito,9329.0,6
 2020-11-21,Usme,13901.0,5
@@ -4995,7 +4994,7 @@ fecha,localidad,casos,codigo
 2020-11-22,Antonio Nariño,5256.0,15
 2020-11-22,Santa Fe,6732.0,3
 2020-11-22,Barrios Unidos,7604.0,12
-2020-11-22,Teusaquillo,7738.0,13
+2020-11-22,Teusaquillo,7737.0,13
 2020-11-22,Chapinero,8899.0,2
 2020-11-22,Tunjuelito,9380.0,6
 2020-11-22,Usme,13959.0,5
@@ -5016,7 +5015,7 @@ fecha,localidad,casos,codigo
 2020-11-23,Antonio Nariño,5292.0,15
 2020-11-23,Santa Fe,6766.0,3
 2020-11-23,Barrios Unidos,7653.0,12
-2020-11-23,Teusaquillo,7786.0,13
+2020-11-23,Teusaquillo,7785.0,13
 2020-11-23,Chapinero,8972.0,2
 2020-11-23,Tunjuelito,9411.0,6
 2020-11-23,Usme,14004.0,5
@@ -5037,7 +5036,7 @@ fecha,localidad,casos,codigo
 2020-11-24,Antonio Nariño,5323.0,15
 2020-11-24,Santa Fe,6824.0,3
 2020-11-24,Barrios Unidos,7707.0,12
-2020-11-24,Teusaquillo,7845.0,13
+2020-11-24,Teusaquillo,7844.0,13
 2020-11-24,Chapinero,9039.0,2
 2020-11-24,Tunjuelito,9465.0,6
 2020-11-24,Usme,14067.0,5
@@ -5058,7 +5057,7 @@ fecha,localidad,casos,codigo
 2020-11-25,Antonio Nariño,5374.0,15
 2020-11-25,Santa Fe,6865.0,3
 2020-11-25,Barrios Unidos,7751.0,12
-2020-11-25,Teusaquillo,7934.0,13
+2020-11-25,Teusaquillo,7933.0,13
 2020-11-25,Chapinero,9105.0,2
 2020-11-25,Tunjuelito,9533.0,6
 2020-11-25,Usme,14197.0,5
@@ -5079,7 +5078,7 @@ fecha,localidad,casos,codigo
 2020-11-26,Antonio Nariño,5423.0,15
 2020-11-26,Santa Fe,6915.0,3
 2020-11-26,Barrios Unidos,7813.0,12
-2020-11-26,Teusaquillo,8017.0,13
+2020-11-26,Teusaquillo,8016.0,13
 2020-11-26,Chapinero,9168.0,2
 2020-11-26,Tunjuelito,9591.0,6
 2020-11-26,Usme,14326.0,5
@@ -5100,7 +5099,7 @@ fecha,localidad,casos,codigo
 2020-11-27,Antonio Nariño,5481.0,15
 2020-11-27,Santa Fe,6976.0,3
 2020-11-27,Barrios Unidos,7895.0,12
-2020-11-27,Teusaquillo,8092.0,13
+2020-11-27,Teusaquillo,8091.0,13
 2020-11-27,Chapinero,9261.0,2
 2020-11-27,Tunjuelito,9745.0,6
 2020-11-27,Usme,14406.0,5
@@ -5121,7 +5120,7 @@ fecha,localidad,casos,codigo
 2020-11-28,Antonio Nariño,5504.0,15
 2020-11-28,Santa Fe,7018.0,3
 2020-11-28,Barrios Unidos,7947.0,12
-2020-11-28,Teusaquillo,8148.0,13
+2020-11-28,Teusaquillo,8147.0,13
 2020-11-28,Chapinero,9330.0,2
 2020-11-28,Tunjuelito,9777.0,6
 2020-11-28,Usme,14473.0,5
@@ -5142,7 +5141,7 @@ fecha,localidad,casos,codigo
 2020-11-29,Antonio Nariño,5525.0,15
 2020-11-29,Santa Fe,7044.0,3
 2020-11-29,Barrios Unidos,7979.0,12
-2020-11-29,Teusaquillo,8234.0,13
+2020-11-29,Teusaquillo,8233.0,13
 2020-11-29,Chapinero,9382.0,2
 2020-11-29,Tunjuelito,9794.0,6
 2020-11-29,Usme,14510.0,5
@@ -5163,7 +5162,7 @@ fecha,localidad,casos,codigo
 2020-11-30,Antonio Nariño,5554.0,15
 2020-11-30,Santa Fe,7071.0,3
 2020-11-30,Barrios Unidos,8015.0,12
-2020-11-30,Teusaquillo,8299.0,13
+2020-11-30,Teusaquillo,8298.0,13
 2020-11-30,Chapinero,9469.0,2
 2020-11-30,Tunjuelito,9834.0,6
 2020-11-30,Usme,14567.0,5
@@ -5184,7 +5183,7 @@ fecha,localidad,casos,codigo
 2020-12-01,Antonio Nariño,5589.0,15
 2020-12-01,Santa Fe,7112.0,3
 2020-12-01,Barrios Unidos,8050.0,12
-2020-12-01,Teusaquillo,8360.0,13
+2020-12-01,Teusaquillo,8359.0,13
 2020-12-01,Chapinero,9560.0,2
 2020-12-01,Tunjuelito,9898.0,6
 2020-12-01,Usme,14660.0,5
@@ -5205,7 +5204,7 @@ fecha,localidad,casos,codigo
 2020-12-02,Antonio Nariño,5620.0,15
 2020-12-02,Santa Fe,7168.0,3
 2020-12-02,Barrios Unidos,8092.0,12
-2020-12-02,Teusaquillo,8420.0,13
+2020-12-02,Teusaquillo,8419.0,13
 2020-12-02,Chapinero,9658.0,2
 2020-12-02,Tunjuelito,9941.0,6
 2020-12-02,Usme,14726.0,5
@@ -5226,7 +5225,7 @@ fecha,localidad,casos,codigo
 2020-12-03,Antonio Nariño,5648.0,15
 2020-12-03,Santa Fe,7212.0,3
 2020-12-03,Barrios Unidos,8133.0,12
-2020-12-03,Teusaquillo,8486.0,13
+2020-12-03,Teusaquillo,8485.0,13
 2020-12-03,Chapinero,9739.0,2
 2020-12-03,Tunjuelito,9959.0,6
 2020-12-03,Usme,14757.0,5
@@ -5247,7 +5246,7 @@ fecha,localidad,casos,codigo
 2020-12-04,Antonio Nariño,5689.0,15
 2020-12-04,Santa Fe,7283.0,3
 2020-12-04,Barrios Unidos,8196.0,12
-2020-12-04,Teusaquillo,8577.0,13
+2020-12-04,Teusaquillo,8576.0,13
 2020-12-04,Chapinero,9836.0,2
 2020-12-04,Tunjuelito,10047.0,6
 2020-12-04,Usme,14855.0,5
@@ -5268,7 +5267,7 @@ fecha,localidad,casos,codigo
 2020-12-05,Antonio Nariño,5726.0,15
 2020-12-05,Santa Fe,7330.0,3
 2020-12-05,Barrios Unidos,8252.0,12
-2020-12-05,Teusaquillo,8660.0,13
+2020-12-05,Teusaquillo,8659.0,13
 2020-12-05,Chapinero,9905.0,2
 2020-12-05,Tunjuelito,10093.0,6
 2020-12-05,Usme,14948.0,5
@@ -5289,7 +5288,7 @@ fecha,localidad,casos,codigo
 2020-12-06,Antonio Nariño,5744.0,15
 2020-12-06,Santa Fe,7373.0,3
 2020-12-06,Barrios Unidos,8314.0,12
-2020-12-06,Teusaquillo,8700.0,13
+2020-12-06,Teusaquillo,8699.0,13
 2020-12-06,Chapinero,9987.0,2
 2020-12-06,Tunjuelito,10107.0,6
 2020-12-06,Usme,14971.0,5
@@ -5310,7 +5309,7 @@ fecha,localidad,casos,codigo
 2020-12-07,Antonio Nariño,5784.0,15
 2020-12-07,Santa Fe,7423.0,3
 2020-12-07,Barrios Unidos,8363.0,12
-2020-12-07,Teusaquillo,8769.0,13
+2020-12-07,Teusaquillo,8768.0,13
 2020-12-07,Chapinero,10076.0,2
 2020-12-07,Tunjuelito,10164.0,6
 2020-12-07,Usme,15040.0,5
@@ -5331,7 +5330,7 @@ fecha,localidad,casos,codigo
 2020-12-08,Antonio Nariño,5810.0,15
 2020-12-08,Santa Fe,7455.0,3
 2020-12-08,Barrios Unidos,8423.0,12
-2020-12-08,Teusaquillo,8839.0,13
+2020-12-08,Teusaquillo,8838.0,13
 2020-12-08,Chapinero,10137.0,2
 2020-12-08,Tunjuelito,10222.0,6
 2020-12-08,Usme,15101.0,5
@@ -5352,7 +5351,7 @@ fecha,localidad,casos,codigo
 2020-12-09,Antonio Nariño,5852.0,15
 2020-12-09,Santa Fe,7510.0,3
 2020-12-09,Barrios Unidos,8497.0,12
-2020-12-09,Teusaquillo,8921.0,13
+2020-12-09,Teusaquillo,8920.0,13
 2020-12-09,Chapinero,10252.0,2
 2020-12-09,Tunjuelito,10297.0,6
 2020-12-09,Usme,15185.0,5
@@ -5373,7 +5372,7 @@ fecha,localidad,casos,codigo
 2020-12-10,Antonio Nariño,5896.0,15
 2020-12-10,Santa Fe,7561.0,3
 2020-12-10,Barrios Unidos,8569.0,12
-2020-12-10,Teusaquillo,9017.0,13
+2020-12-10,Teusaquillo,9016.0,13
 2020-12-10,Chapinero,10354.0,2
 2020-12-10,Tunjuelito,10373.0,6
 2020-12-10,Usme,15270.0,5
@@ -5394,7 +5393,7 @@ fecha,localidad,casos,codigo
 2020-12-11,Antonio Nariño,5940.0,15
 2020-12-11,Santa Fe,7614.0,3
 2020-12-11,Barrios Unidos,8628.0,12
-2020-12-11,Teusaquillo,9126.0,13
+2020-12-11,Teusaquillo,9125.0,13
 2020-12-11,Tunjuelito,10419.0,6
 2020-12-11,Chapinero,10471.0,2
 2020-12-11,Usme,15366.0,5
@@ -5415,7 +5414,7 @@ fecha,localidad,casos,codigo
 2020-12-12,Antonio Nariño,5968.0,15
 2020-12-12,Santa Fe,7686.0,3
 2020-12-12,Barrios Unidos,8705.0,12
-2020-12-12,Teusaquillo,9211.0,13
+2020-12-12,Teusaquillo,9210.0,13
 2020-12-12,Tunjuelito,10480.0,6
 2020-12-12,Chapinero,10603.0,2
 2020-12-12,Usme,15445.0,5
@@ -5436,7 +5435,7 @@ fecha,localidad,casos,codigo
 2020-12-13,Antonio Nariño,6004.0,15
 2020-12-13,Santa Fe,7728.0,3
 2020-12-13,Barrios Unidos,8760.0,12
-2020-12-13,Teusaquillo,9280.0,13
+2020-12-13,Teusaquillo,9279.0,13
 2020-12-13,Tunjuelito,10542.0,6
 2020-12-13,Chapinero,10671.0,2
 2020-12-13,Usme,15492.0,5
@@ -5457,7 +5456,7 @@ fecha,localidad,casos,codigo
 2020-12-14,Antonio Nariño,6037.0,15
 2020-12-14,Santa Fe,7775.0,3
 2020-12-14,Barrios Unidos,8837.0,12
-2020-12-14,Teusaquillo,9359.0,13
+2020-12-14,Teusaquillo,9358.0,13
 2020-12-14,Tunjuelito,10593.0,6
 2020-12-14,Chapinero,10795.0,2
 2020-12-14,Usme,15619.0,5
@@ -5478,7 +5477,7 @@ fecha,localidad,casos,codigo
 2020-12-15,Antonio Nariño,6100.0,15
 2020-12-15,Santa Fe,7845.0,3
 2020-12-15,Barrios Unidos,8937.0,12
-2020-12-15,Teusaquillo,9451.0,13
+2020-12-15,Teusaquillo,9450.0,13
 2020-12-15,Tunjuelito,10665.0,6
 2020-12-15,Chapinero,10927.0,2
 2020-12-15,Usme,15701.0,5
@@ -5499,7 +5498,7 @@ fecha,localidad,casos,codigo
 2020-12-16,Antonio Nariño,6181.0,15
 2020-12-16,Santa Fe,7946.0,3
 2020-12-16,Barrios Unidos,9066.0,12
-2020-12-16,Teusaquillo,9597.0,13
+2020-12-16,Teusaquillo,9596.0,13
 2020-12-16,Tunjuelito,10788.0,6
 2020-12-16,Chapinero,11058.0,2
 2020-12-16,Usme,15903.0,5
@@ -5520,7 +5519,7 @@ fecha,localidad,casos,codigo
 2020-12-17,Antonio Nariño,6213.0,15
 2020-12-17,Santa Fe,8025.0,3
 2020-12-17,Barrios Unidos,9145.0,12
-2020-12-17,Teusaquillo,9683.0,13
+2020-12-17,Teusaquillo,9682.0,13
 2020-12-17,Tunjuelito,10826.0,6
 2020-12-17,Chapinero,11169.0,2
 2020-12-17,Usme,15956.0,5
@@ -5541,7 +5540,7 @@ fecha,localidad,casos,codigo
 2020-12-18,Antonio Nariño,6280.0,15
 2020-12-18,Santa Fe,8110.0,3
 2020-12-18,Barrios Unidos,9244.0,12
-2020-12-18,Teusaquillo,9801.0,13
+2020-12-18,Teusaquillo,9800.0,13
 2020-12-18,Tunjuelito,10895.0,6
 2020-12-18,Chapinero,11286.0,2
 2020-12-18,Usme,16079.0,5
@@ -5562,7 +5561,7 @@ fecha,localidad,casos,codigo
 2020-12-19,Antonio Nariño,6310.0,15
 2020-12-19,Santa Fe,8172.0,3
 2020-12-19,Barrios Unidos,9312.0,12
-2020-12-19,Teusaquillo,9880.0,13
+2020-12-19,Teusaquillo,9879.0,13
 2020-12-19,Tunjuelito,10976.0,6
 2020-12-19,Chapinero,11392.0,2
 2020-12-19,Usme,16166.0,5
@@ -5583,7 +5582,7 @@ fecha,localidad,casos,codigo
 2020-12-20,Antonio Nariño,6358.0,15
 2020-12-20,Santa Fe,8219.0,3
 2020-12-20,Barrios Unidos,9370.0,12
-2020-12-20,Teusaquillo,9969.0,13
+2020-12-20,Teusaquillo,9968.0,13
 2020-12-20,Tunjuelito,11029.0,6
 2020-12-20,Chapinero,11467.0,2
 2020-12-20,Usme,16256.0,5
@@ -5604,7 +5603,7 @@ fecha,localidad,casos,codigo
 2020-12-21,Antonio Nariño,6386.0,15
 2020-12-21,Santa Fe,8305.0,3
 2020-12-21,Barrios Unidos,9441.0,12
-2020-12-21,Teusaquillo,10092.0,13
+2020-12-21,Teusaquillo,10091.0,13
 2020-12-21,Tunjuelito,11097.0,6
 2020-12-21,Chapinero,11594.0,2
 2020-12-21,Usme,16374.0,5
@@ -5625,7 +5624,7 @@ fecha,localidad,casos,codigo
 2020-12-22,Antonio Nariño,6453.0,15
 2020-12-22,Santa Fe,8402.0,3
 2020-12-22,Barrios Unidos,9543.0,12
-2020-12-22,Teusaquillo,10211.0,13
+2020-12-22,Teusaquillo,10210.0,13
 2020-12-22,Tunjuelito,11176.0,6
 2020-12-22,Chapinero,11775.0,2
 2020-12-22,Usme,16492.0,5
@@ -5646,7 +5645,7 @@ fecha,localidad,casos,codigo
 2020-12-23,Antonio Nariño,6497.0,15
 2020-12-23,Santa Fe,8490.0,3
 2020-12-23,Barrios Unidos,9653.0,12
-2020-12-23,Teusaquillo,10329.0,13
+2020-12-23,Teusaquillo,10328.0,13
 2020-12-23,Tunjuelito,11244.0,6
 2020-12-23,Chapinero,11914.0,2
 2020-12-23,Usme,16579.0,5
@@ -5667,7 +5666,7 @@ fecha,localidad,casos,codigo
 2020-12-24,Antonio Nariño,6544.0,15
 2020-12-24,Santa Fe,8584.0,3
 2020-12-24,Barrios Unidos,9767.0,12
-2020-12-24,Teusaquillo,10465.0,13
+2020-12-24,Teusaquillo,10464.0,13
 2020-12-24,Tunjuelito,11340.0,6
 2020-12-24,Chapinero,12054.0,2
 2020-12-24,Usme,16721.0,5
@@ -5688,7 +5687,7 @@ fecha,localidad,casos,codigo
 2020-12-25,Antonio Nariño,6565.0,15
 2020-12-25,Santa Fe,8610.0,3
 2020-12-25,Barrios Unidos,9798.0,12
-2020-12-25,Teusaquillo,10512.0,13
+2020-12-25,Teusaquillo,10511.0,13
 2020-12-25,Tunjuelito,11401.0,6
 2020-12-25,Chapinero,12088.0,2
 2020-12-25,Usme,16808.0,5
@@ -5709,7 +5708,7 @@ fecha,localidad,casos,codigo
 2020-12-26,Antonio Nariño,6604.0,15
 2020-12-26,Santa Fe,8664.0,3
 2020-12-26,Barrios Unidos,9875.0,12
-2020-12-26,Teusaquillo,10652.0,13
+2020-12-26,Teusaquillo,10651.0,13
 2020-12-26,Tunjuelito,11467.0,6
 2020-12-26,Chapinero,12212.0,2
 2020-12-26,Usme,16880.0,5
@@ -5730,7 +5729,7 @@ fecha,localidad,casos,codigo
 2020-12-27,Antonio Nariño,6631.0,15
 2020-12-27,Santa Fe,8738.0,3
 2020-12-27,Barrios Unidos,9965.0,12
-2020-12-27,Teusaquillo,10766.0,13
+2020-12-27,Teusaquillo,10765.0,13
 2020-12-27,Tunjuelito,11516.0,6
 2020-12-27,Chapinero,12331.0,2
 2020-12-27,Usme,16973.0,5
@@ -5751,7 +5750,7 @@ fecha,localidad,casos,codigo
 2020-12-28,Antonio Nariño,6687.0,15
 2020-12-28,Santa Fe,8816.0,3
 2020-12-28,Barrios Unidos,10062.0,12
-2020-12-28,Teusaquillo,10911.0,13
+2020-12-28,Teusaquillo,10910.0,13
 2020-12-28,Tunjuelito,11612.0,6
 2020-12-28,Chapinero,12504.0,2
 2020-12-28,Usme,17115.0,5
@@ -5772,7 +5771,7 @@ fecha,localidad,casos,codigo
 2020-12-29,Antonio Nariño,6793.0,15
 2020-12-29,Santa Fe,8900.0,3
 2020-12-29,Barrios Unidos,10156.0,12
-2020-12-29,Teusaquillo,11091.0,13
+2020-12-29,Teusaquillo,11090.0,13
 2020-12-29,Tunjuelito,11714.0,6
 2020-12-29,Chapinero,12676.0,2
 2020-12-29,Usme,17258.0,5
@@ -5793,7 +5792,7 @@ fecha,localidad,casos,codigo
 2020-12-30,Antonio Nariño,6869.0,15
 2020-12-30,Santa Fe,9014.0,3
 2020-12-30,Barrios Unidos,10325.0,12
-2020-12-30,Teusaquillo,11303.0,13
+2020-12-30,Teusaquillo,11302.0,13
 2020-12-30,Tunjuelito,11824.0,6
 2020-12-30,Chapinero,12902.0,2
 2020-12-30,Usme,17404.0,5
@@ -5814,7 +5813,7 @@ fecha,localidad,casos,codigo
 2020-12-31,Antonio Nariño,6923.0,15
 2020-12-31,Santa Fe,9080.0,3
 2020-12-31,Barrios Unidos,10403.0,12
-2020-12-31,Teusaquillo,11371.0,13
+2020-12-31,Teusaquillo,11370.0,13
 2020-12-31,Tunjuelito,11879.0,6
 2020-12-31,Chapinero,12993.0,2
 2020-12-31,Usme,17504.0,5
@@ -5835,7 +5834,7 @@ fecha,localidad,casos,codigo
 2021-01-01,Antonio Nariño,6946.0,15
 2021-01-01,Santa Fe,9112.0,3
 2021-01-01,Barrios Unidos,10432.0,12
-2021-01-01,Teusaquillo,11422.0,13
+2021-01-01,Teusaquillo,11421.0,13
 2021-01-01,Tunjuelito,11919.0,6
 2021-01-01,Chapinero,13028.0,2
 2021-01-01,Usme,17551.0,5
@@ -5856,7 +5855,7 @@ fecha,localidad,casos,codigo
 2021-01-02,Antonio Nariño,7007.0,15
 2021-01-02,Santa Fe,9178.0,3
 2021-01-02,Barrios Unidos,10490.0,12
-2021-01-02,Teusaquillo,11503.0,13
+2021-01-02,Teusaquillo,11502.0,13
 2021-01-02,Tunjuelito,12012.0,6
 2021-01-02,Chapinero,13145.0,2
 2021-01-02,Usme,17644.0,5
@@ -5877,7 +5876,7 @@ fecha,localidad,casos,codigo
 2021-01-03,Antonio Nariño,7060.0,15
 2021-01-03,Santa Fe,9262.0,3
 2021-01-03,Barrios Unidos,10614.0,12
-2021-01-03,Teusaquillo,11669.0,13
+2021-01-03,Teusaquillo,11668.0,13
 2021-01-03,Tunjuelito,12113.0,6
 2021-01-03,Chapinero,13298.0,2
 2021-01-03,Usme,17784.0,5
@@ -5898,7 +5897,7 @@ fecha,localidad,casos,codigo
 2021-01-04,Antonio Nariño,7114.0,15
 2021-01-04,Santa Fe,9311.0,3
 2021-01-04,Barrios Unidos,10700.0,12
-2021-01-04,Teusaquillo,11772.0,13
+2021-01-04,Teusaquillo,11771.0,13
 2021-01-04,Tunjuelito,12234.0,6
 2021-01-04,Chapinero,13407.0,2
 2021-01-04,Usme,17948.0,5
@@ -5919,7 +5918,7 @@ fecha,localidad,casos,codigo
 2021-01-05,Antonio Nariño,7181.0,15
 2021-01-05,Santa Fe,9408.0,3
 2021-01-05,Barrios Unidos,10867.0,12
-2021-01-05,Teusaquillo,12022.0,13
+2021-01-05,Teusaquillo,12021.0,13
 2021-01-05,Tunjuelito,12356.0,6
 2021-01-05,Chapinero,13614.0,2
 2021-01-05,Usme,18148.0,5
@@ -5940,7 +5939,7 @@ fecha,localidad,casos,codigo
 2021-01-06,Antonio Nariño,7259.0,15
 2021-01-06,Santa Fe,9509.0,3
 2021-01-06,Barrios Unidos,10983.0,12
-2021-01-06,Teusaquillo,12179.0,13
+2021-01-06,Teusaquillo,12178.0,13
 2021-01-06,Tunjuelito,12496.0,6
 2021-01-06,Chapinero,13779.0,2
 2021-01-06,Usme,18292.0,5
@@ -5961,7 +5960,7 @@ fecha,localidad,casos,codigo
 2021-01-07,Antonio Nariño,7332.0,15
 2021-01-07,Santa Fe,9630.0,3
 2021-01-07,Barrios Unidos,11102.0,12
-2021-01-07,Teusaquillo,12371.0,13
+2021-01-07,Teusaquillo,12370.0,13
 2021-01-07,Tunjuelito,12592.0,6
 2021-01-07,Chapinero,13938.0,2
 2021-01-07,Usme,18429.0,5
@@ -5982,7 +5981,7 @@ fecha,localidad,casos,codigo
 2021-01-08,Antonio Nariño,7407.0,15
 2021-01-08,Santa Fe,9753.0,3
 2021-01-08,Barrios Unidos,11225.0,12
-2021-01-08,Teusaquillo,12509.0,13
+2021-01-08,Teusaquillo,12508.0,13
 2021-01-08,Tunjuelito,12709.0,6
 2021-01-08,Chapinero,14087.0,2
 2021-01-08,Usme,18613.0,5
@@ -6003,7 +6002,7 @@ fecha,localidad,casos,codigo
 2021-01-09,Antonio Nariño,7467.0,15
 2021-01-09,Santa Fe,9818.0,3
 2021-01-09,Barrios Unidos,11320.0,12
-2021-01-09,Teusaquillo,12628.0,13
+2021-01-09,Teusaquillo,12627.0,13
 2021-01-09,Tunjuelito,12795.0,6
 2021-01-09,Chapinero,14208.0,2
 2021-01-09,Usme,18784.0,5
@@ -6024,7 +6023,7 @@ fecha,localidad,casos,codigo
 2021-01-10,Antonio Nariño,7504.0,15
 2021-01-10,Santa Fe,9854.0,3
 2021-01-10,Barrios Unidos,11375.0,12
-2021-01-10,Teusaquillo,12716.0,13
+2021-01-10,Teusaquillo,12715.0,13
 2021-01-10,Tunjuelito,12876.0,6
 2021-01-10,Chapinero,14293.0,2
 2021-01-10,Usme,18893.0,5
@@ -6045,7 +6044,7 @@ fecha,localidad,casos,codigo
 2021-01-11,Antonio Nariño,7540.0,15
 2021-01-11,Santa Fe,9890.0,3
 2021-01-11,Barrios Unidos,11430.0,12
-2021-01-11,Teusaquillo,12796.0,13
+2021-01-11,Teusaquillo,12795.0,13
 2021-01-11,Tunjuelito,12965.0,6
 2021-01-11,Chapinero,14358.0,2
 2021-01-11,Usme,18993.0,5
@@ -6066,7 +6065,7 @@ fecha,localidad,casos,codigo
 2021-01-12,Antonio Nariño,7647.0,15
 2021-01-12,Santa Fe,10037.0,3
 2021-01-12,Barrios Unidos,11592.0,12
-2021-01-12,Teusaquillo,12969.0,13
+2021-01-12,Teusaquillo,12968.0,13
 2021-01-12,Tunjuelito,13144.0,6
 2021-01-12,Chapinero,14557.0,2
 2021-01-12,Usme,19189.0,5
@@ -6087,7 +6086,7 @@ fecha,localidad,casos,codigo
 2021-01-13,Antonio Nariño,7720.0,15
 2021-01-13,Santa Fe,10150.0,3
 2021-01-13,Barrios Unidos,11750.0,12
-2021-01-13,Teusaquillo,13107.0,13
+2021-01-13,Teusaquillo,13106.0,13
 2021-01-13,Tunjuelito,13267.0,6
 2021-01-13,Chapinero,14722.0,2
 2021-01-13,Usme,19361.0,5
@@ -6108,7 +6107,7 @@ fecha,localidad,casos,codigo
 2021-01-14,Antonio Nariño,7777.0,15
 2021-01-14,Santa Fe,10232.0,3
 2021-01-14,Barrios Unidos,11867.0,12
-2021-01-14,Teusaquillo,13225.0,13
+2021-01-14,Teusaquillo,13224.0,13
 2021-01-14,Tunjuelito,13412.0,6
 2021-01-14,Chapinero,14882.0,2
 2021-01-14,Usme,19533.0,5
@@ -6126,10 +6125,10 @@ fecha,localidad,casos,codigo
 2021-01-15,La Candelaria,2784.0,17
 2021-01-15,Fuera de Bogotá,5874.0,99
 2021-01-15,Los Mártires,7721.0,14
-2021-01-15,Antonio Nariño,7858.0,15
+2021-01-15,Antonio Nariño,7857.0,15
 2021-01-15,Santa Fe,10311.0,3
 2021-01-15,Barrios Unidos,12006.0,12
-2021-01-15,Teusaquillo,13358.0,13
+2021-01-15,Teusaquillo,13357.0,13
 2021-01-15,Tunjuelito,13562.0,6
 2021-01-15,Chapinero,15043.0,2
 2021-01-15,Usme,19685.0,5
@@ -6147,10 +6146,10 @@ fecha,localidad,casos,codigo
 2021-01-16,La Candelaria,2830.0,17
 2021-01-16,Fuera de Bogotá,5947.0,99
 2021-01-16,Los Mártires,7819.0,14
-2021-01-16,Antonio Nariño,7953.0,15
+2021-01-16,Antonio Nariño,7952.0,15
 2021-01-16,Santa Fe,10411.0,3
 2021-01-16,Barrios Unidos,12109.0,12
-2021-01-16,Teusaquillo,13470.0,13
+2021-01-16,Teusaquillo,13469.0,13
 2021-01-16,Tunjuelito,13687.0,6
 2021-01-16,Chapinero,15153.0,2
 2021-01-16,Usme,19830.0,5
@@ -6168,10 +6167,10 @@ fecha,localidad,casos,codigo
 2021-01-17,La Candelaria,2874.0,17
 2021-01-17,Fuera de Bogotá,6040.0,99
 2021-01-17,Los Mártires,7902.0,14
-2021-01-17,Antonio Nariño,8058.0,15
+2021-01-17,Antonio Nariño,8057.0,15
 2021-01-17,Santa Fe,10523.0,3
 2021-01-17,Barrios Unidos,12203.0,12
-2021-01-17,Teusaquillo,13599.0,13
+2021-01-17,Teusaquillo,13598.0,13
 2021-01-17,Tunjuelito,13784.0,6
 2021-01-17,Chapinero,15261.0,2
 2021-01-17,Usme,19991.0,5
@@ -6189,10 +6188,10 @@ fecha,localidad,casos,codigo
 2021-01-18,La Candelaria,2903.0,17
 2021-01-18,Fuera de Bogotá,6150.0,99
 2021-01-18,Los Mártires,7948.0,14
-2021-01-18,Antonio Nariño,8130.0,15
+2021-01-18,Antonio Nariño,8129.0,15
 2021-01-18,Santa Fe,10602.0,3
 2021-01-18,Barrios Unidos,12294.0,12
-2021-01-18,Teusaquillo,13734.0,13
+2021-01-18,Teusaquillo,13733.0,13
 2021-01-18,Tunjuelito,13862.0,6
 2021-01-18,Chapinero,15406.0,2
 2021-01-18,Usme,20106.0,5
@@ -6210,10 +6209,10 @@ fecha,localidad,casos,codigo
 2021-01-19,La Candelaria,2934.0,17
 2021-01-19,Fuera de Bogotá,6261.0,99
 2021-01-19,Los Mártires,8038.0,14
-2021-01-19,Antonio Nariño,8203.0,15
+2021-01-19,Antonio Nariño,8202.0,15
 2021-01-19,Santa Fe,10721.0,3
 2021-01-19,Barrios Unidos,12409.0,12
-2021-01-19,Teusaquillo,13883.0,13
+2021-01-19,Teusaquillo,13882.0,13
 2021-01-19,Tunjuelito,13968.0,6
 2021-01-19,Chapinero,15633.0,2
 2021-01-19,Usme,20284.0,5
@@ -6231,10 +6230,10 @@ fecha,localidad,casos,codigo
 2021-01-20,La Candelaria,2964.0,17
 2021-01-20,Fuera de Bogotá,6375.0,99
 2021-01-20,Los Mártires,8099.0,14
-2021-01-20,Antonio Nariño,8266.0,15
+2021-01-20,Antonio Nariño,8265.0,15
 2021-01-20,Santa Fe,10813.0,3
 2021-01-20,Barrios Unidos,12502.0,12
-2021-01-20,Teusaquillo,13992.0,13
+2021-01-20,Teusaquillo,13991.0,13
 2021-01-20,Tunjuelito,14053.0,6
 2021-01-20,Chapinero,15754.0,2
 2021-01-20,Usme,20449.0,5
@@ -6252,10 +6251,10 @@ fecha,localidad,casos,codigo
 2021-01-21,La Candelaria,2993.0,17
 2021-01-21,Fuera de Bogotá,6482.0,99
 2021-01-21,Los Mártires,8161.0,14
-2021-01-21,Antonio Nariño,8327.0,15
+2021-01-21,Antonio Nariño,8326.0,15
 2021-01-21,Santa Fe,10923.0,3
 2021-01-21,Barrios Unidos,12623.0,12
-2021-01-21,Teusaquillo,14108.0,13
+2021-01-21,Teusaquillo,14107.0,13
 2021-01-21,Tunjuelito,14134.0,6
 2021-01-21,Chapinero,15857.0,2
 2021-01-21,Usme,20580.0,5
@@ -6273,10 +6272,10 @@ fecha,localidad,casos,codigo
 2021-01-22,La Candelaria,3020.0,17
 2021-01-22,Fuera de Bogotá,6566.0,99
 2021-01-22,Los Mártires,8216.0,14
-2021-01-22,Antonio Nariño,8390.0,15
+2021-01-22,Antonio Nariño,8389.0,15
 2021-01-22,Santa Fe,11000.0,3
 2021-01-22,Barrios Unidos,12705.0,12
-2021-01-22,Teusaquillo,14224.0,13
+2021-01-22,Teusaquillo,14223.0,13
 2021-01-22,Tunjuelito,14224.0,6
 2021-01-22,Chapinero,15951.0,2
 2021-01-22,Usme,20708.0,5
@@ -6294,11 +6293,11 @@ fecha,localidad,casos,codigo
 2021-01-23,La Candelaria,3040.0,17
 2021-01-23,Fuera de Bogotá,6618.0,99
 2021-01-23,Los Mártires,8287.0,14
-2021-01-23,Antonio Nariño,8448.0,15
+2021-01-23,Antonio Nariño,8447.0,15
 2021-01-23,Santa Fe,11086.0,3
 2021-01-23,Barrios Unidos,12775.0,12
 2021-01-23,Tunjuelito,14312.0,6
-2021-01-23,Teusaquillo,14328.0,13
+2021-01-23,Teusaquillo,14327.0,13
 2021-01-23,Chapinero,16033.0,2
 2021-01-23,Usme,20830.0,5
 2021-01-23,Puente Aranda,24316.0,16
@@ -6315,11 +6314,11 @@ fecha,localidad,casos,codigo
 2021-01-24,La Candelaria,3041.0,17
 2021-01-24,Fuera de Bogotá,6642.0,99
 2021-01-24,Los Mártires,8331.0,14
-2021-01-24,Antonio Nariño,8481.0,15
+2021-01-24,Antonio Nariño,8480.0,15
 2021-01-24,Santa Fe,11132.0,3
 2021-01-24,Barrios Unidos,12846.0,12
 2021-01-24,Tunjuelito,14384.0,6
-2021-01-24,Teusaquillo,14400.0,13
+2021-01-24,Teusaquillo,14399.0,13
 2021-01-24,Chapinero,16085.0,2
 2021-01-24,Usme,20928.0,5
 2021-01-24,Puente Aranda,24425.0,16
@@ -6336,11 +6335,11 @@ fecha,localidad,casos,codigo
 2021-01-25,La Candelaria,3070.0,17
 2021-01-25,Fuera de Bogotá,6725.0,99
 2021-01-25,Los Mártires,8415.0,14
-2021-01-25,Antonio Nariño,8541.0,15
+2021-01-25,Antonio Nariño,8540.0,15
 2021-01-25,Santa Fe,11237.0,3
 2021-01-25,Barrios Unidos,12956.0,12
 2021-01-25,Tunjuelito,14473.0,6
-2021-01-25,Teusaquillo,14494.0,13
+2021-01-25,Teusaquillo,14493.0,13
 2021-01-25,Chapinero,16173.0,2
 2021-01-25,Usme,21067.0,5
 2021-01-25,Puente Aranda,24625.0,16
@@ -6357,10 +6356,10 @@ fecha,localidad,casos,codigo
 2021-01-26,La Candelaria,3091.0,17
 2021-01-26,Fuera de Bogotá,6777.0,99
 2021-01-26,Los Mártires,8462.0,14
-2021-01-26,Antonio Nariño,8574.0,15
+2021-01-26,Antonio Nariño,8573.0,15
 2021-01-26,Santa Fe,11302.0,3
 2021-01-26,Barrios Unidos,13043.0,12
-2021-01-26,Teusaquillo,14570.0,13
+2021-01-26,Teusaquillo,14569.0,13
 2021-01-26,Tunjuelito,14573.0,6
 2021-01-26,Chapinero,16250.0,2
 2021-01-26,Usme,21349.0,5
@@ -6378,11 +6377,11 @@ fecha,localidad,casos,codigo
 2021-01-27,La Candelaria,3131.0,17
 2021-01-27,Fuera de Bogotá,6846.0,99
 2021-01-27,Los Mártires,8514.0,14
-2021-01-27,Antonio Nariño,8641.0,15
+2021-01-27,Antonio Nariño,8640.0,15
 2021-01-27,Santa Fe,11369.0,3
 2021-01-27,Barrios Unidos,13114.0,12
 2021-01-27,Tunjuelito,14661.0,6
-2021-01-27,Teusaquillo,14667.0,13
+2021-01-27,Teusaquillo,14666.0,13
 2021-01-27,Chapinero,16323.0,2
 2021-01-27,Usme,21440.0,5
 2021-01-27,Puente Aranda,24936.0,16
@@ -6399,11 +6398,11 @@ fecha,localidad,casos,codigo
 2021-01-28,La Candelaria,3156.0,17
 2021-01-28,Fuera de Bogotá,6901.0,99
 2021-01-28,Los Mártires,8575.0,14
-2021-01-28,Antonio Nariño,8685.0,15
+2021-01-28,Antonio Nariño,8684.0,15
 2021-01-28,Santa Fe,11441.0,3
 2021-01-28,Barrios Unidos,13186.0,12
 2021-01-28,Tunjuelito,14735.0,6
-2021-01-28,Teusaquillo,14739.0,13
+2021-01-28,Teusaquillo,14738.0,13
 2021-01-28,Chapinero,16393.0,2
 2021-01-28,Usme,21584.0,5
 2021-01-28,Puente Aranda,25068.0,16
@@ -6420,10 +6419,10 @@ fecha,localidad,casos,codigo
 2021-01-29,La Candelaria,3174.0,17
 2021-01-29,Fuera de Bogotá,6951.0,99
 2021-01-29,Los Mártires,8614.0,14
-2021-01-29,Antonio Nariño,8712.0,15
+2021-01-29,Antonio Nariño,8711.0,15
 2021-01-29,Santa Fe,11492.0,3
 2021-01-29,Barrios Unidos,13245.0,12
-2021-01-29,Teusaquillo,14786.0,13
+2021-01-29,Teusaquillo,14785.0,13
 2021-01-29,Tunjuelito,14788.0,6
 2021-01-29,Chapinero,16456.0,2
 2021-01-29,Usme,21657.0,5
@@ -6441,10 +6440,10 @@ fecha,localidad,casos,codigo
 2021-01-30,La Candelaria,3186.0,17
 2021-01-30,Fuera de Bogotá,6996.0,99
 2021-01-30,Los Mártires,8643.0,14
-2021-01-30,Antonio Nariño,8739.0,15
+2021-01-30,Antonio Nariño,8738.0,15
 2021-01-30,Santa Fe,11528.0,3
 2021-01-30,Barrios Unidos,13297.0,12
-2021-01-30,Teusaquillo,14848.0,13
+2021-01-30,Teusaquillo,14847.0,13
 2021-01-30,Tunjuelito,14853.0,6
 2021-01-30,Chapinero,16503.0,2
 2021-01-30,Usme,21694.0,5
@@ -6462,10 +6461,10 @@ fecha,localidad,casos,codigo
 2021-01-31,La Candelaria,3208.0,17
 2021-01-31,Fuera de Bogotá,7038.0,99
 2021-01-31,Los Mártires,8682.0,14
-2021-01-31,Antonio Nariño,8773.0,15
+2021-01-31,Antonio Nariño,8772.0,15
 2021-01-31,Santa Fe,11613.0,3
 2021-01-31,Barrios Unidos,13347.0,12
-2021-01-31,Teusaquillo,14910.0,13
+2021-01-31,Teusaquillo,14909.0,13
 2021-01-31,Tunjuelito,14910.0,6
 2021-01-31,Chapinero,16561.0,2
 2021-01-31,Usme,21780.0,5
@@ -6483,11 +6482,11 @@ fecha,localidad,casos,codigo
 2021-02-01,La Candelaria,3222.0,17
 2021-02-01,Fuera de Bogotá,7075.0,99
 2021-02-01,Los Mártires,8721.0,14
-2021-02-01,Antonio Nariño,8809.0,15
+2021-02-01,Antonio Nariño,8808.0,15
 2021-02-01,Santa Fe,11659.0,3
 2021-02-01,Barrios Unidos,13394.0,12
 2021-02-01,Tunjuelito,14936.0,6
-2021-02-01,Teusaquillo,15001.0,13
+2021-02-01,Teusaquillo,15000.0,13
 2021-02-01,Chapinero,16619.0,2
 2021-02-01,Usme,21825.0,5
 2021-02-01,Puente Aranda,25497.0,16
@@ -6504,11 +6503,11 @@ fecha,localidad,casos,codigo
 2021-02-02,La Candelaria,3238.0,17
 2021-02-02,Fuera de Bogotá,7119.0,99
 2021-02-02,Los Mártires,8751.0,14
-2021-02-02,Antonio Nariño,8843.0,15
+2021-02-02,Antonio Nariño,8842.0,15
 2021-02-02,Santa Fe,11696.0,3
 2021-02-02,Barrios Unidos,13433.0,12
 2021-02-02,Tunjuelito,14976.0,6
-2021-02-02,Teusaquillo,15074.0,13
+2021-02-02,Teusaquillo,15073.0,13
 2021-02-02,Chapinero,16672.0,2
 2021-02-02,Usme,21873.0,5
 2021-02-02,Puente Aranda,25564.0,16
@@ -6525,11 +6524,11 @@ fecha,localidad,casos,codigo
 2021-02-03,La Candelaria,3272.0,17
 2021-02-03,Fuera de Bogotá,7163.0,99
 2021-02-03,Los Mártires,8780.0,14
-2021-02-03,Antonio Nariño,8864.0,15
+2021-02-03,Antonio Nariño,8863.0,15
 2021-02-03,Santa Fe,11752.0,3
 2021-02-03,Barrios Unidos,13486.0,12
 2021-02-03,Tunjuelito,15028.0,6
-2021-02-03,Teusaquillo,15111.0,13
+2021-02-03,Teusaquillo,15110.0,13
 2021-02-03,Chapinero,16738.0,2
 2021-02-03,Usme,21936.0,5
 2021-02-03,Puente Aranda,25637.0,16
@@ -6546,11 +6545,11 @@ fecha,localidad,casos,codigo
 2021-02-04,La Candelaria,3291.0,17
 2021-02-04,Fuera de Bogotá,7205.0,99
 2021-02-04,Los Mártires,8809.0,14
-2021-02-04,Antonio Nariño,8887.0,15
+2021-02-04,Antonio Nariño,8886.0,15
 2021-02-04,Santa Fe,11799.0,3
 2021-02-04,Barrios Unidos,13535.0,12
 2021-02-04,Tunjuelito,15054.0,6
-2021-02-04,Teusaquillo,15164.0,13
+2021-02-04,Teusaquillo,15163.0,13
 2021-02-04,Chapinero,16789.0,2
 2021-02-04,Usme,22006.0,5
 2021-02-04,Puente Aranda,25699.0,16
@@ -6567,11 +6566,11 @@ fecha,localidad,casos,codigo
 2021-02-05,La Candelaria,3308.0,17
 2021-02-05,Fuera de Bogotá,7241.0,99
 2021-02-05,Los Mártires,8832.0,14
-2021-02-05,Antonio Nariño,8916.0,15
+2021-02-05,Antonio Nariño,8915.0,15
 2021-02-05,Santa Fe,11849.0,3
 2021-02-05,Barrios Unidos,13564.0,12
-2021-02-05,Tunjuelito,15100.0,6
-2021-02-05,Teusaquillo,15208.0,13
+2021-02-05,Tunjuelito,15099.0,6
+2021-02-05,Teusaquillo,15207.0,13
 2021-02-05,Chapinero,16827.0,2
 2021-02-05,Usme,22066.0,5
 2021-02-05,Puente Aranda,25753.0,16
@@ -6588,11 +6587,11 @@ fecha,localidad,casos,codigo
 2021-02-06,La Candelaria,3317.0,17
 2021-02-06,Fuera de Bogotá,7272.0,99
 2021-02-06,Los Mártires,8843.0,14
-2021-02-06,Antonio Nariño,8940.0,15
+2021-02-06,Antonio Nariño,8939.0,15
 2021-02-06,Santa Fe,11876.0,3
 2021-02-06,Barrios Unidos,13593.0,12
-2021-02-06,Tunjuelito,15119.0,6
-2021-02-06,Teusaquillo,15238.0,13
+2021-02-06,Tunjuelito,15118.0,6
+2021-02-06,Teusaquillo,15237.0,13
 2021-02-06,Chapinero,16852.0,2
 2021-02-06,Usme,22114.0,5
 2021-02-06,Puente Aranda,25808.0,16
@@ -6609,11 +6608,11 @@ fecha,localidad,casos,codigo
 2021-02-07,La Candelaria,3322.0,17
 2021-02-07,Fuera de Bogotá,7295.0,99
 2021-02-07,Los Mártires,8856.0,14
-2021-02-07,Antonio Nariño,8961.0,15
+2021-02-07,Antonio Nariño,8960.0,15
 2021-02-07,Santa Fe,11898.0,3
 2021-02-07,Barrios Unidos,13627.0,12
-2021-02-07,Tunjuelito,15130.0,6
-2021-02-07,Teusaquillo,15261.0,13
+2021-02-07,Tunjuelito,15129.0,6
+2021-02-07,Teusaquillo,15260.0,13
 2021-02-07,Chapinero,16873.0,2
 2021-02-07,Usme,22140.0,5
 2021-02-07,Puente Aranda,25846.0,16
@@ -6630,11 +6629,11 @@ fecha,localidad,casos,codigo
 2021-02-08,La Candelaria,3333.0,17
 2021-02-08,Fuera de Bogotá,7341.0,99
 2021-02-08,Los Mártires,8882.0,14
-2021-02-08,Antonio Nariño,8986.0,15
+2021-02-08,Antonio Nariño,8985.0,15
 2021-02-08,Santa Fe,11938.0,3
 2021-02-08,Barrios Unidos,13657.0,12
-2021-02-08,Tunjuelito,15150.0,6
-2021-02-08,Teusaquillo,15296.0,13
+2021-02-08,Tunjuelito,15149.0,6
+2021-02-08,Teusaquillo,15295.0,13
 2021-02-08,Chapinero,16921.0,2
 2021-02-08,Usme,22172.0,5
 2021-02-08,Puente Aranda,25908.0,16
@@ -6651,11 +6650,11 @@ fecha,localidad,casos,codigo
 2021-02-09,La Candelaria,3347.0,17
 2021-02-09,Fuera de Bogotá,7409.0,99
 2021-02-09,Los Mártires,8906.0,14
-2021-02-09,Antonio Nariño,9014.0,15
+2021-02-09,Antonio Nariño,9013.0,15
 2021-02-09,Santa Fe,11970.0,3
 2021-02-09,Barrios Unidos,13712.0,12
-2021-02-09,Tunjuelito,15176.0,6
-2021-02-09,Teusaquillo,15342.0,13
+2021-02-09,Tunjuelito,15175.0,6
+2021-02-09,Teusaquillo,15341.0,13
 2021-02-09,Chapinero,16983.0,2
 2021-02-09,Usme,22214.0,5
 2021-02-09,Puente Aranda,25965.0,16
@@ -6672,11 +6671,11 @@ fecha,localidad,casos,codigo
 2021-02-10,La Candelaria,3358.0,17
 2021-02-10,Fuera de Bogotá,7431.0,99
 2021-02-10,Los Mártires,8928.0,14
-2021-02-10,Antonio Nariño,9041.0,15
+2021-02-10,Antonio Nariño,9040.0,15
 2021-02-10,Santa Fe,12004.0,3
 2021-02-10,Barrios Unidos,13738.0,12
-2021-02-10,Tunjuelito,15211.0,6
-2021-02-10,Teusaquillo,15375.0,13
+2021-02-10,Tunjuelito,15210.0,6
+2021-02-10,Teusaquillo,15374.0,13
 2021-02-10,Chapinero,17030.0,2
 2021-02-10,Usme,22270.0,5
 2021-02-10,Puente Aranda,26010.0,16
@@ -6693,11 +6692,11 @@ fecha,localidad,casos,codigo
 2021-02-11,La Candelaria,3360.0,17
 2021-02-11,Fuera de Bogotá,7453.0,99
 2021-02-11,Los Mártires,8955.0,14
-2021-02-11,Antonio Nariño,9059.0,15
+2021-02-11,Antonio Nariño,9058.0,15
 2021-02-11,Santa Fe,12032.0,3
 2021-02-11,Barrios Unidos,13776.0,12
-2021-02-11,Tunjuelito,15243.0,6
-2021-02-11,Teusaquillo,15401.0,13
+2021-02-11,Tunjuelito,15242.0,6
+2021-02-11,Teusaquillo,15400.0,13
 2021-02-11,Chapinero,17077.0,2
 2021-02-11,Usme,22334.0,5
 2021-02-11,Puente Aranda,26071.0,16
@@ -6714,11 +6713,11 @@ fecha,localidad,casos,codigo
 2021-02-12,La Candelaria,3367.0,17
 2021-02-12,Fuera de Bogotá,7482.0,99
 2021-02-12,Los Mártires,8973.0,14
-2021-02-12,Antonio Nariño,9082.0,15
+2021-02-12,Antonio Nariño,9081.0,15
 2021-02-12,Santa Fe,12057.0,3
 2021-02-12,Barrios Unidos,13810.0,12
-2021-02-12,Tunjuelito,15261.0,6
-2021-02-12,Teusaquillo,15428.0,13
+2021-02-12,Tunjuelito,15260.0,6
+2021-02-12,Teusaquillo,15427.0,13
 2021-02-12,Chapinero,17101.0,2
 2021-02-12,Usme,22367.0,5
 2021-02-12,Puente Aranda,26127.0,16
@@ -6735,11 +6734,11 @@ fecha,localidad,casos,codigo
 2021-02-13,La Candelaria,3379.0,17
 2021-02-13,Fuera de Bogotá,7505.0,99
 2021-02-13,Los Mártires,8988.0,14
-2021-02-13,Antonio Nariño,9093.0,15
+2021-02-13,Antonio Nariño,9092.0,15
 2021-02-13,Santa Fe,12092.0,3
 2021-02-13,Barrios Unidos,13839.0,12
-2021-02-13,Tunjuelito,15298.0,6
-2021-02-13,Teusaquillo,15459.0,13
+2021-02-13,Tunjuelito,15297.0,6
+2021-02-13,Teusaquillo,15458.0,13
 2021-02-13,Chapinero,17130.0,2
 2021-02-13,Usme,22415.0,5
 2021-02-13,Puente Aranda,26160.0,16
@@ -6756,11 +6755,11 @@ fecha,localidad,casos,codigo
 2021-02-14,La Candelaria,3389.0,17
 2021-02-14,Fuera de Bogotá,7515.0,99
 2021-02-14,Los Mártires,9003.0,14
-2021-02-14,Antonio Nariño,9108.0,15
+2021-02-14,Antonio Nariño,9107.0,15
 2021-02-14,Santa Fe,12128.0,3
 2021-02-14,Barrios Unidos,13852.0,12
-2021-02-14,Tunjuelito,15316.0,6
-2021-02-14,Teusaquillo,15482.0,13
+2021-02-14,Tunjuelito,15315.0,6
+2021-02-14,Teusaquillo,15481.0,13
 2021-02-14,Chapinero,17157.0,2
 2021-02-14,Usme,22447.0,5
 2021-02-14,Puente Aranda,26195.0,16
@@ -6777,11 +6776,11 @@ fecha,localidad,casos,codigo
 2021-02-15,La Candelaria,3394.0,17
 2021-02-15,Fuera de Bogotá,7532.0,99
 2021-02-15,Los Mártires,9015.0,14
-2021-02-15,Antonio Nariño,9121.0,15
+2021-02-15,Antonio Nariño,9120.0,15
 2021-02-15,Santa Fe,12148.0,3
 2021-02-15,Barrios Unidos,13864.0,12
-2021-02-15,Tunjuelito,15338.0,6
-2021-02-15,Teusaquillo,15509.0,13
+2021-02-15,Tunjuelito,15337.0,6
+2021-02-15,Teusaquillo,15508.0,13
 2021-02-15,Chapinero,17186.0,2
 2021-02-15,Usme,22467.0,5
 2021-02-15,Puente Aranda,26218.0,16
@@ -6798,11 +6797,11 @@ fecha,localidad,casos,codigo
 2021-02-16,La Candelaria,3403.0,17
 2021-02-16,Fuera de Bogotá,7568.0,99
 2021-02-16,Los Mártires,9037.0,14
-2021-02-16,Antonio Nariño,9136.0,15
+2021-02-16,Antonio Nariño,9135.0,15
 2021-02-16,Santa Fe,12180.0,3
 2021-02-16,Barrios Unidos,13900.0,12
-2021-02-16,Tunjuelito,15364.0,6
-2021-02-16,Teusaquillo,15535.0,13
+2021-02-16,Tunjuelito,15363.0,6
+2021-02-16,Teusaquillo,15534.0,13
 2021-02-16,Chapinero,17214.0,2
 2021-02-16,Usme,22508.0,5
 2021-02-16,Puente Aranda,26277.0,16
@@ -6819,11 +6818,11 @@ fecha,localidad,casos,codigo
 2021-02-17,La Candelaria,3406.0,17
 2021-02-17,Fuera de Bogotá,7594.0,99
 2021-02-17,Los Mártires,9046.0,14
-2021-02-17,Antonio Nariño,9149.0,15
+2021-02-17,Antonio Nariño,9148.0,15
 2021-02-17,Santa Fe,12197.0,3
 2021-02-17,Barrios Unidos,13931.0,12
-2021-02-17,Tunjuelito,15387.0,6
-2021-02-17,Teusaquillo,15562.0,13
+2021-02-17,Tunjuelito,15386.0,6
+2021-02-17,Teusaquillo,15561.0,13
 2021-02-17,Chapinero,17237.0,2
 2021-02-17,Usme,22556.0,5
 2021-02-17,Puente Aranda,26326.0,16
@@ -6840,11 +6839,11 @@ fecha,localidad,casos,codigo
 2021-02-18,La Candelaria,3417.0,17
 2021-02-18,Fuera de Bogotá,7625.0,99
 2021-02-18,Los Mártires,9066.0,14
-2021-02-18,Antonio Nariño,9157.0,15
+2021-02-18,Antonio Nariño,9156.0,15
 2021-02-18,Santa Fe,12226.0,3
 2021-02-18,Barrios Unidos,13942.0,12
-2021-02-18,Tunjuelito,15411.0,6
-2021-02-18,Teusaquillo,15584.0,13
+2021-02-18,Tunjuelito,15410.0,6
+2021-02-18,Teusaquillo,15583.0,13
 2021-02-18,Chapinero,17273.0,2
 2021-02-18,Usme,22589.0,5
 2021-02-18,Puente Aranda,26357.0,16
@@ -6861,11 +6860,11 @@ fecha,localidad,casos,codigo
 2021-02-19,La Candelaria,3431.0,17
 2021-02-19,Fuera de Bogotá,7648.0,99
 2021-02-19,Los Mártires,9093.0,14
-2021-02-19,Antonio Nariño,9175.0,15
+2021-02-19,Antonio Nariño,9174.0,15
 2021-02-19,Santa Fe,12259.0,3
 2021-02-19,Barrios Unidos,13965.0,12
-2021-02-19,Tunjuelito,15433.0,6
-2021-02-19,Teusaquillo,15602.0,13
+2021-02-19,Tunjuelito,15432.0,6
+2021-02-19,Teusaquillo,15601.0,13
 2021-02-19,Chapinero,17301.0,2
 2021-02-19,Usme,22621.0,5
 2021-02-19,Puente Aranda,26389.0,16
@@ -6882,11 +6881,11 @@ fecha,localidad,casos,codigo
 2021-02-20,La Candelaria,3438.0,17
 2021-02-20,Fuera de Bogotá,7668.0,99
 2021-02-20,Los Mártires,9104.0,14
-2021-02-20,Antonio Nariño,9187.0,15
+2021-02-20,Antonio Nariño,9186.0,15
 2021-02-20,Santa Fe,12278.0,3
 2021-02-20,Barrios Unidos,13984.0,12
-2021-02-20,Tunjuelito,15446.0,6
-2021-02-20,Teusaquillo,15631.0,13
+2021-02-20,Tunjuelito,15445.0,6
+2021-02-20,Teusaquillo,15630.0,13
 2021-02-20,Chapinero,17328.0,2
 2021-02-20,Usme,22655.0,5
 2021-02-20,Puente Aranda,26419.0,16
@@ -6903,11 +6902,11 @@ fecha,localidad,casos,codigo
 2021-02-21,La Candelaria,3444.0,17
 2021-02-21,Fuera de Bogotá,7675.0,99
 2021-02-21,Los Mártires,9118.0,14
-2021-02-21,Antonio Nariño,9193.0,15
+2021-02-21,Antonio Nariño,9192.0,15
 2021-02-21,Santa Fe,12291.0,3
 2021-02-21,Barrios Unidos,13996.0,12
-2021-02-21,Tunjuelito,15463.0,6
-2021-02-21,Teusaquillo,15645.0,13
+2021-02-21,Tunjuelito,15462.0,6
+2021-02-21,Teusaquillo,15644.0,13
 2021-02-21,Chapinero,17341.0,2
 2021-02-21,Usme,22666.0,5
 2021-02-21,Puente Aranda,26434.0,16
@@ -6924,11 +6923,11 @@ fecha,localidad,casos,codigo
 2021-02-22,La Candelaria,3448.0,17
 2021-02-22,Fuera de Bogotá,7691.0,99
 2021-02-22,Los Mártires,9129.0,14
-2021-02-22,Antonio Nariño,9204.0,15
+2021-02-22,Antonio Nariño,9203.0,15
 2021-02-22,Santa Fe,12311.0,3
 2021-02-22,Barrios Unidos,14013.0,12
-2021-02-22,Tunjuelito,15466.0,6
-2021-02-22,Teusaquillo,15668.0,13
+2021-02-22,Tunjuelito,15465.0,6
+2021-02-22,Teusaquillo,15667.0,13
 2021-02-22,Chapinero,17361.0,2
 2021-02-22,Usme,22689.0,5
 2021-02-22,Puente Aranda,26461.0,16
@@ -6945,11 +6944,11 @@ fecha,localidad,casos,codigo
 2021-02-23,La Candelaria,3452.0,17
 2021-02-23,Fuera de Bogotá,7705.0,99
 2021-02-23,Los Mártires,9143.0,14
-2021-02-23,Antonio Nariño,9215.0,15
+2021-02-23,Antonio Nariño,9214.0,15
 2021-02-23,Santa Fe,12330.0,3
 2021-02-23,Barrios Unidos,14029.0,12
-2021-02-23,Tunjuelito,15484.0,6
-2021-02-23,Teusaquillo,15693.0,13
+2021-02-23,Tunjuelito,15483.0,6
+2021-02-23,Teusaquillo,15692.0,13
 2021-02-23,Chapinero,17386.0,2
 2021-02-23,Usme,22716.0,5
 2021-02-23,Puente Aranda,26493.0,16
@@ -6966,11 +6965,11 @@ fecha,localidad,casos,codigo
 2021-02-24,La Candelaria,3457.0,17
 2021-02-24,Fuera de Bogotá,7730.0,99
 2021-02-24,Los Mártires,9159.0,14
-2021-02-24,Antonio Nariño,9226.0,15
+2021-02-24,Antonio Nariño,9225.0,15
 2021-02-24,Santa Fe,12354.0,3
 2021-02-24,Barrios Unidos,14049.0,12
-2021-02-24,Tunjuelito,15505.0,6
-2021-02-24,Teusaquillo,15721.0,13
+2021-02-24,Tunjuelito,15504.0,6
+2021-02-24,Teusaquillo,15720.0,13
 2021-02-24,Chapinero,17419.0,2
 2021-02-24,Usme,22750.0,5
 2021-02-24,Puente Aranda,26523.0,16
@@ -6987,11 +6986,11 @@ fecha,localidad,casos,codigo
 2021-02-25,La Candelaria,3462.0,17
 2021-02-25,Fuera de Bogotá,7748.0,99
 2021-02-25,Los Mártires,9173.0,14
-2021-02-25,Antonio Nariño,9246.0,15
+2021-02-25,Antonio Nariño,9245.0,15
 2021-02-25,Santa Fe,12372.0,3
 2021-02-25,Barrios Unidos,14062.0,12
-2021-02-25,Tunjuelito,15520.0,6
-2021-02-25,Teusaquillo,15739.0,13
+2021-02-25,Tunjuelito,15519.0,6
+2021-02-25,Teusaquillo,15738.0,13
 2021-02-25,Chapinero,17444.0,2
 2021-02-25,Usme,22778.0,5
 2021-02-25,Puente Aranda,26554.0,16
@@ -7008,11 +7007,11 @@ fecha,localidad,casos,codigo
 2021-02-26,La Candelaria,3467.0,17
 2021-02-26,Fuera de Bogotá,7766.0,99
 2021-02-26,Los Mártires,9195.0,14
-2021-02-26,Antonio Nariño,9257.0,15
+2021-02-26,Antonio Nariño,9256.0,15
 2021-02-26,Santa Fe,12389.0,3
-2021-02-26,Barrios Unidos,14088.0,12
-2021-02-26,Tunjuelito,15532.0,6
-2021-02-26,Teusaquillo,15751.0,13
+2021-02-26,Barrios Unidos,14087.0,12
+2021-02-26,Tunjuelito,15531.0,6
+2021-02-26,Teusaquillo,15750.0,13
 2021-02-26,Chapinero,17463.0,2
 2021-02-26,Usme,22814.0,5
 2021-02-26,Puente Aranda,26569.0,16
@@ -7029,11 +7028,11 @@ fecha,localidad,casos,codigo
 2021-02-27,La Candelaria,3473.0,17
 2021-02-27,Fuera de Bogotá,7789.0,99
 2021-02-27,Los Mártires,9198.0,14
-2021-02-27,Antonio Nariño,9267.0,15
+2021-02-27,Antonio Nariño,9266.0,15
 2021-02-27,Santa Fe,12407.0,3
-2021-02-27,Barrios Unidos,14101.0,12
-2021-02-27,Tunjuelito,15542.0,6
-2021-02-27,Teusaquillo,15768.0,13
+2021-02-27,Barrios Unidos,14100.0,12
+2021-02-27,Tunjuelito,15541.0,6
+2021-02-27,Teusaquillo,15767.0,13
 2021-02-27,Chapinero,17484.0,2
 2021-02-27,Usme,22831.0,5
 2021-02-27,Puente Aranda,26582.0,16
@@ -7050,11 +7049,11 @@ fecha,localidad,casos,codigo
 2021-02-28,La Candelaria,3479.0,17
 2021-02-28,Fuera de Bogotá,7811.0,99
 2021-02-28,Los Mártires,9209.0,14
-2021-02-28,Antonio Nariño,9275.0,15
+2021-02-28,Antonio Nariño,9274.0,15
 2021-02-28,Santa Fe,12418.0,3
-2021-02-28,Barrios Unidos,14108.0,12
-2021-02-28,Tunjuelito,15556.0,6
-2021-02-28,Teusaquillo,15796.0,13
+2021-02-28,Barrios Unidos,14107.0,12
+2021-02-28,Tunjuelito,15555.0,6
+2021-02-28,Teusaquillo,15795.0,13
 2021-02-28,Chapinero,17513.0,2
 2021-02-28,Usme,22855.0,5
 2021-02-28,Puente Aranda,26602.0,16
@@ -7071,11 +7070,11 @@ fecha,localidad,casos,codigo
 2021-03-01,La Candelaria,3483.0,17
 2021-03-01,Fuera de Bogotá,7833.0,99
 2021-03-01,Los Mártires,9220.0,14
-2021-03-01,Antonio Nariño,9280.0,15
+2021-03-01,Antonio Nariño,9279.0,15
 2021-03-01,Santa Fe,12429.0,3
-2021-03-01,Barrios Unidos,14142.0,12
-2021-03-01,Tunjuelito,15566.0,6
-2021-03-01,Teusaquillo,15819.0,13
+2021-03-01,Barrios Unidos,14141.0,12
+2021-03-01,Tunjuelito,15565.0,6
+2021-03-01,Teusaquillo,15818.0,13
 2021-03-01,Chapinero,17539.0,2
 2021-03-01,Usme,22879.0,5
 2021-03-01,Puente Aranda,26619.0,16
@@ -7092,11 +7091,11 @@ fecha,localidad,casos,codigo
 2021-03-02,La Candelaria,3488.0,17
 2021-03-02,Fuera de Bogotá,7861.0,99
 2021-03-02,Los Mártires,9234.0,14
-2021-03-02,Antonio Nariño,9293.0,15
+2021-03-02,Antonio Nariño,9292.0,15
 2021-03-02,Santa Fe,12444.0,3
-2021-03-02,Barrios Unidos,14168.0,12
-2021-03-02,Tunjuelito,15602.0,6
-2021-03-02,Teusaquillo,15836.0,13
+2021-03-02,Barrios Unidos,14167.0,12
+2021-03-02,Tunjuelito,15601.0,6
+2021-03-02,Teusaquillo,15835.0,13
 2021-03-02,Chapinero,17568.0,2
 2021-03-02,Usme,22920.0,5
 2021-03-02,Puente Aranda,26651.0,16
@@ -7113,11 +7112,11 @@ fecha,localidad,casos,codigo
 2021-03-03,La Candelaria,3493.0,17
 2021-03-03,Fuera de Bogotá,7886.0,99
 2021-03-03,Los Mártires,9244.0,14
-2021-03-03,Antonio Nariño,9302.0,15
+2021-03-03,Antonio Nariño,9301.0,15
 2021-03-03,Santa Fe,12460.0,3
-2021-03-03,Barrios Unidos,14187.0,12
-2021-03-03,Tunjuelito,15625.0,6
-2021-03-03,Teusaquillo,15867.0,13
+2021-03-03,Barrios Unidos,14186.0,12
+2021-03-03,Tunjuelito,15624.0,6
+2021-03-03,Teusaquillo,15866.0,13
 2021-03-03,Chapinero,17601.0,2
 2021-03-03,Usme,22947.0,5
 2021-03-03,Puente Aranda,26679.0,16
@@ -7134,11 +7133,11 @@ fecha,localidad,casos,codigo
 2021-03-04,La Candelaria,3498.0,17
 2021-03-04,Fuera de Bogotá,7904.0,99
 2021-03-04,Los Mártires,9258.0,14
-2021-03-04,Antonio Nariño,9317.0,15
+2021-03-04,Antonio Nariño,9316.0,15
 2021-03-04,Santa Fe,12472.0,3
-2021-03-04,Barrios Unidos,14201.0,12
-2021-03-04,Tunjuelito,15639.0,6
-2021-03-04,Teusaquillo,15892.0,13
+2021-03-04,Barrios Unidos,14200.0,12
+2021-03-04,Tunjuelito,15638.0,6
+2021-03-04,Teusaquillo,15891.0,13
 2021-03-04,Chapinero,17625.0,2
 2021-03-04,Usme,22965.0,5
 2021-03-04,Puente Aranda,26710.0,16
@@ -7155,11 +7154,11 @@ fecha,localidad,casos,codigo
 2021-03-05,La Candelaria,3503.0,17
 2021-03-05,Fuera de Bogotá,7934.0,99
 2021-03-05,Los Mártires,9265.0,14
-2021-03-05,Antonio Nariño,9328.0,15
+2021-03-05,Antonio Nariño,9327.0,15
 2021-03-05,Santa Fe,12490.0,3
-2021-03-05,Barrios Unidos,14211.0,12
-2021-03-05,Tunjuelito,15663.0,6
-2021-03-05,Teusaquillo,15921.0,13
+2021-03-05,Barrios Unidos,14210.0,12
+2021-03-05,Tunjuelito,15662.0,6
+2021-03-05,Teusaquillo,15920.0,13
 2021-03-05,Chapinero,17652.0,2
 2021-03-05,Usme,22991.0,5
 2021-03-05,Puente Aranda,26731.0,16
@@ -7176,11 +7175,11 @@ fecha,localidad,casos,codigo
 2021-03-06,La Candelaria,3507.0,17
 2021-03-06,Fuera de Bogotá,7949.0,99
 2021-03-06,Los Mártires,9271.0,14
-2021-03-06,Antonio Nariño,9337.0,15
+2021-03-06,Antonio Nariño,9336.0,15
 2021-03-06,Santa Fe,12499.0,3
-2021-03-06,Barrios Unidos,14226.0,12
-2021-03-06,Tunjuelito,15672.0,6
-2021-03-06,Teusaquillo,15945.0,13
+2021-03-06,Barrios Unidos,14225.0,12
+2021-03-06,Tunjuelito,15671.0,6
+2021-03-06,Teusaquillo,15944.0,13
 2021-03-06,Chapinero,17670.0,2
 2021-03-06,Usme,23009.0,5
 2021-03-06,Puente Aranda,26753.0,16
@@ -7197,11 +7196,11 @@ fecha,localidad,casos,codigo
 2021-03-07,La Candelaria,3513.0,17
 2021-03-07,Fuera de Bogotá,7952.0,99
 2021-03-07,Los Mártires,9279.0,14
-2021-03-07,Antonio Nariño,9340.0,15
+2021-03-07,Antonio Nariño,9339.0,15
 2021-03-07,Santa Fe,12513.0,3
-2021-03-07,Barrios Unidos,14234.0,12
-2021-03-07,Tunjuelito,15686.0,6
-2021-03-07,Teusaquillo,15961.0,13
+2021-03-07,Barrios Unidos,14233.0,12
+2021-03-07,Tunjuelito,15685.0,6
+2021-03-07,Teusaquillo,15960.0,13
 2021-03-07,Chapinero,17680.0,2
 2021-03-07,Usme,23025.0,5
 2021-03-07,Puente Aranda,26769.0,16
@@ -7218,11 +7217,11 @@ fecha,localidad,casos,codigo
 2021-03-08,La Candelaria,3516.0,17
 2021-03-08,Fuera de Bogotá,7959.0,99
 2021-03-08,Los Mártires,9289.0,14
-2021-03-08,Antonio Nariño,9341.0,15
+2021-03-08,Antonio Nariño,9340.0,15
 2021-03-08,Santa Fe,12521.0,3
-2021-03-08,Barrios Unidos,14255.0,12
-2021-03-08,Tunjuelito,15705.0,6
-2021-03-08,Teusaquillo,15973.0,13
+2021-03-08,Barrios Unidos,14254.0,12
+2021-03-08,Tunjuelito,15704.0,6
+2021-03-08,Teusaquillo,15972.0,13
 2021-03-08,Chapinero,17701.0,2
 2021-03-08,Usme,23045.0,5
 2021-03-08,Puente Aranda,26792.0,16
@@ -7239,11 +7238,11 @@ fecha,localidad,casos,codigo
 2021-03-09,La Candelaria,3517.0,17
 2021-03-09,Fuera de Bogotá,7960.0,99
 2021-03-09,Los Mártires,9291.0,14
-2021-03-09,Antonio Nariño,9345.0,15
+2021-03-09,Antonio Nariño,9344.0,15
 2021-03-09,Santa Fe,12528.0,3
-2021-03-09,Barrios Unidos,14265.0,12
-2021-03-09,Tunjuelito,15721.0,6
-2021-03-09,Teusaquillo,15988.0,13
+2021-03-09,Barrios Unidos,14264.0,12
+2021-03-09,Tunjuelito,15720.0,6
+2021-03-09,Teusaquillo,15987.0,13
 2021-03-09,Chapinero,17727.0,2
 2021-03-09,Usme,23070.0,5
 2021-03-09,Puente Aranda,26807.0,16
@@ -7260,11 +7259,11 @@ fecha,localidad,casos,codigo
 2021-03-10,La Candelaria,3524.0,17
 2021-03-10,Fuera de Bogotá,7978.0,99
 2021-03-10,Los Mártires,9298.0,14
-2021-03-10,Antonio Nariño,9350.0,15
+2021-03-10,Antonio Nariño,9349.0,15
 2021-03-10,Santa Fe,12539.0,3
-2021-03-10,Barrios Unidos,14292.0,12
-2021-03-10,Tunjuelito,15743.0,6
-2021-03-10,Teusaquillo,16013.0,13
+2021-03-10,Barrios Unidos,14291.0,12
+2021-03-10,Tunjuelito,15742.0,6
+2021-03-10,Teusaquillo,16012.0,13
 2021-03-10,Chapinero,17788.0,2
 2021-03-10,Usme,23087.0,5
 2021-03-10,Puente Aranda,26839.0,16
@@ -7281,11 +7280,11 @@ fecha,localidad,casos,codigo
 2021-03-11,La Candelaria,3531.0,17
 2021-03-11,Fuera de Bogotá,7991.0,99
 2021-03-11,Los Mártires,9310.0,14
-2021-03-11,Antonio Nariño,9364.0,15
+2021-03-11,Antonio Nariño,9363.0,15
 2021-03-11,Santa Fe,12550.0,3
-2021-03-11,Barrios Unidos,14307.0,12
-2021-03-11,Tunjuelito,15751.0,6
-2021-03-11,Teusaquillo,16036.0,13
+2021-03-11,Barrios Unidos,14306.0,12
+2021-03-11,Tunjuelito,15750.0,6
+2021-03-11,Teusaquillo,16035.0,13
 2021-03-11,Chapinero,17847.0,2
 2021-03-11,Usme,23117.0,5
 2021-03-11,Puente Aranda,26866.0,16
@@ -7302,11 +7301,11 @@ fecha,localidad,casos,codigo
 2021-03-12,La Candelaria,3535.0,17
 2021-03-12,Fuera de Bogotá,8009.0,99
 2021-03-12,Los Mártires,9327.0,14
-2021-03-12,Antonio Nariño,9367.0,15
+2021-03-12,Antonio Nariño,9366.0,15
 2021-03-12,Santa Fe,12574.0,3
-2021-03-12,Barrios Unidos,14327.0,12
-2021-03-12,Tunjuelito,15765.0,6
-2021-03-12,Teusaquillo,16052.0,13
+2021-03-12,Barrios Unidos,14326.0,12
+2021-03-12,Tunjuelito,15764.0,6
+2021-03-12,Teusaquillo,16051.0,13
 2021-03-12,Chapinero,17876.0,2
 2021-03-12,Usme,23135.0,5
 2021-03-12,Puente Aranda,26891.0,16
@@ -7323,11 +7322,11 @@ fecha,localidad,casos,codigo
 2021-03-13,La Candelaria,3536.0,17
 2021-03-13,Fuera de Bogotá,8019.0,99
 2021-03-13,Los Mártires,9334.0,14
-2021-03-13,Antonio Nariño,9369.0,15
+2021-03-13,Antonio Nariño,9368.0,15
 2021-03-13,Santa Fe,12590.0,3
-2021-03-13,Barrios Unidos,14341.0,12
-2021-03-13,Tunjuelito,15782.0,6
-2021-03-13,Teusaquillo,16065.0,13
+2021-03-13,Barrios Unidos,14340.0,12
+2021-03-13,Tunjuelito,15781.0,6
+2021-03-13,Teusaquillo,16064.0,13
 2021-03-13,Chapinero,17910.0,2
 2021-03-13,Usme,23151.0,5
 2021-03-13,Puente Aranda,26911.0,16
@@ -7344,11 +7343,11 @@ fecha,localidad,casos,codigo
 2021-03-14,La Candelaria,3540.0,17
 2021-03-14,Fuera de Bogotá,8027.0,99
 2021-03-14,Los Mártires,9337.0,14
-2021-03-14,Antonio Nariño,9377.0,15
+2021-03-14,Antonio Nariño,9376.0,15
 2021-03-14,Santa Fe,12608.0,3
-2021-03-14,Barrios Unidos,14355.0,12
-2021-03-14,Tunjuelito,15805.0,6
-2021-03-14,Teusaquillo,16081.0,13
+2021-03-14,Barrios Unidos,14354.0,12
+2021-03-14,Tunjuelito,15804.0,6
+2021-03-14,Teusaquillo,16080.0,13
 2021-03-14,Chapinero,17949.0,2
 2021-03-14,Usme,23174.0,5
 2021-03-14,Puente Aranda,26938.0,16
@@ -7365,11 +7364,11 @@ fecha,localidad,casos,codigo
 2021-03-15,La Candelaria,3545.0,17
 2021-03-15,Fuera de Bogotá,8037.0,99
 2021-03-15,Los Mártires,9353.0,14
-2021-03-15,Antonio Nariño,9384.0,15
+2021-03-15,Antonio Nariño,9383.0,15
 2021-03-15,Santa Fe,12623.0,3
-2021-03-15,Barrios Unidos,14385.0,12
-2021-03-15,Tunjuelito,15815.0,6
-2021-03-15,Teusaquillo,16104.0,13
+2021-03-15,Barrios Unidos,14384.0,12
+2021-03-15,Tunjuelito,15814.0,6
+2021-03-15,Teusaquillo,16103.0,13
 2021-03-15,Chapinero,17993.0,2
 2021-03-15,Usme,23194.0,5
 2021-03-15,Puente Aranda,26964.0,16
@@ -7386,11 +7385,11 @@ fecha,localidad,casos,codigo
 2021-03-16,La Candelaria,3548.0,17
 2021-03-16,Fuera de Bogotá,8052.0,99
 2021-03-16,Los Mártires,9366.0,14
-2021-03-16,Antonio Nariño,9392.0,15
+2021-03-16,Antonio Nariño,9391.0,15
 2021-03-16,Santa Fe,12640.0,3
-2021-03-16,Barrios Unidos,14425.0,12
-2021-03-16,Tunjuelito,15825.0,6
-2021-03-16,Teusaquillo,16137.0,13
+2021-03-16,Barrios Unidos,14424.0,12
+2021-03-16,Tunjuelito,15824.0,6
+2021-03-16,Teusaquillo,16136.0,13
 2021-03-16,Chapinero,18029.0,2
 2021-03-16,Usme,23208.0,5
 2021-03-16,Puente Aranda,26996.0,16
@@ -7407,11 +7406,11 @@ fecha,localidad,casos,codigo
 2021-03-17,La Candelaria,3549.0,17
 2021-03-17,Fuera de Bogotá,8080.0,99
 2021-03-17,Los Mártires,9381.0,14
-2021-03-17,Antonio Nariño,9404.0,15
+2021-03-17,Antonio Nariño,9403.0,15
 2021-03-17,Santa Fe,12659.0,3
-2021-03-17,Barrios Unidos,14451.0,12
-2021-03-17,Tunjuelito,15843.0,6
-2021-03-17,Teusaquillo,16171.0,13
+2021-03-17,Barrios Unidos,14450.0,12
+2021-03-17,Tunjuelito,15842.0,6
+2021-03-17,Teusaquillo,16170.0,13
 2021-03-17,Chapinero,18082.0,2
 2021-03-17,Usme,23235.0,5
 2021-03-17,Puente Aranda,27042.0,16
@@ -7428,11 +7427,11 @@ fecha,localidad,casos,codigo
 2021-03-18,La Candelaria,3555.0,17
 2021-03-18,Fuera de Bogotá,8100.0,99
 2021-03-18,Los Mártires,9390.0,14
-2021-03-18,Antonio Nariño,9410.0,15
+2021-03-18,Antonio Nariño,9409.0,15
 2021-03-18,Santa Fe,12683.0,3
-2021-03-18,Barrios Unidos,14478.0,12
-2021-03-18,Tunjuelito,15860.0,6
-2021-03-18,Teusaquillo,16189.0,13
+2021-03-18,Barrios Unidos,14477.0,12
+2021-03-18,Tunjuelito,15859.0,6
+2021-03-18,Teusaquillo,16188.0,13
 2021-03-18,Chapinero,18147.0,2
 2021-03-18,Usme,23258.0,5
 2021-03-18,Puente Aranda,27104.0,16
@@ -7449,11 +7448,11 @@ fecha,localidad,casos,codigo
 2021-03-19,La Candelaria,3566.0,17
 2021-03-19,Fuera de Bogotá,8133.0,99
 2021-03-19,Los Mártires,9405.0,14
-2021-03-19,Antonio Nariño,9417.0,15
+2021-03-19,Antonio Nariño,9416.0,15
 2021-03-19,Santa Fe,12702.0,3
-2021-03-19,Barrios Unidos,14502.0,12
-2021-03-19,Tunjuelito,15872.0,6
-2021-03-19,Teusaquillo,16225.0,13
+2021-03-19,Barrios Unidos,14501.0,12
+2021-03-19,Tunjuelito,15871.0,6
+2021-03-19,Teusaquillo,16224.0,13
 2021-03-19,Chapinero,18201.0,2
 2021-03-19,Usme,23283.0,5
 2021-03-19,Puente Aranda,27148.0,16
@@ -7470,11 +7469,11 @@ fecha,localidad,casos,codigo
 2021-03-20,La Candelaria,3576.0,17
 2021-03-20,Fuera de Bogotá,8152.0,99
 2021-03-20,Los Mártires,9414.0,14
-2021-03-20,Antonio Nariño,9424.0,15
+2021-03-20,Antonio Nariño,9423.0,15
 2021-03-20,Santa Fe,12718.0,3
-2021-03-20,Barrios Unidos,14519.0,12
-2021-03-20,Tunjuelito,15887.0,6
-2021-03-20,Teusaquillo,16248.0,13
+2021-03-20,Barrios Unidos,14518.0,12
+2021-03-20,Tunjuelito,15886.0,6
+2021-03-20,Teusaquillo,16247.0,13
 2021-03-20,Chapinero,18234.0,2
 2021-03-20,Usme,23299.0,5
 2021-03-20,Puente Aranda,27170.0,16
@@ -7491,11 +7490,11 @@ fecha,localidad,casos,codigo
 2021-03-21,La Candelaria,3580.0,17
 2021-03-21,Fuera de Bogotá,8166.0,99
 2021-03-21,Los Mártires,9423.0,14
-2021-03-21,Antonio Nariño,9435.0,15
+2021-03-21,Antonio Nariño,9434.0,15
 2021-03-21,Santa Fe,12731.0,3
-2021-03-21,Barrios Unidos,14538.0,12
-2021-03-21,Tunjuelito,15901.0,6
-2021-03-21,Teusaquillo,16287.0,13
+2021-03-21,Barrios Unidos,14537.0,12
+2021-03-21,Tunjuelito,15900.0,6
+2021-03-21,Teusaquillo,16286.0,13
 2021-03-21,Chapinero,18287.0,2
 2021-03-21,Usme,23315.0,5
 2021-03-21,Puente Aranda,27200.0,16
@@ -7512,11 +7511,11 @@ fecha,localidad,casos,codigo
 2021-03-22,La Candelaria,3587.0,17
 2021-03-22,Fuera de Bogotá,8179.0,99
 2021-03-22,Los Mártires,9428.0,14
-2021-03-22,Antonio Nariño,9436.0,15
+2021-03-22,Antonio Nariño,9435.0,15
 2021-03-22,Santa Fe,12741.0,3
-2021-03-22,Barrios Unidos,14550.0,12
-2021-03-22,Tunjuelito,15908.0,6
-2021-03-22,Teusaquillo,16301.0,13
+2021-03-22,Barrios Unidos,14549.0,12
+2021-03-22,Tunjuelito,15907.0,6
+2021-03-22,Teusaquillo,16300.0,13
 2021-03-22,Chapinero,18304.0,2
 2021-03-22,Usme,23324.0,5
 2021-03-22,Puente Aranda,27217.0,16
@@ -7532,12 +7531,12 @@ fecha,localidad,casos,codigo
 2021-03-23,Sumapaz,20.0,20
 2021-03-23,La Candelaria,3590.0,17
 2021-03-23,Fuera de Bogotá,8192.0,99
+2021-03-23,Antonio Nariño,9438.0,15
 2021-03-23,Los Mártires,9438.0,14
-2021-03-23,Antonio Nariño,9439.0,15
 2021-03-23,Santa Fe,12756.0,3
-2021-03-23,Barrios Unidos,14564.0,12
-2021-03-23,Tunjuelito,15924.0,6
-2021-03-23,Teusaquillo,16334.0,13
+2021-03-23,Barrios Unidos,14563.0,12
+2021-03-23,Tunjuelito,15923.0,6
+2021-03-23,Teusaquillo,16333.0,13
 2021-03-23,Chapinero,18340.0,2
 2021-03-23,Usme,23348.0,5
 2021-03-23,Puente Aranda,27262.0,16
@@ -7553,12 +7552,12 @@ fecha,localidad,casos,codigo
 2021-03-24,Sumapaz,20.0,20
 2021-03-24,La Candelaria,3598.0,17
 2021-03-24,Fuera de Bogotá,8218.0,99
+2021-03-24,Antonio Nariño,9447.0,15
 2021-03-24,Los Mártires,9447.0,14
-2021-03-24,Antonio Nariño,9448.0,15
 2021-03-24,Santa Fe,12773.0,3
-2021-03-24,Barrios Unidos,14589.0,12
-2021-03-24,Tunjuelito,15946.0,6
-2021-03-24,Teusaquillo,16371.0,13
+2021-03-24,Barrios Unidos,14588.0,12
+2021-03-24,Tunjuelito,15945.0,6
+2021-03-24,Teusaquillo,16370.0,13
 2021-03-24,Chapinero,18382.0,2
 2021-03-24,Usme,23374.0,5
 2021-03-24,Puente Aranda,27306.0,16
@@ -7574,11 +7573,11 @@ fecha,localidad,casos,codigo
 2021-03-25,Sumapaz,20.0,20
 2021-03-25,La Candelaria,3608.0,17
 2021-03-25,Fuera de Bogotá,8246.0,99
-2021-03-25,Antonio Nariño,9458.0,15
+2021-03-25,Antonio Nariño,9457.0,15
 2021-03-25,Los Mártires,9458.0,14
 2021-03-25,Santa Fe,12802.0,3
-2021-03-25,Barrios Unidos,14625.0,12
-2021-03-25,Tunjuelito,15972.0,6
+2021-03-25,Barrios Unidos,14624.0,12
+2021-03-25,Tunjuelito,15971.0,6
 2021-03-25,Teusaquillo,16414.0,13
 2021-03-25,Chapinero,18445.0,2
 2021-03-25,Usme,23401.0,5
@@ -7595,11 +7594,11 @@ fecha,localidad,casos,codigo
 2021-03-26,Sumapaz,20.0,20
 2021-03-26,La Candelaria,3621.0,17
 2021-03-26,Fuera de Bogotá,8281.0,99
-2021-03-26,Antonio Nariño,9475.0,15
+2021-03-26,Antonio Nariño,9474.0,15
 2021-03-26,Los Mártires,9480.0,14
 2021-03-26,Santa Fe,12841.0,3
-2021-03-26,Barrios Unidos,14654.0,12
-2021-03-26,Tunjuelito,15999.0,6
+2021-03-26,Barrios Unidos,14653.0,12
+2021-03-26,Tunjuelito,15998.0,6
 2021-03-26,Teusaquillo,16461.0,13
 2021-03-26,Chapinero,18507.0,2
 2021-03-26,Usme,23439.0,5
@@ -7616,11 +7615,11 @@ fecha,localidad,casos,codigo
 2021-03-27,Sumapaz,20.0,20
 2021-03-27,La Candelaria,3632.0,17
 2021-03-27,Fuera de Bogotá,8314.0,99
-2021-03-27,Antonio Nariño,9491.0,15
+2021-03-27,Antonio Nariño,9490.0,15
 2021-03-27,Los Mártires,9507.0,14
 2021-03-27,Santa Fe,12874.0,3
-2021-03-27,Barrios Unidos,14687.0,12
-2021-03-27,Tunjuelito,16005.0,6
+2021-03-27,Barrios Unidos,14686.0,12
+2021-03-27,Tunjuelito,16004.0,6
 2021-03-27,Teusaquillo,16534.0,13
 2021-03-27,Chapinero,18561.0,2
 2021-03-27,Usme,23465.0,5
@@ -7637,11 +7636,11 @@ fecha,localidad,casos,codigo
 2021-03-28,Sumapaz,20.0,20
 2021-03-28,La Candelaria,3642.0,17
 2021-03-28,Fuera de Bogotá,8333.0,99
-2021-03-28,Antonio Nariño,9499.0,15
+2021-03-28,Antonio Nariño,9498.0,15
 2021-03-28,Los Mártires,9521.0,14
 2021-03-28,Santa Fe,12894.0,3
-2021-03-28,Barrios Unidos,14704.0,12
-2021-03-28,Tunjuelito,16014.0,6
+2021-03-28,Barrios Unidos,14703.0,12
+2021-03-28,Tunjuelito,16013.0,6
 2021-03-28,Teusaquillo,16562.0,13
 2021-03-28,Chapinero,18608.0,2
 2021-03-28,Usme,23485.0,5
@@ -7658,11 +7657,11 @@ fecha,localidad,casos,codigo
 2021-03-29,Sumapaz,20.0,20
 2021-03-29,La Candelaria,3648.0,17
 2021-03-29,Fuera de Bogotá,8383.0,99
-2021-03-29,Antonio Nariño,9509.0,15
+2021-03-29,Antonio Nariño,9508.0,15
 2021-03-29,Los Mártires,9546.0,14
 2021-03-29,Santa Fe,12912.0,3
-2021-03-29,Barrios Unidos,14743.0,12
-2021-03-29,Tunjuelito,16045.0,6
+2021-03-29,Barrios Unidos,14742.0,12
+2021-03-29,Tunjuelito,16044.0,6
 2021-03-29,Teusaquillo,16593.0,13
 2021-03-29,Chapinero,18670.0,2
 2021-03-29,Usme,23517.0,5
@@ -7679,11 +7678,11 @@ fecha,localidad,casos,codigo
 2021-03-30,Sumapaz,20.0,20
 2021-03-30,La Candelaria,3656.0,17
 2021-03-30,Fuera de Bogotá,8403.0,99
-2021-03-30,Antonio Nariño,9536.0,15
+2021-03-30,Antonio Nariño,9535.0,15
 2021-03-30,Los Mártires,9572.0,14
 2021-03-30,Santa Fe,12946.0,3
-2021-03-30,Barrios Unidos,14789.0,12
-2021-03-30,Tunjuelito,16073.0,6
+2021-03-30,Barrios Unidos,14788.0,12
+2021-03-30,Tunjuelito,16072.0,6
 2021-03-30,Teusaquillo,16644.0,13
 2021-03-30,Chapinero,18749.0,2
 2021-03-30,Usme,23562.0,5
@@ -7700,11 +7699,11 @@ fecha,localidad,casos,codigo
 2021-03-31,Sumapaz,20.0,20
 2021-03-31,La Candelaria,3670.0,17
 2021-03-31,Fuera de Bogotá,8435.0,99
-2021-03-31,Antonio Nariño,9551.0,15
+2021-03-31,Antonio Nariño,9550.0,15
 2021-03-31,Los Mártires,9605.0,14
 2021-03-31,Santa Fe,12984.0,3
-2021-03-31,Barrios Unidos,14833.0,12
-2021-03-31,Tunjuelito,16101.0,6
+2021-03-31,Barrios Unidos,14832.0,12
+2021-03-31,Tunjuelito,16100.0,6
 2021-03-31,Teusaquillo,16712.0,13
 2021-03-31,Chapinero,18823.0,2
 2021-03-31,Usme,23629.0,5
@@ -7721,11 +7720,11 @@ fecha,localidad,casos,codigo
 2021-04-01,Sumapaz,20.0,20
 2021-04-01,La Candelaria,3678.0,17
 2021-04-01,Fuera de Bogotá,8458.0,99
-2021-04-01,Antonio Nariño,9565.0,15
+2021-04-01,Antonio Nariño,9564.0,15
 2021-04-01,Los Mártires,9624.0,14
 2021-04-01,Santa Fe,13010.0,3
-2021-04-01,Barrios Unidos,14860.0,12
-2021-04-01,Tunjuelito,16119.0,6
+2021-04-01,Barrios Unidos,14859.0,12
+2021-04-01,Tunjuelito,16118.0,6
 2021-04-01,Teusaquillo,16757.0,13
 2021-04-01,Chapinero,18860.0,2
 2021-04-01,Usme,23656.0,5
@@ -7742,11 +7741,11 @@ fecha,localidad,casos,codigo
 2021-04-02,Sumapaz,20.0,20
 2021-04-02,La Candelaria,3682.0,17
 2021-04-02,Fuera de Bogotá,8474.0,99
-2021-04-02,Antonio Nariño,9596.0,15
+2021-04-02,Antonio Nariño,9595.0,15
 2021-04-02,Los Mártires,9644.0,14
 2021-04-02,Santa Fe,13042.0,3
-2021-04-02,Barrios Unidos,14893.0,12
-2021-04-02,Tunjuelito,16155.0,6
+2021-04-02,Barrios Unidos,14892.0,12
+2021-04-02,Tunjuelito,16154.0,6
 2021-04-02,Teusaquillo,16815.0,13
 2021-04-02,Chapinero,18901.0,2
 2021-04-02,Usme,23716.0,5
@@ -7763,11 +7762,11 @@ fecha,localidad,casos,codigo
 2021-04-03,Sumapaz,20.0,20
 2021-04-03,La Candelaria,3696.0,17
 2021-04-03,Fuera de Bogotá,8505.0,99
-2021-04-03,Antonio Nariño,9615.0,15
+2021-04-03,Antonio Nariño,9614.0,15
 2021-04-03,Los Mártires,9659.0,14
 2021-04-03,Santa Fe,13075.0,3
-2021-04-03,Barrios Unidos,14936.0,12
-2021-04-03,Tunjuelito,16182.0,6
+2021-04-03,Barrios Unidos,14935.0,12
+2021-04-03,Tunjuelito,16181.0,6
 2021-04-03,Teusaquillo,16857.0,13
 2021-04-03,Chapinero,18961.0,2
 2021-04-03,Usme,23757.0,5
@@ -7784,11 +7783,11 @@ fecha,localidad,casos,codigo
 2021-04-04,Sumapaz,20.0,20
 2021-04-04,La Candelaria,3704.0,17
 2021-04-04,Fuera de Bogotá,8516.0,99
-2021-04-04,Antonio Nariño,9630.0,15
+2021-04-04,Antonio Nariño,9629.0,15
 2021-04-04,Los Mártires,9685.0,14
 2021-04-04,Santa Fe,13099.0,3
-2021-04-04,Barrios Unidos,14976.0,12
-2021-04-04,Tunjuelito,16196.0,6
+2021-04-04,Barrios Unidos,14975.0,12
+2021-04-04,Tunjuelito,16195.0,6
 2021-04-04,Teusaquillo,16891.0,13
 2021-04-04,Chapinero,19014.0,2
 2021-04-04,Usme,23775.0,5
@@ -7805,11 +7804,11 @@ fecha,localidad,casos,codigo
 2021-04-05,Sumapaz,20.0,20
 2021-04-05,La Candelaria,3721.0,17
 2021-04-05,Fuera de Bogotá,8552.0,99
-2021-04-05,Antonio Nariño,9656.0,15
+2021-04-05,Antonio Nariño,9655.0,15
 2021-04-05,Los Mártires,9711.0,14
 2021-04-05,Santa Fe,13145.0,3
-2021-04-05,Barrios Unidos,15016.0,12
-2021-04-05,Tunjuelito,16232.0,6
+2021-04-05,Barrios Unidos,15015.0,12
+2021-04-05,Tunjuelito,16231.0,6
 2021-04-05,Teusaquillo,16945.0,13
 2021-04-05,Chapinero,19105.0,2
 2021-04-05,Usme,23840.0,5
@@ -7826,11 +7825,11 @@ fecha,localidad,casos,codigo
 2021-04-06,Sumapaz,20.0,20
 2021-04-06,La Candelaria,3747.0,17
 2021-04-06,Fuera de Bogotá,8600.0,99
-2021-04-06,Antonio Nariño,9701.0,15
+2021-04-06,Antonio Nariño,9700.0,15
 2021-04-06,Los Mártires,9746.0,14
 2021-04-06,Santa Fe,13218.0,3
-2021-04-06,Barrios Unidos,15099.0,12
-2021-04-06,Tunjuelito,16276.0,6
+2021-04-06,Barrios Unidos,15098.0,12
+2021-04-06,Tunjuelito,16275.0,6
 2021-04-06,Teusaquillo,17037.0,13
 2021-04-06,Chapinero,19263.0,2
 2021-04-06,Usme,23956.0,5
@@ -7847,11 +7846,11 @@ fecha,localidad,casos,codigo
 2021-04-07,Sumapaz,20.0,20
 2021-04-07,La Candelaria,3760.0,17
 2021-04-07,Fuera de Bogotá,8625.0,99
-2021-04-07,Antonio Nariño,9720.0,15
+2021-04-07,Antonio Nariño,9719.0,15
 2021-04-07,Los Mártires,9769.0,14
 2021-04-07,Santa Fe,13258.0,3
-2021-04-07,Barrios Unidos,15155.0,12
-2021-04-07,Tunjuelito,16322.0,6
+2021-04-07,Barrios Unidos,15154.0,12
+2021-04-07,Tunjuelito,16321.0,6
 2021-04-07,Teusaquillo,17126.0,13
 2021-04-07,Chapinero,19356.0,2
 2021-04-07,Usme,24012.0,5
@@ -7868,11 +7867,11 @@ fecha,localidad,casos,codigo
 2021-04-08,Sumapaz,20.0,20
 2021-04-08,La Candelaria,3775.0,17
 2021-04-08,Fuera de Bogotá,8660.0,99
-2021-04-08,Antonio Nariño,9753.0,15
+2021-04-08,Antonio Nariño,9752.0,15
 2021-04-08,Los Mártires,9814.0,14
 2021-04-08,Santa Fe,13308.0,3
-2021-04-08,Barrios Unidos,15224.0,12
-2021-04-08,Tunjuelito,16385.0,6
+2021-04-08,Barrios Unidos,15223.0,12
+2021-04-08,Tunjuelito,16384.0,6
 2021-04-08,Teusaquillo,17238.0,13
 2021-04-08,Chapinero,19468.0,2
 2021-04-08,Usme,24108.0,5
@@ -7889,11 +7888,11 @@ fecha,localidad,casos,codigo
 2021-04-09,Sumapaz,20.0,20
 2021-04-09,La Candelaria,3802.0,17
 2021-04-09,Fuera de Bogotá,8703.0,99
-2021-04-09,Antonio Nariño,9788.0,15
+2021-04-09,Antonio Nariño,9787.0,15
 2021-04-09,Los Mártires,9857.0,14
 2021-04-09,Santa Fe,13379.0,3
-2021-04-09,Barrios Unidos,15290.0,12
-2021-04-09,Tunjuelito,16425.0,6
+2021-04-09,Barrios Unidos,15289.0,12
+2021-04-09,Tunjuelito,16424.0,6
 2021-04-09,Teusaquillo,17334.0,13
 2021-04-09,Chapinero,19592.0,2
 2021-04-09,Usme,24166.0,5
@@ -7910,11 +7909,11 @@ fecha,localidad,casos,codigo
 2021-04-10,Sumapaz,20.0,20
 2021-04-10,La Candelaria,3848.0,17
 2021-04-10,Fuera de Bogotá,8732.0,99
-2021-04-10,Antonio Nariño,9804.0,15
+2021-04-10,Antonio Nariño,9803.0,15
 2021-04-10,Los Mártires,9915.0,14
 2021-04-10,Santa Fe,13429.0,3
-2021-04-10,Barrios Unidos,15347.0,12
-2021-04-10,Tunjuelito,16482.0,6
+2021-04-10,Barrios Unidos,15346.0,12
+2021-04-10,Tunjuelito,16481.0,6
 2021-04-10,Teusaquillo,17427.0,13
 2021-04-10,Chapinero,19689.0,2
 2021-04-10,Usme,24218.0,5
@@ -7931,11 +7930,11 @@ fecha,localidad,casos,codigo
 2021-04-11,Sumapaz,20.0,20
 2021-04-11,La Candelaria,3866.0,17
 2021-04-11,Fuera de Bogotá,8749.0,99
-2021-04-11,Antonio Nariño,9834.0,15
+2021-04-11,Antonio Nariño,9833.0,15
 2021-04-11,Los Mártires,9939.0,14
 2021-04-11,Santa Fe,13476.0,3
-2021-04-11,Barrios Unidos,15418.0,12
-2021-04-11,Tunjuelito,16585.0,6
+2021-04-11,Barrios Unidos,15417.0,12
+2021-04-11,Tunjuelito,16584.0,6
 2021-04-11,Teusaquillo,17497.0,13
 2021-04-11,Chapinero,19755.0,2
 2021-04-11,Usme,24376.0,5
@@ -7952,11 +7951,11 @@ fecha,localidad,casos,codigo
 2021-04-12,Sumapaz,20.0,20
 2021-04-12,La Candelaria,3890.0,17
 2021-04-12,Fuera de Bogotá,8781.0,99
-2021-04-12,Antonio Nariño,9903.0,15
+2021-04-12,Antonio Nariño,9902.0,15
 2021-04-12,Los Mártires,9979.0,14
 2021-04-12,Santa Fe,13546.0,3
-2021-04-12,Barrios Unidos,15501.0,12
-2021-04-12,Tunjuelito,16660.0,6
+2021-04-12,Barrios Unidos,15500.0,12
+2021-04-12,Tunjuelito,16659.0,6
 2021-04-12,Teusaquillo,17638.0,13
 2021-04-12,Chapinero,19889.0,2
 2021-04-12,Usme,24442.0,5
@@ -7973,11 +7972,11 @@ fecha,localidad,casos,codigo
 2021-04-13,Sumapaz,20.0,20
 2021-04-13,La Candelaria,3910.0,17
 2021-04-13,Fuera de Bogotá,8817.0,99
-2021-04-13,Antonio Nariño,9961.0,15
+2021-04-13,Antonio Nariño,9960.0,15
 2021-04-13,Los Mártires,10030.0,14
 2021-04-13,Santa Fe,13643.0,3
-2021-04-13,Barrios Unidos,15582.0,12
-2021-04-13,Tunjuelito,16746.0,6
+2021-04-13,Barrios Unidos,15581.0,12
+2021-04-13,Tunjuelito,16745.0,6
 2021-04-13,Teusaquillo,17753.0,13
 2021-04-13,Chapinero,19994.0,2
 2021-04-13,Usme,24593.0,5
@@ -7994,11 +7993,11 @@ fecha,localidad,casos,codigo
 2021-04-14,Sumapaz,20.0,20
 2021-04-14,La Candelaria,3930.0,17
 2021-04-14,Fuera de Bogotá,8860.0,99
-2021-04-14,Antonio Nariño,10016.0,15
+2021-04-14,Antonio Nariño,10015.0,15
 2021-04-14,Los Mártires,10112.0,14
 2021-04-14,Santa Fe,13730.0,3
-2021-04-14,Barrios Unidos,15704.0,12
-2021-04-14,Tunjuelito,16827.0,6
+2021-04-14,Barrios Unidos,15703.0,12
+2021-04-14,Tunjuelito,16826.0,6
 2021-04-14,Teusaquillo,17879.0,13
 2021-04-14,Chapinero,20106.0,2
 2021-04-14,Usme,24708.0,5
@@ -8015,11 +8014,11 @@ fecha,localidad,casos,codigo
 2021-04-15,Sumapaz,20.0,20
 2021-04-15,La Candelaria,3956.0,17
 2021-04-15,Fuera de Bogotá,8915.0,99
-2021-04-15,Antonio Nariño,10066.0,15
+2021-04-15,Antonio Nariño,10065.0,15
 2021-04-15,Los Mártires,10176.0,14
 2021-04-15,Santa Fe,13819.0,3
-2021-04-15,Barrios Unidos,15806.0,12
-2021-04-15,Tunjuelito,16908.0,6
+2021-04-15,Barrios Unidos,15805.0,12
+2021-04-15,Tunjuelito,16907.0,6
 2021-04-15,Teusaquillo,18035.0,13
 2021-04-15,Chapinero,20267.0,2
 2021-04-15,Usme,24826.0,5
@@ -8036,11 +8035,11 @@ fecha,localidad,casos,codigo
 2021-04-16,Sumapaz,20.0,20
 2021-04-16,La Candelaria,3996.0,17
 2021-04-16,Fuera de Bogotá,8963.0,99
-2021-04-16,Antonio Nariño,10116.0,15
+2021-04-16,Antonio Nariño,10115.0,15
 2021-04-16,Los Mártires,10234.0,14
 2021-04-16,Santa Fe,13902.0,3
-2021-04-16,Barrios Unidos,15889.0,12
-2021-04-16,Tunjuelito,17007.0,6
+2021-04-16,Barrios Unidos,15888.0,12
+2021-04-16,Tunjuelito,17006.0,6
 2021-04-16,Teusaquillo,18166.0,13
 2021-04-16,Chapinero,20398.0,2
 2021-04-16,Usme,24989.0,5
@@ -8057,11 +8056,11 @@ fecha,localidad,casos,codigo
 2021-04-17,Sumapaz,20.0,20
 2021-04-17,La Candelaria,4025.0,17
 2021-04-17,Fuera de Bogotá,9007.0,99
-2021-04-17,Antonio Nariño,10154.0,15
+2021-04-17,Antonio Nariño,10153.0,15
 2021-04-17,Los Mártires,10292.0,14
 2021-04-17,Santa Fe,13960.0,3
-2021-04-17,Barrios Unidos,15962.0,12
-2021-04-17,Tunjuelito,17093.0,6
+2021-04-17,Barrios Unidos,15961.0,12
+2021-04-17,Tunjuelito,17092.0,6
 2021-04-17,Teusaquillo,18247.0,13
 2021-04-17,Chapinero,20477.0,2
 2021-04-17,Usme,25085.0,5
@@ -8078,11 +8077,11 @@ fecha,localidad,casos,codigo
 2021-04-18,Sumapaz,20.0,20
 2021-04-18,La Candelaria,4046.0,17
 2021-04-18,Fuera de Bogotá,9033.0,99
-2021-04-18,Antonio Nariño,10194.0,15
+2021-04-18,Antonio Nariño,10193.0,15
 2021-04-18,Los Mártires,10356.0,14
 2021-04-18,Santa Fe,14015.0,3
-2021-04-18,Barrios Unidos,16040.0,12
-2021-04-18,Tunjuelito,17135.0,6
+2021-04-18,Barrios Unidos,16039.0,12
+2021-04-18,Tunjuelito,17134.0,6
 2021-04-18,Teusaquillo,18325.0,13
 2021-04-18,Chapinero,20558.0,2
 2021-04-18,Usme,25141.0,5
@@ -8099,11 +8098,11 @@ fecha,localidad,casos,codigo
 2021-04-19,Sumapaz,20.0,20
 2021-04-19,La Candelaria,4065.0,17
 2021-04-19,Fuera de Bogotá,9091.0,99
-2021-04-19,Antonio Nariño,10266.0,15
+2021-04-19,Antonio Nariño,10265.0,15
 2021-04-19,Los Mártires,10419.0,14
 2021-04-19,Santa Fe,14096.0,3
-2021-04-19,Barrios Unidos,16183.0,12
-2021-04-19,Tunjuelito,17269.0,6
+2021-04-19,Barrios Unidos,16182.0,12
+2021-04-19,Tunjuelito,17268.0,6
 2021-04-19,Teusaquillo,18447.0,13
 2021-04-19,Chapinero,20703.0,2
 2021-04-19,Usme,25345.0,5
@@ -8120,11 +8119,11 @@ fecha,localidad,casos,codigo
 2021-04-20,Sumapaz,20.0,20
 2021-04-20,La Candelaria,4088.0,17
 2021-04-20,Fuera de Bogotá,9152.0,99
-2021-04-20,Antonio Nariño,10328.0,15
+2021-04-20,Antonio Nariño,10327.0,15
 2021-04-20,Los Mártires,10510.0,14
 2021-04-20,Santa Fe,14194.0,3
-2021-04-20,Barrios Unidos,16311.0,12
-2021-04-20,Tunjuelito,17369.0,6
+2021-04-20,Barrios Unidos,16310.0,12
+2021-04-20,Tunjuelito,17368.0,6
 2021-04-20,Teusaquillo,18599.0,13
 2021-04-20,Chapinero,20847.0,2
 2021-04-20,Usme,25497.0,5
@@ -8141,11 +8140,11 @@ fecha,localidad,casos,codigo
 2021-04-21,Sumapaz,20.0,20
 2021-04-21,La Candelaria,4123.0,17
 2021-04-21,Fuera de Bogotá,9202.0,99
-2021-04-21,Antonio Nariño,10382.0,15
+2021-04-21,Antonio Nariño,10381.0,15
 2021-04-21,Los Mártires,10567.0,14
 2021-04-21,Santa Fe,14295.0,3
-2021-04-21,Barrios Unidos,16406.0,12
-2021-04-21,Tunjuelito,17447.0,6
+2021-04-21,Barrios Unidos,16405.0,12
+2021-04-21,Tunjuelito,17446.0,6
 2021-04-21,Teusaquillo,18701.0,13
 2021-04-21,Chapinero,20962.0,2
 2021-04-21,Usme,25673.0,5
@@ -8162,11 +8161,11 @@ fecha,localidad,casos,codigo
 2021-04-22,Sumapaz,20.0,20
 2021-04-22,La Candelaria,4174.0,17
 2021-04-22,Fuera de Bogotá,9279.0,99
-2021-04-22,Antonio Nariño,10445.0,15
+2021-04-22,Antonio Nariño,10444.0,15
 2021-04-22,Los Mártires,10643.0,14
 2021-04-22,Santa Fe,14392.0,3
-2021-04-22,Barrios Unidos,16505.0,12
-2021-04-22,Tunjuelito,17514.0,6
+2021-04-22,Barrios Unidos,16504.0,12
+2021-04-22,Tunjuelito,17513.0,6
 2021-04-22,Teusaquillo,18827.0,13
 2021-04-22,Chapinero,21089.0,2
 2021-04-22,Usme,25824.0,5
@@ -8183,11 +8182,11 @@ fecha,localidad,casos,codigo
 2021-04-23,Sumapaz,21.0,20
 2021-04-23,La Candelaria,4206.0,17
 2021-04-23,Fuera de Bogotá,9377.0,99
-2021-04-23,Antonio Nariño,10520.0,15
+2021-04-23,Antonio Nariño,10519.0,15
 2021-04-23,Los Mártires,10712.0,14
 2021-04-23,Santa Fe,14481.0,3
-2021-04-23,Barrios Unidos,16627.0,12
-2021-04-23,Tunjuelito,17586.0,6
+2021-04-23,Barrios Unidos,16626.0,12
+2021-04-23,Tunjuelito,17585.0,6
 2021-04-23,Teusaquillo,18955.0,13
 2021-04-23,Chapinero,21188.0,2
 2021-04-23,Usme,25952.0,5
@@ -8204,11 +8203,11 @@ fecha,localidad,casos,codigo
 2021-04-24,Sumapaz,21.0,20
 2021-04-24,La Candelaria,4233.0,17
 2021-04-24,Fuera de Bogotá,9453.0,99
-2021-04-24,Antonio Nariño,10563.0,15
+2021-04-24,Antonio Nariño,10562.0,15
 2021-04-24,Los Mártires,10777.0,14
 2021-04-24,Santa Fe,14568.0,3
-2021-04-24,Barrios Unidos,16713.0,12
-2021-04-24,Tunjuelito,17649.0,6
+2021-04-24,Barrios Unidos,16712.0,12
+2021-04-24,Tunjuelito,17648.0,6
 2021-04-24,Teusaquillo,19036.0,13
 2021-04-24,Chapinero,21280.0,2
 2021-04-24,Usme,26074.0,5
@@ -8225,11 +8224,11 @@ fecha,localidad,casos,codigo
 2021-04-25,Sumapaz,21.0,20
 2021-04-25,La Candelaria,4250.0,17
 2021-04-25,Fuera de Bogotá,9506.0,99
-2021-04-25,Antonio Nariño,10597.0,15
+2021-04-25,Antonio Nariño,10596.0,15
 2021-04-25,Los Mártires,10811.0,14
 2021-04-25,Santa Fe,14616.0,3
-2021-04-25,Barrios Unidos,16787.0,12
-2021-04-25,Tunjuelito,17723.0,6
+2021-04-25,Barrios Unidos,16786.0,12
+2021-04-25,Tunjuelito,17722.0,6
 2021-04-25,Teusaquillo,19132.0,13
 2021-04-25,Chapinero,21356.0,2
 2021-04-25,Usme,26175.0,5
@@ -8246,11 +8245,11 @@ fecha,localidad,casos,codigo
 2021-04-26,Sumapaz,21.0,20
 2021-04-26,La Candelaria,4283.0,17
 2021-04-26,Fuera de Bogotá,9624.0,99
-2021-04-26,Antonio Nariño,10660.0,15
+2021-04-26,Antonio Nariño,10659.0,15
 2021-04-26,Los Mártires,10875.0,14
 2021-04-26,Santa Fe,14705.0,3
-2021-04-26,Barrios Unidos,16861.0,12
-2021-04-26,Tunjuelito,17811.0,6
+2021-04-26,Barrios Unidos,16860.0,12
+2021-04-26,Tunjuelito,17810.0,6
 2021-04-26,Teusaquillo,19256.0,13
 2021-04-26,Chapinero,21467.0,2
 2021-04-26,Usme,26308.0,5
@@ -8267,11 +8266,11 @@ fecha,localidad,casos,codigo
 2021-04-27,Sumapaz,21.0,20
 2021-04-27,La Candelaria,4301.0,17
 2021-04-27,Fuera de Bogotá,9723.0,99
-2021-04-27,Antonio Nariño,10734.0,15
+2021-04-27,Antonio Nariño,10733.0,15
 2021-04-27,Los Mártires,10936.0,14
 2021-04-27,Santa Fe,14820.0,3
-2021-04-27,Barrios Unidos,16986.0,12
-2021-04-27,Tunjuelito,17895.0,6
+2021-04-27,Barrios Unidos,16985.0,12
+2021-04-27,Tunjuelito,17894.0,6
 2021-04-27,Teusaquillo,19397.0,13
 2021-04-27,Chapinero,21629.0,2
 2021-04-27,Usme,26427.0,5
@@ -8288,11 +8287,11 @@ fecha,localidad,casos,codigo
 2021-04-28,Sumapaz,21.0,20
 2021-04-28,La Candelaria,4325.0,17
 2021-04-28,Fuera de Bogotá,9804.0,99
-2021-04-28,Antonio Nariño,10796.0,15
+2021-04-28,Antonio Nariño,10795.0,15
 2021-04-28,Los Mártires,10987.0,14
 2021-04-28,Santa Fe,14885.0,3
-2021-04-28,Barrios Unidos,17054.0,12
-2021-04-28,Tunjuelito,17963.0,6
+2021-04-28,Barrios Unidos,17053.0,12
+2021-04-28,Tunjuelito,17962.0,6
 2021-04-28,Teusaquillo,19488.0,13
 2021-04-28,Chapinero,21724.0,2
 2021-04-28,Usme,26532.0,5
@@ -8309,11 +8308,11 @@ fecha,localidad,casos,codigo
 2021-04-29,Sumapaz,21.0,20
 2021-04-29,La Candelaria,4354.0,17
 2021-04-29,Fuera de Bogotá,9897.0,99
-2021-04-29,Antonio Nariño,10827.0,15
+2021-04-29,Antonio Nariño,10826.0,15
 2021-04-29,Los Mártires,11024.0,14
 2021-04-29,Santa Fe,14958.0,3
-2021-04-29,Barrios Unidos,17192.0,12
-2021-04-29,Tunjuelito,18069.0,6
+2021-04-29,Barrios Unidos,17191.0,12
+2021-04-29,Tunjuelito,18068.0,6
 2021-04-29,Teusaquillo,19594.0,13
 2021-04-29,Chapinero,21834.0,2
 2021-04-29,Usme,26661.0,5
@@ -8330,11 +8329,11 @@ fecha,localidad,casos,codigo
 2021-04-30,Sumapaz,21.0,20
 2021-04-30,La Candelaria,4378.0,17
 2021-04-30,Fuera de Bogotá,10022.0,99
-2021-04-30,Antonio Nariño,10894.0,15
+2021-04-30,Antonio Nariño,10893.0,15
 2021-04-30,Los Mártires,11078.0,14
 2021-04-30,Santa Fe,15043.0,3
-2021-04-30,Barrios Unidos,17324.0,12
-2021-04-30,Tunjuelito,18164.0,6
+2021-04-30,Barrios Unidos,17323.0,12
+2021-04-30,Tunjuelito,18163.0,6
 2021-04-30,Teusaquillo,19701.0,13
 2021-04-30,Chapinero,21962.0,2
 2021-04-30,Usme,26768.0,5
@@ -8351,11 +8350,11 @@ fecha,localidad,casos,codigo
 2021-05-01,Sumapaz,22.0,20
 2021-05-01,La Candelaria,4389.0,17
 2021-05-01,Fuera de Bogotá,10122.0,99
-2021-05-01,Antonio Nariño,10918.0,15
+2021-05-01,Antonio Nariño,10917.0,15
 2021-05-01,Los Mártires,11117.0,14
 2021-05-01,Santa Fe,15095.0,3
-2021-05-01,Barrios Unidos,17409.0,12
-2021-05-01,Tunjuelito,18243.0,6
+2021-05-01,Barrios Unidos,17408.0,12
+2021-05-01,Tunjuelito,18242.0,6
 2021-05-01,Teusaquillo,19799.0,13
 2021-05-01,Chapinero,22085.0,2
 2021-05-01,Usme,26902.0,5
@@ -8372,11 +8371,11 @@ fecha,localidad,casos,codigo
 2021-05-02,Sumapaz,22.0,20
 2021-05-02,La Candelaria,4408.0,17
 2021-05-02,Fuera de Bogotá,10173.0,99
-2021-05-02,Antonio Nariño,10971.0,15
+2021-05-02,Antonio Nariño,10970.0,15
 2021-05-02,Los Mártires,11194.0,14
 2021-05-02,Santa Fe,15168.0,3
-2021-05-02,Barrios Unidos,17480.0,12
-2021-05-02,Tunjuelito,18321.0,6
+2021-05-02,Barrios Unidos,17479.0,12
+2021-05-02,Tunjuelito,18320.0,6
 2021-05-02,Teusaquillo,19884.0,13
 2021-05-02,Chapinero,22157.0,2
 2021-05-02,Usme,27017.0,5
@@ -8393,11 +8392,11 @@ fecha,localidad,casos,codigo
 2021-05-03,Sumapaz,22.0,20
 2021-05-03,La Candelaria,4431.0,17
 2021-05-03,Fuera de Bogotá,10264.0,99
-2021-05-03,Antonio Nariño,11035.0,15
+2021-05-03,Antonio Nariño,11034.0,15
 2021-05-03,Los Mártires,11250.0,14
 2021-05-03,Santa Fe,15273.0,3
-2021-05-03,Barrios Unidos,17588.0,12
-2021-05-03,Tunjuelito,18444.0,6
+2021-05-03,Barrios Unidos,17587.0,12
+2021-05-03,Tunjuelito,18443.0,6
 2021-05-03,Teusaquillo,20012.0,13
 2021-05-03,Chapinero,22280.0,2
 2021-05-03,Usme,27214.0,5
@@ -8414,11 +8413,11 @@ fecha,localidad,casos,codigo
 2021-05-04,Sumapaz,22.0,20
 2021-05-04,La Candelaria,4453.0,17
 2021-05-04,Fuera de Bogotá,10411.0,99
-2021-05-04,Antonio Nariño,11096.0,15
+2021-05-04,Antonio Nariño,11095.0,15
 2021-05-04,Los Mártires,11283.0,14
 2021-05-04,Santa Fe,15369.0,3
-2021-05-04,Barrios Unidos,17743.0,12
-2021-05-04,Tunjuelito,18524.0,6
+2021-05-04,Barrios Unidos,17742.0,12
+2021-05-04,Tunjuelito,18523.0,6
 2021-05-04,Teusaquillo,20156.0,13
 2021-05-04,Chapinero,22415.0,2
 2021-05-04,Usme,27384.0,5
@@ -8435,11 +8434,11 @@ fecha,localidad,casos,codigo
 2021-05-05,Sumapaz,22.0,20
 2021-05-05,La Candelaria,4467.0,17
 2021-05-05,Fuera de Bogotá,10516.0,99
-2021-05-05,Antonio Nariño,11117.0,15
+2021-05-05,Antonio Nariño,11116.0,15
 2021-05-05,Los Mártires,11310.0,14
 2021-05-05,Santa Fe,15423.0,3
-2021-05-05,Barrios Unidos,17841.0,12
-2021-05-05,Tunjuelito,18633.0,6
+2021-05-05,Barrios Unidos,17840.0,12
+2021-05-05,Tunjuelito,18632.0,6
 2021-05-05,Teusaquillo,20252.0,13
 2021-05-05,Chapinero,22518.0,2
 2021-05-05,Usme,27539.0,5
@@ -8456,11 +8455,11 @@ fecha,localidad,casos,codigo
 2021-05-06,Sumapaz,22.0,20
 2021-05-06,La Candelaria,4493.0,17
 2021-05-06,Fuera de Bogotá,10589.0,99
-2021-05-06,Antonio Nariño,11239.0,15
+2021-05-06,Antonio Nariño,11238.0,15
 2021-05-06,Los Mártires,11392.0,14
 2021-05-06,Santa Fe,15549.0,3
-2021-05-06,Barrios Unidos,17950.0,12
-2021-05-06,Tunjuelito,18772.0,6
+2021-05-06,Barrios Unidos,17949.0,12
+2021-05-06,Tunjuelito,18771.0,6
 2021-05-06,Teusaquillo,20380.0,13
 2021-05-06,Chapinero,22651.0,2
 2021-05-06,Usme,27686.0,5
@@ -8477,11 +8476,11 @@ fecha,localidad,casos,codigo
 2021-05-07,Sumapaz,23.0,20
 2021-05-07,La Candelaria,4517.0,17
 2021-05-07,Fuera de Bogotá,10667.0,99
-2021-05-07,Antonio Nariño,11302.0,15
+2021-05-07,Antonio Nariño,11301.0,15
 2021-05-07,Los Mártires,11446.0,14
 2021-05-07,Santa Fe,15639.0,3
-2021-05-07,Barrios Unidos,18078.0,12
-2021-05-07,Tunjuelito,18882.0,6
+2021-05-07,Barrios Unidos,18077.0,12
+2021-05-07,Tunjuelito,18881.0,6
 2021-05-07,Teusaquillo,20489.0,13
 2021-05-07,Chapinero,22792.0,2
 2021-05-07,Usme,27832.0,5
@@ -8498,11 +8497,11 @@ fecha,localidad,casos,codigo
 2021-05-08,Sumapaz,24.0,20
 2021-05-08,La Candelaria,4549.0,17
 2021-05-08,Fuera de Bogotá,10738.0,99
-2021-05-08,Antonio Nariño,11336.0,15
+2021-05-08,Antonio Nariño,11335.0,15
 2021-05-08,Los Mártires,11510.0,14
 2021-05-08,Santa Fe,15727.0,3
-2021-05-08,Barrios Unidos,18181.0,12
-2021-05-08,Tunjuelito,18966.0,6
+2021-05-08,Barrios Unidos,18180.0,12
+2021-05-08,Tunjuelito,18965.0,6
 2021-05-08,Teusaquillo,20594.0,13
 2021-05-08,Chapinero,22921.0,2
 2021-05-08,Usme,28011.0,5
@@ -8519,11 +8518,11 @@ fecha,localidad,casos,codigo
 2021-05-09,Sumapaz,25.0,20
 2021-05-09,La Candelaria,4557.0,17
 2021-05-09,Fuera de Bogotá,10813.0,99
-2021-05-09,Antonio Nariño,11394.0,15
+2021-05-09,Antonio Nariño,11393.0,15
 2021-05-09,Los Mártires,11571.0,14
 2021-05-09,Santa Fe,15798.0,3
-2021-05-09,Barrios Unidos,18244.0,12
-2021-05-09,Tunjuelito,19020.0,6
+2021-05-09,Barrios Unidos,18243.0,12
+2021-05-09,Tunjuelito,19019.0,6
 2021-05-09,Teusaquillo,20703.0,13
 2021-05-09,Chapinero,22998.0,2
 2021-05-09,Usme,28107.0,5
@@ -8540,11 +8539,11 @@ fecha,localidad,casos,codigo
 2021-05-10,Sumapaz,26.0,20
 2021-05-10,La Candelaria,4572.0,17
 2021-05-10,Fuera de Bogotá,10915.0,99
-2021-05-10,Antonio Nariño,11451.0,15
+2021-05-10,Antonio Nariño,11450.0,15
 2021-05-10,Los Mártires,11614.0,14
 2021-05-10,Santa Fe,15904.0,3
-2021-05-10,Barrios Unidos,18360.0,12
-2021-05-10,Tunjuelito,19128.0,6
+2021-05-10,Barrios Unidos,18359.0,12
+2021-05-10,Tunjuelito,19127.0,6
 2021-05-10,Teusaquillo,20818.0,13
 2021-05-10,Chapinero,23130.0,2
 2021-05-10,Usme,28315.0,5
@@ -8561,11 +8560,11 @@ fecha,localidad,casos,codigo
 2021-05-11,Sumapaz,26.0,20
 2021-05-11,La Candelaria,4606.0,17
 2021-05-11,Fuera de Bogotá,11010.0,99
-2021-05-11,Antonio Nariño,11544.0,15
+2021-05-11,Antonio Nariño,11543.0,15
 2021-05-11,Los Mártires,11698.0,14
 2021-05-11,Santa Fe,15997.0,3
-2021-05-11,Barrios Unidos,18460.0,12
-2021-05-11,Tunjuelito,19233.0,6
+2021-05-11,Barrios Unidos,18459.0,12
+2021-05-11,Tunjuelito,19232.0,6
 2021-05-11,Teusaquillo,20937.0,13
 2021-05-11,Chapinero,23242.0,2
 2021-05-11,Usme,28500.0,5
@@ -8582,11 +8581,11 @@ fecha,localidad,casos,codigo
 2021-05-12,Sumapaz,26.0,20
 2021-05-12,La Candelaria,4639.0,17
 2021-05-12,Fuera de Bogotá,11091.0,99
-2021-05-12,Antonio Nariño,11618.0,15
+2021-05-12,Antonio Nariño,11617.0,15
 2021-05-12,Los Mártires,11769.0,14
 2021-05-12,Santa Fe,16096.0,3
-2021-05-12,Barrios Unidos,18568.0,12
-2021-05-12,Tunjuelito,19311.0,6
+2021-05-12,Barrios Unidos,18567.0,12
+2021-05-12,Tunjuelito,19310.0,6
 2021-05-12,Teusaquillo,21037.0,13
 2021-05-12,Chapinero,23341.0,2
 2021-05-12,Usme,28622.0,5
@@ -8603,11 +8602,11 @@ fecha,localidad,casos,codigo
 2021-05-13,Sumapaz,26.0,20
 2021-05-13,La Candelaria,4668.0,17
 2021-05-13,Fuera de Bogotá,11146.0,99
-2021-05-13,Antonio Nariño,11662.0,15
+2021-05-13,Antonio Nariño,11661.0,15
 2021-05-13,Los Mártires,11810.0,14
 2021-05-13,Santa Fe,16215.0,3
-2021-05-13,Barrios Unidos,18648.0,12
-2021-05-13,Tunjuelito,19415.0,6
+2021-05-13,Barrios Unidos,18647.0,12
+2021-05-13,Tunjuelito,19414.0,6
 2021-05-13,Teusaquillo,21109.0,13
 2021-05-13,Chapinero,23443.0,2
 2021-05-13,Usme,28810.0,5
@@ -8624,11 +8623,11 @@ fecha,localidad,casos,codigo
 2021-05-14,Sumapaz,26.0,20
 2021-05-14,La Candelaria,4702.0,17
 2021-05-14,Fuera de Bogotá,11209.0,99
-2021-05-14,Antonio Nariño,11720.0,15
+2021-05-14,Antonio Nariño,11719.0,15
 2021-05-14,Los Mártires,11864.0,14
 2021-05-14,Santa Fe,16291.0,3
-2021-05-14,Barrios Unidos,18758.0,12
-2021-05-14,Tunjuelito,19527.0,6
+2021-05-14,Barrios Unidos,18757.0,12
+2021-05-14,Tunjuelito,19526.0,6
 2021-05-14,Teusaquillo,21195.0,13
 2021-05-14,Chapinero,23550.0,2
 2021-05-14,Usme,28983.0,5
@@ -8645,11 +8644,11 @@ fecha,localidad,casos,codigo
 2021-05-15,Sumapaz,26.0,20
 2021-05-15,La Candelaria,4717.0,17
 2021-05-15,Fuera de Bogotá,11263.0,99
-2021-05-15,Antonio Nariño,11780.0,15
+2021-05-15,Antonio Nariño,11779.0,15
 2021-05-15,Los Mártires,11939.0,14
 2021-05-15,Santa Fe,16380.0,3
-2021-05-15,Barrios Unidos,18863.0,12
-2021-05-15,Tunjuelito,19585.0,6
+2021-05-15,Barrios Unidos,18862.0,12
+2021-05-15,Tunjuelito,19584.0,6
 2021-05-15,Teusaquillo,21292.0,13
 2021-05-15,Chapinero,23655.0,2
 2021-05-15,Usme,29115.0,5
@@ -8666,11 +8665,11 @@ fecha,localidad,casos,codigo
 2021-05-16,Sumapaz,31.0,20
 2021-05-16,La Candelaria,4738.0,17
 2021-05-16,Fuera de Bogotá,11302.0,99
-2021-05-16,Antonio Nariño,11811.0,15
+2021-05-16,Antonio Nariño,11810.0,15
 2021-05-16,Los Mártires,11975.0,14
 2021-05-16,Santa Fe,16438.0,3
-2021-05-16,Barrios Unidos,18916.0,12
-2021-05-16,Tunjuelito,19664.0,6
+2021-05-16,Barrios Unidos,18915.0,12
+2021-05-16,Tunjuelito,19663.0,6
 2021-05-16,Teusaquillo,21362.0,13
 2021-05-16,Chapinero,23750.0,2
 2021-05-16,Usme,29253.0,5
@@ -8687,11 +8686,11 @@ fecha,localidad,casos,codigo
 2021-05-17,Sumapaz,31.0,20
 2021-05-17,La Candelaria,4758.0,17
 2021-05-17,Fuera de Bogotá,11343.0,99
-2021-05-17,Antonio Nariño,11862.0,15
+2021-05-17,Antonio Nariño,11861.0,15
 2021-05-17,Los Mártires,12026.0,14
 2021-05-17,Santa Fe,16531.0,3
-2021-05-17,Barrios Unidos,18985.0,12
-2021-05-17,Tunjuelito,19763.0,6
+2021-05-17,Barrios Unidos,18984.0,12
+2021-05-17,Tunjuelito,19762.0,6
 2021-05-17,Teusaquillo,21471.0,13
 2021-05-17,Chapinero,23853.0,2
 2021-05-17,Usme,29370.0,5
@@ -8708,11 +8707,11 @@ fecha,localidad,casos,codigo
 2021-05-18,Sumapaz,31.0,20
 2021-05-18,La Candelaria,4798.0,17
 2021-05-18,Fuera de Bogotá,11397.0,99
-2021-05-18,Antonio Nariño,11918.0,15
+2021-05-18,Antonio Nariño,11917.0,15
 2021-05-18,Los Mártires,12076.0,14
 2021-05-18,Santa Fe,16621.0,3
-2021-05-18,Barrios Unidos,19098.0,12
-2021-05-18,Tunjuelito,19868.0,6
+2021-05-18,Barrios Unidos,19097.0,12
+2021-05-18,Tunjuelito,19867.0,6
 2021-05-18,Teusaquillo,21628.0,13
 2021-05-18,Chapinero,23998.0,2
 2021-05-18,Usme,29557.0,5
@@ -8729,11 +8728,11 @@ fecha,localidad,casos,codigo
 2021-05-19,Sumapaz,31.0,20
 2021-05-19,La Candelaria,4837.0,17
 2021-05-19,Fuera de Bogotá,11467.0,99
-2021-05-19,Antonio Nariño,11959.0,15
+2021-05-19,Antonio Nariño,11958.0,15
 2021-05-19,Los Mártires,12127.0,14
 2021-05-19,Santa Fe,16704.0,3
-2021-05-19,Barrios Unidos,19219.0,12
-2021-05-19,Tunjuelito,19977.0,6
+2021-05-19,Barrios Unidos,19218.0,12
+2021-05-19,Tunjuelito,19976.0,6
 2021-05-19,Teusaquillo,21751.0,13
 2021-05-19,Chapinero,24128.0,2
 2021-05-19,Usme,29750.0,5
@@ -8750,11 +8749,11 @@ fecha,localidad,casos,codigo
 2021-05-20,Sumapaz,31.0,20
 2021-05-20,La Candelaria,4866.0,17
 2021-05-20,Fuera de Bogotá,11548.0,99
-2021-05-20,Antonio Nariño,12019.0,15
+2021-05-20,Antonio Nariño,12018.0,15
 2021-05-20,Los Mártires,12200.0,14
 2021-05-20,Santa Fe,16798.0,3
-2021-05-20,Barrios Unidos,19315.0,12
-2021-05-20,Tunjuelito,20097.0,6
+2021-05-20,Barrios Unidos,19314.0,12
+2021-05-20,Tunjuelito,20096.0,6
 2021-05-20,Teusaquillo,21879.0,13
 2021-05-20,Chapinero,24279.0,2
 2021-05-20,Usme,30030.0,5
@@ -8771,11 +8770,11 @@ fecha,localidad,casos,codigo
 2021-05-21,Sumapaz,31.0,20
 2021-05-21,La Candelaria,4900.0,17
 2021-05-21,Fuera de Bogotá,11588.0,99
-2021-05-21,Antonio Nariño,12139.0,15
+2021-05-21,Antonio Nariño,12138.0,15
 2021-05-21,Los Mártires,12283.0,14
 2021-05-21,Santa Fe,16917.0,3
-2021-05-21,Barrios Unidos,19444.0,12
-2021-05-21,Tunjuelito,20196.0,6
+2021-05-21,Barrios Unidos,19443.0,12
+2021-05-21,Tunjuelito,20195.0,6
 2021-05-21,Teusaquillo,22045.0,13
 2021-05-21,Chapinero,24488.0,2
 2021-05-21,Usme,30226.0,5
@@ -8792,11 +8791,11 @@ fecha,localidad,casos,codigo
 2021-05-22,Sumapaz,31.0,20
 2021-05-22,La Candelaria,4959.0,17
 2021-05-22,Fuera de Bogotá,11662.0,99
-2021-05-22,Antonio Nariño,12232.0,15
+2021-05-22,Antonio Nariño,12231.0,15
 2021-05-22,Los Mártires,12373.0,14
 2021-05-22,Santa Fe,17065.0,3
-2021-05-22,Barrios Unidos,19558.0,12
-2021-05-22,Tunjuelito,20268.0,6
+2021-05-22,Barrios Unidos,19557.0,12
+2021-05-22,Tunjuelito,20267.0,6
 2021-05-22,Teusaquillo,22177.0,13
 2021-05-22,Chapinero,24650.0,2
 2021-05-22,Usme,30374.0,5
@@ -8813,11 +8812,11 @@ fecha,localidad,casos,codigo
 2021-05-23,Sumapaz,34.0,20
 2021-05-23,La Candelaria,5019.0,17
 2021-05-23,Fuera de Bogotá,11712.0,99
-2021-05-23,Antonio Nariño,12323.0,15
+2021-05-23,Antonio Nariño,12322.0,15
 2021-05-23,Los Mártires,12437.0,14
 2021-05-23,Santa Fe,17157.0,3
-2021-05-23,Barrios Unidos,19718.0,12
-2021-05-23,Tunjuelito,20406.0,6
+2021-05-23,Barrios Unidos,19717.0,12
+2021-05-23,Tunjuelito,20405.0,6
 2021-05-23,Teusaquillo,22324.0,13
 2021-05-23,Chapinero,24819.0,2
 2021-05-23,Usme,30622.0,5
@@ -8834,11 +8833,11 @@ fecha,localidad,casos,codigo
 2021-05-24,Sumapaz,34.0,20
 2021-05-24,La Candelaria,5055.0,17
 2021-05-24,Fuera de Bogotá,11785.0,99
-2021-05-24,Antonio Nariño,12431.0,15
+2021-05-24,Antonio Nariño,12430.0,15
 2021-05-24,Los Mártires,12533.0,14
 2021-05-24,Santa Fe,17283.0,3
-2021-05-24,Barrios Unidos,19868.0,12
-2021-05-24,Tunjuelito,20540.0,6
+2021-05-24,Barrios Unidos,19867.0,12
+2021-05-24,Tunjuelito,20539.0,6
 2021-05-24,Teusaquillo,22510.0,13
 2021-05-24,Chapinero,25036.0,2
 2021-05-24,Usme,30844.0,5
@@ -8855,11 +8854,11 @@ fecha,localidad,casos,codigo
 2021-05-25,Sumapaz,37.0,20
 2021-05-25,La Candelaria,5123.0,17
 2021-05-25,Fuera de Bogotá,11875.0,99
-2021-05-25,Antonio Nariño,12563.0,15
+2021-05-25,Antonio Nariño,12562.0,15
 2021-05-25,Los Mártires,12661.0,14
 2021-05-25,Santa Fe,17458.0,3
-2021-05-25,Barrios Unidos,20026.0,12
-2021-05-25,Tunjuelito,20696.0,6
+2021-05-25,Barrios Unidos,20025.0,12
+2021-05-25,Tunjuelito,20695.0,6
 2021-05-25,Teusaquillo,22718.0,13
 2021-05-25,Chapinero,25214.0,2
 2021-05-25,Usme,31113.0,5
@@ -8876,11 +8875,11 @@ fecha,localidad,casos,codigo
 2021-05-26,Sumapaz,37.0,20
 2021-05-26,La Candelaria,5162.0,17
 2021-05-26,Fuera de Bogotá,11956.0,99
-2021-05-26,Antonio Nariño,12652.0,15
+2021-05-26,Antonio Nariño,12651.0,15
 2021-05-26,Los Mártires,12753.0,14
 2021-05-26,Santa Fe,17568.0,3
-2021-05-26,Barrios Unidos,20194.0,12
-2021-05-26,Tunjuelito,20880.0,6
+2021-05-26,Barrios Unidos,20193.0,12
+2021-05-26,Tunjuelito,20879.0,6
 2021-05-26,Teusaquillo,22854.0,13
 2021-05-26,Chapinero,25406.0,2
 2021-05-26,Usme,31385.0,5
@@ -8897,11 +8896,11 @@ fecha,localidad,casos,codigo
 2021-05-27,Sumapaz,37.0,20
 2021-05-27,La Candelaria,5234.0,17
 2021-05-27,Fuera de Bogotá,12034.0,99
-2021-05-27,Antonio Nariño,12738.0,15
+2021-05-27,Antonio Nariño,12737.0,15
 2021-05-27,Los Mártires,12859.0,14
 2021-05-27,Santa Fe,17770.0,3
-2021-05-27,Barrios Unidos,20365.0,12
-2021-05-27,Tunjuelito,21050.0,6
+2021-05-27,Barrios Unidos,20364.0,12
+2021-05-27,Tunjuelito,21049.0,6
 2021-05-27,Teusaquillo,23007.0,13
 2021-05-27,Chapinero,25614.0,2
 2021-05-27,Usme,31583.0,5
@@ -8918,11 +8917,11 @@ fecha,localidad,casos,codigo
 2021-05-28,Sumapaz,37.0,20
 2021-05-28,La Candelaria,5285.0,17
 2021-05-28,Fuera de Bogotá,12097.0,99
-2021-05-28,Antonio Nariño,12833.0,15
+2021-05-28,Antonio Nariño,12832.0,15
 2021-05-28,Los Mártires,12944.0,14
 2021-05-28,Santa Fe,17918.0,3
-2021-05-28,Barrios Unidos,20499.0,12
-2021-05-28,Tunjuelito,21176.0,6
+2021-05-28,Barrios Unidos,20498.0,12
+2021-05-28,Tunjuelito,21175.0,6
 2021-05-28,Teusaquillo,23192.0,13
 2021-05-28,Chapinero,25829.0,2
 2021-05-28,Usme,31797.0,5
@@ -8939,11 +8938,11 @@ fecha,localidad,casos,codigo
 2021-05-29,Sumapaz,45.0,20
 2021-05-29,La Candelaria,5321.0,17
 2021-05-29,Fuera de Bogotá,12158.0,99
-2021-05-29,Antonio Nariño,12927.0,15
+2021-05-29,Antonio Nariño,12926.0,15
 2021-05-29,Los Mártires,13023.0,14
 2021-05-29,Santa Fe,18039.0,3
-2021-05-29,Barrios Unidos,20645.0,12
-2021-05-29,Tunjuelito,21385.0,6
+2021-05-29,Barrios Unidos,20644.0,12
+2021-05-29,Tunjuelito,21384.0,6
 2021-05-29,Teusaquillo,23375.0,13
 2021-05-29,Chapinero,26063.0,2
 2021-05-29,Usme,32182.0,5
@@ -8951,7 +8950,7 @@ fecha,localidad,casos,codigo
 2021-05-29,Rafael Uribe Uribe,43368.0,18
 2021-05-29,San Cristóbal,43602.0,4
 2021-05-29,Fontibón,49854.0,9
-2021-05-29,Ciudad Bolívar,55712.0,19
+2021-05-29,Ciudad Bolívar,55713.0,19
 2021-05-29,Usaquén,70442.0,1
 2021-05-29,Bosa,70464.0,7
 2021-05-29,Engativá,106527.0,10
@@ -8960,11 +8959,11 @@ fecha,localidad,casos,codigo
 2021-05-30,Sumapaz,45.0,20
 2021-05-30,La Candelaria,5353.0,17
 2021-05-30,Fuera de Bogotá,12194.0,99
-2021-05-30,Antonio Nariño,13012.0,15
+2021-05-30,Antonio Nariño,13011.0,15
 2021-05-30,Los Mártires,13078.0,14
 2021-05-30,Santa Fe,18150.0,3
-2021-05-30,Barrios Unidos,20849.0,12
-2021-05-30,Tunjuelito,21469.0,6
+2021-05-30,Barrios Unidos,20848.0,12
+2021-05-30,Tunjuelito,21468.0,6
 2021-05-30,Teusaquillo,23551.0,13
 2021-05-30,Chapinero,26234.0,2
 2021-05-30,Usme,32306.0,5
@@ -8972,7 +8971,7 @@ fecha,localidad,casos,codigo
 2021-05-30,Rafael Uribe Uribe,43603.0,18
 2021-05-30,San Cristóbal,43813.0,4
 2021-05-30,Fontibón,50079.0,9
-2021-05-30,Ciudad Bolívar,55958.0,19
+2021-05-30,Ciudad Bolívar,55959.0,19
 2021-05-30,Usaquén,70904.0,1
 2021-05-30,Bosa,70926.0,7
 2021-05-30,Engativá,107492.0,10
@@ -8981,11 +8980,11 @@ fecha,localidad,casos,codigo
 2021-05-31,Sumapaz,45.0,20
 2021-05-31,La Candelaria,5395.0,17
 2021-05-31,Fuera de Bogotá,12249.0,99
-2021-05-31,Antonio Nariño,13096.0,15
+2021-05-31,Antonio Nariño,13095.0,15
 2021-05-31,Los Mártires,13184.0,14
 2021-05-31,Santa Fe,18262.0,3
-2021-05-31,Barrios Unidos,20993.0,12
-2021-05-31,Tunjuelito,21571.0,6
+2021-05-31,Barrios Unidos,20992.0,12
+2021-05-31,Tunjuelito,21570.0,6
 2021-05-31,Teusaquillo,23721.0,13
 2021-05-31,Chapinero,26487.0,2
 2021-05-31,Usme,32498.0,5
@@ -8993,7 +8992,7 @@ fecha,localidad,casos,codigo
 2021-05-31,Rafael Uribe Uribe,43921.0,18
 2021-05-31,San Cristóbal,44106.0,4
 2021-05-31,Fontibón,50428.0,9
-2021-05-31,Ciudad Bolívar,56285.0,19
+2021-05-31,Ciudad Bolívar,56286.0,19
 2021-05-31,Usaquén,71462.0,1
 2021-05-31,Bosa,71526.0,7
 2021-05-31,Engativá,108528.0,10
@@ -9002,11 +9001,11 @@ fecha,localidad,casos,codigo
 2021-06-01,Sumapaz,45.0,20
 2021-06-01,La Candelaria,5425.0,17
 2021-06-01,Fuera de Bogotá,12334.0,99
-2021-06-01,Antonio Nariño,13224.0,15
+2021-06-01,Antonio Nariño,13223.0,15
 2021-06-01,Los Mártires,13279.0,14
 2021-06-01,Santa Fe,18436.0,3
-2021-06-01,Barrios Unidos,21149.0,12
-2021-06-01,Tunjuelito,21743.0,6
+2021-06-01,Barrios Unidos,21148.0,12
+2021-06-01,Tunjuelito,21742.0,6
 2021-06-01,Teusaquillo,23934.0,13
 2021-06-01,Chapinero,26704.0,2
 2021-06-01,Usme,32789.0,5
@@ -9014,8 +9013,8 @@ fecha,localidad,casos,codigo
 2021-06-01,Rafael Uribe Uribe,44356.0,18
 2021-06-01,San Cristóbal,44518.0,4
 2021-06-01,Fontibón,50837.0,9
-2021-06-01,Ciudad Bolívar,56828.0,19
-2021-06-01,Usaquén,72129.0,1
+2021-06-01,Ciudad Bolívar,56829.0,19
+2021-06-01,Usaquén,72130.0,1
 2021-06-01,Bosa,72252.0,7
 2021-06-01,Engativá,109483.0,10
 2021-06-01,Kennedy,127919.0,8
@@ -9023,11 +9022,11 @@ fecha,localidad,casos,codigo
 2021-06-02,Sumapaz,45.0,20
 2021-06-02,La Candelaria,5460.0,17
 2021-06-02,Fuera de Bogotá,12383.0,99
-2021-06-02,Antonio Nariño,13363.0,15
+2021-06-02,Antonio Nariño,13362.0,15
 2021-06-02,Los Mártires,13414.0,14
 2021-06-02,Santa Fe,18597.0,3
-2021-06-02,Barrios Unidos,21398.0,12
-2021-06-02,Tunjuelito,21935.0,6
+2021-06-02,Barrios Unidos,21397.0,12
+2021-06-02,Tunjuelito,21934.0,6
 2021-06-02,Teusaquillo,24166.0,13
 2021-06-02,Chapinero,27096.0,2
 2021-06-02,Usme,33130.0,5
@@ -9035,8 +9034,8 @@ fecha,localidad,casos,codigo
 2021-06-02,Rafael Uribe Uribe,44711.0,18
 2021-06-02,San Cristóbal,44886.0,4
 2021-06-02,Fontibón,51469.0,9
-2021-06-02,Ciudad Bolívar,57665.0,19
-2021-06-02,Usaquén,72975.0,1
+2021-06-02,Ciudad Bolívar,57666.0,19
+2021-06-02,Usaquén,72976.0,1
 2021-06-02,Bosa,73125.0,7
 2021-06-02,Engativá,110876.0,10
 2021-06-02,Kennedy,129180.0,8
@@ -9044,192 +9043,192 @@ fecha,localidad,casos,codigo
 2021-06-03,Sumapaz,45.0,20
 2021-06-03,La Candelaria,5506.0,17
 2021-06-03,Fuera de Bogotá,12439.0,99
-2021-06-03,Antonio Nariño,13476.0,15
+2021-06-03,Antonio Nariño,13475.0,15
 2021-06-03,Los Mártires,13487.0,14
 2021-06-03,Santa Fe,18752.0,3
-2021-06-03,Barrios Unidos,21654.0,12
-2021-06-03,Tunjuelito,22134.0,6
+2021-06-03,Barrios Unidos,21653.0,12
+2021-06-03,Tunjuelito,22133.0,6
 2021-06-03,Teusaquillo,24485.0,13
 2021-06-03,Chapinero,27370.0,2
 2021-06-03,Usme,33398.0,5
 2021-06-03,Puente Aranda,39468.0,16
 2021-06-03,Rafael Uribe Uribe,45150.0,18
 2021-06-03,San Cristóbal,45276.0,4
-2021-06-03,Fontibón,51932.0,9
-2021-06-03,Ciudad Bolívar,58284.0,19
-2021-06-03,Usaquén,73738.0,1
+2021-06-03,Fontibón,51933.0,9
+2021-06-03,Ciudad Bolívar,58285.0,19
+2021-06-03,Usaquén,73739.0,1
 2021-06-03,Bosa,73834.0,7
-2021-06-03,Engativá,112132.0,10
+2021-06-03,Engativá,112134.0,10
 2021-06-03,Kennedy,130500.0,8
-2021-06-03,Suba,147991.0,11
+2021-06-03,Suba,147993.0,11
 2021-06-04,Sumapaz,45.0,20
 2021-06-04,La Candelaria,5564.0,17
 2021-06-04,Fuera de Bogotá,12519.0,99
 2021-06-04,Los Mártires,13599.0,14
-2021-06-04,Antonio Nariño,13605.0,15
+2021-06-04,Antonio Nariño,13604.0,15
 2021-06-04,Santa Fe,18924.0,3
-2021-06-04,Barrios Unidos,21838.0,12
-2021-06-04,Tunjuelito,22291.0,6
+2021-06-04,Barrios Unidos,21837.0,12
+2021-06-04,Tunjuelito,22290.0,6
 2021-06-04,Teusaquillo,24721.0,13
 2021-06-04,Chapinero,27650.0,2
 2021-06-04,Usme,33653.0,5
 2021-06-04,Puente Aranda,39741.0,16
 2021-06-04,Rafael Uribe Uribe,45454.0,18
 2021-06-04,San Cristóbal,45664.0,4
-2021-06-04,Fontibón,52389.0,9
-2021-06-04,Ciudad Bolívar,58759.0,19
+2021-06-04,Fontibón,52390.0,9
+2021-06-04,Ciudad Bolívar,58760.0,19
 2021-06-04,Bosa,74488.0,7
-2021-06-04,Usaquén,74510.0,1
-2021-06-04,Engativá,113272.0,10
+2021-06-04,Usaquén,74511.0,1
+2021-06-04,Engativá,113274.0,10
 2021-06-04,Kennedy,131444.0,8
-2021-06-04,Suba,149559.0,11
+2021-06-04,Suba,149561.0,11
 2021-06-05,Sumapaz,45.0,20
 2021-06-05,La Candelaria,5619.0,17
 2021-06-05,Fuera de Bogotá,12616.0,99
 2021-06-05,Los Mártires,13732.0,14
-2021-06-05,Antonio Nariño,13743.0,15
+2021-06-05,Antonio Nariño,13742.0,15
 2021-06-05,Santa Fe,19077.0,3
-2021-06-05,Barrios Unidos,22041.0,12
-2021-06-05,Tunjuelito,22422.0,6
+2021-06-05,Barrios Unidos,22040.0,12
+2021-06-05,Tunjuelito,22421.0,6
 2021-06-05,Teusaquillo,24931.0,13
 2021-06-05,Chapinero,27868.0,2
 2021-06-05,Usme,33879.0,5
 2021-06-05,Puente Aranda,40019.0,16
 2021-06-05,Rafael Uribe Uribe,45817.0,18
 2021-06-05,San Cristóbal,46097.0,4
-2021-06-05,Fontibón,52774.0,9
-2021-06-05,Ciudad Bolívar,59108.0,19
+2021-06-05,Fontibón,52775.0,9
+2021-06-05,Ciudad Bolívar,59109.0,19
 2021-06-05,Bosa,75059.0,7
-2021-06-05,Usaquén,75114.0,1
-2021-06-05,Engativá,114215.0,10
+2021-06-05,Usaquén,75116.0,1
+2021-06-05,Engativá,114217.0,10
 2021-06-05,Kennedy,132527.0,8
-2021-06-05,Suba,150887.0,11
+2021-06-05,Suba,150889.0,11
 2021-06-06,Sumapaz,54.0,20
 2021-06-06,La Candelaria,5641.0,17
 2021-06-06,Fuera de Bogotá,12686.0,99
 2021-06-06,Los Mártires,13787.0,14
-2021-06-06,Antonio Nariño,13835.0,15
+2021-06-06,Antonio Nariño,13834.0,15
 2021-06-06,Santa Fe,19159.0,3
-2021-06-06,Barrios Unidos,22241.0,12
-2021-06-06,Tunjuelito,22575.0,6
+2021-06-06,Barrios Unidos,22240.0,12
+2021-06-06,Tunjuelito,22574.0,6
 2021-06-06,Teusaquillo,25208.0,13
 2021-06-06,Chapinero,28042.0,2
 2021-06-06,Usme,34069.0,5
 2021-06-06,Puente Aranda,40252.0,16
 2021-06-06,Rafael Uribe Uribe,46068.0,18
 2021-06-06,San Cristóbal,46349.0,4
-2021-06-06,Fontibón,53050.0,9
-2021-06-06,Ciudad Bolívar,59486.0,19
+2021-06-06,Fontibón,53051.0,9
+2021-06-06,Ciudad Bolívar,59487.0,19
 2021-06-06,Bosa,75596.0,7
-2021-06-06,Usaquén,75685.0,1
-2021-06-06,Engativá,115202.0,10
+2021-06-06,Usaquén,75687.0,1
+2021-06-06,Engativá,115204.0,10
 2021-06-06,Kennedy,133304.0,8
-2021-06-06,Suba,151951.0,11
+2021-06-06,Suba,151953.0,11
 2021-06-07,Sumapaz,54.0,20
 2021-06-07,La Candelaria,5661.0,17
 2021-06-07,Fuera de Bogotá,12769.0,99
 2021-06-07,Los Mártires,13859.0,14
-2021-06-07,Antonio Nariño,13950.0,15
+2021-06-07,Antonio Nariño,13949.0,15
 2021-06-07,Santa Fe,19233.0,3
-2021-06-07,Barrios Unidos,22368.0,12
-2021-06-07,Tunjuelito,22696.0,6
+2021-06-07,Barrios Unidos,22367.0,12
+2021-06-07,Tunjuelito,22695.0,6
 2021-06-07,Teusaquillo,25391.0,13
 2021-06-07,Chapinero,28253.0,2
 2021-06-07,Usme,34217.0,5
 2021-06-07,Puente Aranda,40588.0,16
 2021-06-07,Rafael Uribe Uribe,46308.0,18
 2021-06-07,San Cristóbal,46628.0,4
-2021-06-07,Fontibón,53504.0,9
-2021-06-07,Ciudad Bolívar,59830.0,19
-2021-06-07,Bosa,76165.0,7
-2021-06-07,Usaquén,76269.0,1
-2021-06-07,Engativá,116140.0,10
+2021-06-07,Fontibón,53505.0,9
+2021-06-07,Ciudad Bolívar,59831.0,19
+2021-06-07,Bosa,76166.0,7
+2021-06-07,Usaquén,76271.0,1
+2021-06-07,Engativá,116142.0,10
 2021-06-07,Kennedy,134265.0,8
-2021-06-07,Suba,153197.0,11
+2021-06-07,Suba,153200.0,11
 2021-06-08,Sumapaz,54.0,20
 2021-06-08,La Candelaria,5694.0,17
 2021-06-08,Fuera de Bogotá,12944.0,99
 2021-06-08,Los Mártires,13931.0,14
-2021-06-08,Antonio Nariño,14047.0,15
+2021-06-08,Antonio Nariño,14046.0,15
 2021-06-08,Santa Fe,19335.0,3
-2021-06-08,Barrios Unidos,22550.0,12
-2021-06-08,Tunjuelito,22852.0,6
-2021-06-08,Teusaquillo,25573.0,13
+2021-06-08,Barrios Unidos,22549.0,12
+2021-06-08,Tunjuelito,22851.0,6
+2021-06-08,Teusaquillo,25574.0,13
 2021-06-08,Chapinero,28422.0,2
 2021-06-08,Usme,34522.0,5
 2021-06-08,Puente Aranda,40828.0,16
 2021-06-08,Rafael Uribe Uribe,46637.0,18
 2021-06-08,San Cristóbal,46911.0,4
-2021-06-08,Fontibón,53767.0,9
-2021-06-08,Ciudad Bolívar,60354.0,19
-2021-06-08,Bosa,76709.0,7
-2021-06-08,Usaquén,76832.0,1
-2021-06-08,Engativá,117158.0,10
+2021-06-08,Fontibón,53768.0,9
+2021-06-08,Ciudad Bolívar,60355.0,19
+2021-06-08,Bosa,76710.0,7
+2021-06-08,Usaquén,76835.0,1
+2021-06-08,Engativá,117161.0,10
 2021-06-08,Kennedy,135316.0,8
-2021-06-08,Suba,154438.0,11
+2021-06-08,Suba,154441.0,11
 2021-06-09,Sumapaz,54.0,20
 2021-06-09,La Candelaria,5724.0,17
 2021-06-09,Fuera de Bogotá,13078.0,99
 2021-06-09,Los Mártires,13990.0,14
-2021-06-09,Antonio Nariño,14117.0,15
+2021-06-09,Antonio Nariño,14116.0,15
 2021-06-09,Santa Fe,19430.0,3
-2021-06-09,Barrios Unidos,22730.0,12
-2021-06-09,Tunjuelito,23046.0,6
-2021-06-09,Teusaquillo,25763.0,13
+2021-06-09,Barrios Unidos,22729.0,12
+2021-06-09,Tunjuelito,23045.0,6
+2021-06-09,Teusaquillo,25764.0,13
 2021-06-09,Chapinero,28601.0,2
 2021-06-09,Usme,34870.0,5
 2021-06-09,Puente Aranda,41114.0,16
 2021-06-09,Rafael Uribe Uribe,46935.0,18
 2021-06-09,San Cristóbal,47265.0,4
-2021-06-09,Fontibón,54213.0,9
-2021-06-09,Ciudad Bolívar,60884.0,19
-2021-06-09,Usaquén,77425.0,1
-2021-06-09,Bosa,77540.0,7
-2021-06-09,Engativá,117982.0,10
+2021-06-09,Fontibón,54214.0,9
+2021-06-09,Ciudad Bolívar,60885.0,19
+2021-06-09,Usaquén,77430.0,1
+2021-06-09,Bosa,77541.0,7
+2021-06-09,Engativá,117985.0,10
 2021-06-09,Kennedy,136310.0,8
-2021-06-09,Suba,155427.0,11
+2021-06-09,Suba,155430.0,11
 2021-06-10,Sumapaz,54.0,20
 2021-06-10,La Candelaria,5731.0,17
 2021-06-10,Fuera de Bogotá,13160.0,99
 2021-06-10,Los Mártires,14031.0,14
-2021-06-10,Antonio Nariño,14184.0,15
+2021-06-10,Antonio Nariño,14183.0,15
 2021-06-10,Santa Fe,19474.0,3
-2021-06-10,Barrios Unidos,22838.0,12
-2021-06-10,Tunjuelito,23166.0,6
-2021-06-10,Teusaquillo,25932.0,13
+2021-06-10,Barrios Unidos,22837.0,12
+2021-06-10,Tunjuelito,23165.0,6
+2021-06-10,Teusaquillo,25933.0,13
 2021-06-10,Chapinero,28703.0,2
 2021-06-10,Usme,35002.0,5
-2021-06-10,Puente Aranda,41401.0,16
+2021-06-10,Puente Aranda,41402.0,16
 2021-06-10,Rafael Uribe Uribe,47202.0,18
 2021-06-10,San Cristóbal,47492.0,4
-2021-06-10,Fontibón,54566.0,9
-2021-06-10,Ciudad Bolívar,61206.0,19
-2021-06-10,Usaquén,77843.0,1
-2021-06-10,Bosa,78146.0,7
-2021-06-10,Engativá,118630.0,10
+2021-06-10,Fontibón,54568.0,9
+2021-06-10,Ciudad Bolívar,61207.0,19
+2021-06-10,Usaquén,77848.0,1
+2021-06-10,Bosa,78147.0,7
+2021-06-10,Engativá,118633.0,10
 2021-06-10,Kennedy,137369.0,8
-2021-06-10,Suba,156252.0,11
+2021-06-10,Suba,156256.0,11
 2021-06-11,Sumapaz,54.0,20
 2021-06-11,La Candelaria,5749.0,17
 2021-06-11,Fuera de Bogotá,13273.0,99
 2021-06-11,Los Mártires,14101.0,14
-2021-06-11,Antonio Nariño,14288.0,15
+2021-06-11,Antonio Nariño,14287.0,15
 2021-06-11,Santa Fe,19589.0,3
 2021-06-11,Barrios Unidos,22964.0,12
 2021-06-11,Tunjuelito,23322.0,6
-2021-06-11,Teusaquillo,26068.0,13
+2021-06-11,Teusaquillo,26069.0,13
 2021-06-11,Chapinero,28848.0,2
 2021-06-11,Usme,35155.0,5
-2021-06-11,Puente Aranda,41621.0,16
+2021-06-11,Puente Aranda,41622.0,16
 2021-06-11,Rafael Uribe Uribe,47485.0,18
 2021-06-11,San Cristóbal,47833.0,4
-2021-06-11,Fontibón,54844.0,9
-2021-06-11,Ciudad Bolívar,61562.0,19
-2021-06-11,Usaquén,78353.0,1
-2021-06-11,Bosa,78713.0,7
-2021-06-11,Engativá,119322.0,10
-2021-06-11,Kennedy,138284.0,8
-2021-06-11,Suba,157221.0,11
+2021-06-11,Fontibón,54846.0,9
+2021-06-11,Ciudad Bolívar,61563.0,19
+2021-06-11,Usaquén,78358.0,1
+2021-06-11,Bosa,78714.0,7
+2021-06-11,Engativá,119326.0,10
+2021-06-11,Kennedy,138286.0,8
+2021-06-11,Suba,157226.0,11
 2021-06-12,Sumapaz,54.0,20
 2021-06-12,La Candelaria,5812.0,17
 2021-06-12,Fuera de Bogotá,13338.0,99
@@ -9238,268 +9237,289 @@ fecha,localidad,casos,codigo
 2021-06-12,Santa Fe,19688.0,3
 2021-06-12,Barrios Unidos,23092.0,12
 2021-06-12,Tunjuelito,23452.0,6
-2021-06-12,Teusaquillo,26224.0,13
-2021-06-12,Chapinero,28989.0,2
+2021-06-12,Teusaquillo,26225.0,13
+2021-06-12,Chapinero,28990.0,2
 2021-06-12,Usme,35378.0,5
-2021-06-12,Puente Aranda,41839.0,16
+2021-06-12,Puente Aranda,41840.0,16
 2021-06-12,Rafael Uribe Uribe,47876.0,18
 2021-06-12,San Cristóbal,48212.0,4
-2021-06-12,Fontibón,55088.0,9
-2021-06-12,Ciudad Bolívar,61935.0,19
-2021-06-12,Usaquén,78909.0,1
-2021-06-12,Bosa,79205.0,7
-2021-06-12,Engativá,119899.0,10
-2021-06-12,Kennedy,139153.0,8
-2021-06-12,Suba,158101.0,11
+2021-06-12,Fontibón,55091.0,9
+2021-06-12,Ciudad Bolívar,61938.0,19
+2021-06-12,Usaquén,78915.0,1
+2021-06-12,Bosa,79206.0,7
+2021-06-12,Engativá,119904.0,10
+2021-06-12,Kennedy,139156.0,8
+2021-06-12,Suba,158106.0,11
 2021-06-13,Sumapaz,54.0,20
 2021-06-13,La Candelaria,5821.0,17
 2021-06-13,Fuera de Bogotá,13413.0,99
 2021-06-13,Los Mártires,14253.0,14
-2021-06-13,Antonio Nariño,14502.0,15
+2021-06-13,Antonio Nariño,14503.0,15
 2021-06-13,Santa Fe,19751.0,3
 2021-06-13,Barrios Unidos,23315.0,12
 2021-06-13,Tunjuelito,23634.0,6
-2021-06-13,Teusaquillo,26367.0,13
-2021-06-13,Chapinero,29110.0,2
+2021-06-13,Teusaquillo,26368.0,13
+2021-06-13,Chapinero,29111.0,2
 2021-06-13,Usme,35604.0,5
-2021-06-13,Puente Aranda,42032.0,16
+2021-06-13,Puente Aranda,42033.0,16
 2021-06-13,Rafael Uribe Uribe,48105.0,18
 2021-06-13,San Cristóbal,48499.0,4
-2021-06-13,Fontibón,55309.0,9
-2021-06-13,Ciudad Bolívar,62394.0,19
-2021-06-13,Usaquén,79420.0,1
-2021-06-13,Bosa,79631.0,7
-2021-06-13,Engativá,120439.0,10
-2021-06-13,Kennedy,139937.0,8
-2021-06-13,Suba,159081.0,11
+2021-06-13,Fontibón,55312.0,9
+2021-06-13,Ciudad Bolívar,62397.0,19
+2021-06-13,Usaquén,79426.0,1
+2021-06-13,Bosa,79632.0,7
+2021-06-13,Engativá,120444.0,10
+2021-06-13,Kennedy,139942.0,8
+2021-06-13,Suba,159087.0,11
 2021-06-14,Sumapaz,54.0,20
 2021-06-14,La Candelaria,5838.0,17
 2021-06-14,Fuera de Bogotá,13493.0,99
 2021-06-14,Los Mártires,14304.0,14
-2021-06-14,Antonio Nariño,14579.0,15
+2021-06-14,Antonio Nariño,14580.0,15
 2021-06-14,Santa Fe,19801.0,3
 2021-06-14,Barrios Unidos,23522.0,12
-2021-06-14,Tunjuelito,23747.0,6
-2021-06-14,Teusaquillo,26531.0,13
-2021-06-14,Chapinero,29301.0,2
-2021-06-14,Usme,35769.0,5
-2021-06-14,Puente Aranda,42239.0,16
+2021-06-14,Tunjuelito,23748.0,6
+2021-06-14,Teusaquillo,26532.0,13
+2021-06-14,Chapinero,29302.0,2
+2021-06-14,Usme,35771.0,5
+2021-06-14,Puente Aranda,42240.0,16
 2021-06-14,Rafael Uribe Uribe,48403.0,18
 2021-06-14,San Cristóbal,48760.0,4
-2021-06-14,Fontibón,55618.0,9
-2021-06-14,Ciudad Bolívar,62767.0,19
-2021-06-14,Usaquén,80001.0,1
-2021-06-14,Bosa,80070.0,7
-2021-06-14,Engativá,121149.0,10
-2021-06-14,Kennedy,140739.0,8
-2021-06-14,Suba,159923.0,11
+2021-06-14,Fontibón,55621.0,9
+2021-06-14,Ciudad Bolívar,62770.0,19
+2021-06-14,Usaquén,80009.0,1
+2021-06-14,Bosa,80071.0,7
+2021-06-14,Engativá,121154.0,10
+2021-06-14,Kennedy,140744.0,8
+2021-06-14,Suba,159929.0,11
 2021-06-15,Sumapaz,54.0,20
 2021-06-15,La Candelaria,5875.0,17
 2021-06-15,Fuera de Bogotá,13596.0,99
 2021-06-15,Los Mártires,14407.0,14
-2021-06-15,Antonio Nariño,14689.0,15
-2021-06-15,Santa Fe,19901.0,3
+2021-06-15,Antonio Nariño,14690.0,15
+2021-06-15,Santa Fe,19902.0,3
 2021-06-15,Barrios Unidos,23682.0,12
-2021-06-15,Tunjuelito,23942.0,6
-2021-06-15,Teusaquillo,26688.0,13
-2021-06-15,Chapinero,29506.0,2
-2021-06-15,Usme,36122.0,5
-2021-06-15,Puente Aranda,42531.0,16
+2021-06-15,Tunjuelito,23943.0,6
+2021-06-15,Teusaquillo,26689.0,13
+2021-06-15,Chapinero,29508.0,2
+2021-06-15,Usme,36124.0,5
+2021-06-15,Puente Aranda,42532.0,16
 2021-06-15,Rafael Uribe Uribe,48791.0,18
 2021-06-15,San Cristóbal,49127.0,4
-2021-06-15,Fontibón,55990.0,9
-2021-06-15,Ciudad Bolívar,63391.0,19
-2021-06-15,Usaquén,80639.0,1
-2021-06-15,Bosa,80745.0,7
-2021-06-15,Engativá,121942.0,10
-2021-06-15,Kennedy,141791.0,8
-2021-06-15,Suba,160983.0,11
+2021-06-15,Fontibón,55993.0,9
+2021-06-15,Ciudad Bolívar,63395.0,19
+2021-06-15,Usaquén,80647.0,1
+2021-06-15,Bosa,80746.0,7
+2021-06-15,Engativá,121948.0,10
+2021-06-15,Kennedy,141798.0,8
+2021-06-15,Suba,160990.0,11
 2021-06-16,Sumapaz,54.0,20
 2021-06-16,La Candelaria,5915.0,17
 2021-06-16,Fuera de Bogotá,13686.0,99
 2021-06-16,Los Mártires,14537.0,14
-2021-06-16,Antonio Nariño,14814.0,15
-2021-06-16,Santa Fe,20133.0,3
-2021-06-16,Barrios Unidos,23859.0,12
-2021-06-16,Tunjuelito,24144.0,6
-2021-06-16,Teusaquillo,26911.0,13
-2021-06-16,Chapinero,29732.0,2
-2021-06-16,Usme,36452.0,5
-2021-06-16,Puente Aranda,42759.0,16
-2021-06-16,Rafael Uribe Uribe,49228.0,18
+2021-06-16,Antonio Nariño,14815.0,15
+2021-06-16,Santa Fe,20134.0,3
+2021-06-16,Barrios Unidos,23860.0,12
+2021-06-16,Tunjuelito,24145.0,6
+2021-06-16,Teusaquillo,26912.0,13
+2021-06-16,Chapinero,29735.0,2
+2021-06-16,Usme,36455.0,5
+2021-06-16,Puente Aranda,42760.0,16
+2021-06-16,Rafael Uribe Uribe,49229.0,18
 2021-06-16,San Cristóbal,49500.0,4
-2021-06-16,Fontibón,56319.0,9
-2021-06-16,Ciudad Bolívar,63866.0,19
-2021-06-16,Bosa,81260.0,7
-2021-06-16,Usaquén,81305.0,1
-2021-06-16,Engativá,122788.0,10
-2021-06-16,Kennedy,142709.0,8
-2021-06-16,Suba,162254.0,11
+2021-06-16,Fontibón,56323.0,9
+2021-06-16,Ciudad Bolívar,63873.0,19
+2021-06-16,Bosa,81261.0,7
+2021-06-16,Usaquén,81313.0,1
+2021-06-16,Engativá,122794.0,10
+2021-06-16,Kennedy,142718.0,8
+2021-06-16,Suba,162264.0,11
 2021-06-17,Sumapaz,55.0,20
 2021-06-17,La Candelaria,5934.0,17
 2021-06-17,Fuera de Bogotá,13748.0,99
-2021-06-17,Los Mártires,14617.0,14
-2021-06-17,Antonio Nariño,14902.0,15
-2021-06-17,Santa Fe,20214.0,3
-2021-06-17,Barrios Unidos,24045.0,12
-2021-06-17,Tunjuelito,24375.0,6
-2021-06-17,Teusaquillo,27132.0,13
-2021-06-17,Chapinero,29898.0,2
-2021-06-17,Usme,36815.0,5
-2021-06-17,Puente Aranda,43149.0,16
-2021-06-17,Rafael Uribe Uribe,49523.0,18
+2021-06-17,Los Mártires,14618.0,14
+2021-06-17,Antonio Nariño,14903.0,15
+2021-06-17,Santa Fe,20215.0,3
+2021-06-17,Barrios Unidos,24047.0,12
+2021-06-17,Tunjuelito,24376.0,6
+2021-06-17,Teusaquillo,27133.0,13
+2021-06-17,Chapinero,29902.0,2
+2021-06-17,Usme,36818.0,5
+2021-06-17,Puente Aranda,43150.0,16
+2021-06-17,Rafael Uribe Uribe,49524.0,18
 2021-06-17,San Cristóbal,49826.0,4
-2021-06-17,Fontibón,56829.0,9
-2021-06-17,Ciudad Bolívar,64553.0,19
-2021-06-17,Usaquén,81895.0,1
-2021-06-17,Bosa,82080.0,7
-2021-06-17,Engativá,123778.0,10
-2021-06-17,Kennedy,143864.0,8
-2021-06-17,Suba,163512.0,11
+2021-06-17,Fontibón,56833.0,9
+2021-06-17,Ciudad Bolívar,64561.0,19
+2021-06-17,Usaquén,81903.0,1
+2021-06-17,Bosa,82081.0,7
+2021-06-17,Engativá,123785.0,10
+2021-06-17,Kennedy,143875.0,8
+2021-06-17,Suba,163523.0,11
 2021-06-18,Sumapaz,55.0,20
-2021-06-18,La Candelaria,5976.0,17
+2021-06-18,La Candelaria,5977.0,17
 2021-06-18,Fuera de Bogotá,13818.0,99
-2021-06-18,Los Mártires,14703.0,14
-2021-06-18,Antonio Nariño,15036.0,15
-2021-06-18,Santa Fe,20348.0,3
-2021-06-18,Barrios Unidos,24175.0,12
-2021-06-18,Tunjuelito,24508.0,6
-2021-06-18,Teusaquillo,27299.0,13
-2021-06-18,Chapinero,30043.0,2
-2021-06-18,Usme,37051.0,5
-2021-06-18,Puente Aranda,43371.0,16
-2021-06-18,Rafael Uribe Uribe,50008.0,18
-2021-06-18,San Cristóbal,50293.0,4
-2021-06-18,Fontibón,57124.0,9
-2021-06-18,Ciudad Bolívar,64997.0,19
-2021-06-18,Usaquén,82467.0,1
-2021-06-18,Bosa,82664.0,7
-2021-06-18,Engativá,124549.0,10
-2021-06-18,Kennedy,144819.0,8
-2021-06-18,Suba,164518.0,11
+2021-06-18,Los Mártires,14704.0,14
+2021-06-18,Antonio Nariño,15037.0,15
+2021-06-18,Santa Fe,20349.0,3
+2021-06-18,Barrios Unidos,24177.0,12
+2021-06-18,Tunjuelito,24509.0,6
+2021-06-18,Teusaquillo,27300.0,13
+2021-06-18,Chapinero,30048.0,2
+2021-06-18,Usme,37054.0,5
+2021-06-18,Puente Aranda,43372.0,16
+2021-06-18,Rafael Uribe Uribe,50009.0,18
+2021-06-18,San Cristóbal,50295.0,4
+2021-06-18,Fontibón,57128.0,9
+2021-06-18,Ciudad Bolívar,65005.0,19
+2021-06-18,Usaquén,82476.0,1
+2021-06-18,Bosa,82665.0,7
+2021-06-18,Engativá,124559.0,10
+2021-06-18,Kennedy,144830.0,8
+2021-06-18,Suba,164532.0,11
 2021-06-19,Sumapaz,55.0,20
-2021-06-19,La Candelaria,5986.0,17
+2021-06-19,La Candelaria,5987.0,17
 2021-06-19,Fuera de Bogotá,13863.0,99
-2021-06-19,Los Mártires,14773.0,14
-2021-06-19,Antonio Nariño,15121.0,15
-2021-06-19,Santa Fe,20405.0,3
-2021-06-19,Barrios Unidos,24407.0,12
-2021-06-19,Tunjuelito,24748.0,6
-2021-06-19,Teusaquillo,27472.0,13
-2021-06-19,Chapinero,30198.0,2
-2021-06-19,Usme,37332.0,5
-2021-06-19,Puente Aranda,43593.0,16
-2021-06-19,Rafael Uribe Uribe,50294.0,18
-2021-06-19,San Cristóbal,50595.0,4
-2021-06-19,Fontibón,57593.0,9
-2021-06-19,Ciudad Bolívar,65532.0,19
-2021-06-19,Usaquén,82926.0,1
-2021-06-19,Bosa,83258.0,7
-2021-06-19,Engativá,125173.0,10
-2021-06-19,Kennedy,145771.0,8
-2021-06-19,Suba,165504.0,11
+2021-06-19,Los Mártires,14774.0,14
+2021-06-19,Antonio Nariño,15123.0,15
+2021-06-19,Santa Fe,20408.0,3
+2021-06-19,Barrios Unidos,24409.0,12
+2021-06-19,Tunjuelito,24751.0,6
+2021-06-19,Teusaquillo,27473.0,13
+2021-06-19,Chapinero,30204.0,2
+2021-06-19,Usme,37340.0,5
+2021-06-19,Puente Aranda,43598.0,16
+2021-06-19,Rafael Uribe Uribe,50297.0,18
+2021-06-19,San Cristóbal,50600.0,4
+2021-06-19,Fontibón,57598.0,9
+2021-06-19,Ciudad Bolívar,65549.0,19
+2021-06-19,Usaquén,82937.0,1
+2021-06-19,Bosa,83269.0,7
+2021-06-19,Engativá,125184.0,10
+2021-06-19,Kennedy,145796.0,8
+2021-06-19,Suba,165523.0,11
 2021-06-20,Sumapaz,55.0,20
-2021-06-20,La Candelaria,6045.0,17
+2021-06-20,La Candelaria,6046.0,17
 2021-06-20,Fuera de Bogotá,13880.0,99
-2021-06-20,Los Mártires,14869.0,14
-2021-06-20,Antonio Nariño,15214.0,15
-2021-06-20,Santa Fe,20534.0,3
-2021-06-20,Barrios Unidos,24536.0,12
-2021-06-20,Tunjuelito,24866.0,6
-2021-06-20,Teusaquillo,27607.0,13
-2021-06-20,Chapinero,30361.0,2
-2021-06-20,Usme,37479.0,5
-2021-06-20,Puente Aranda,43878.0,16
-2021-06-20,Rafael Uribe Uribe,50536.0,18
-2021-06-20,San Cristóbal,50842.0,4
-2021-06-20,Fontibón,57926.0,9
-2021-06-20,Ciudad Bolívar,65989.0,19
-2021-06-20,Usaquén,83354.0,1
-2021-06-20,Bosa,83703.0,7
-2021-06-20,Engativá,125880.0,10
-2021-06-20,Kennedy,146474.0,8
-2021-06-20,Suba,166416.0,11
+2021-06-20,Los Mártires,14870.0,14
+2021-06-20,Antonio Nariño,15216.0,15
+2021-06-20,Santa Fe,20537.0,3
+2021-06-20,Barrios Unidos,24538.0,12
+2021-06-20,Tunjuelito,24870.0,6
+2021-06-20,Teusaquillo,27608.0,13
+2021-06-20,Chapinero,30368.0,2
+2021-06-20,Usme,37489.0,5
+2021-06-20,Puente Aranda,43887.0,16
+2021-06-20,Rafael Uribe Uribe,50542.0,18
+2021-06-20,San Cristóbal,50849.0,4
+2021-06-20,Fontibón,57931.0,9
+2021-06-20,Ciudad Bolívar,66013.0,19
+2021-06-20,Usaquén,83365.0,1
+2021-06-20,Bosa,83722.0,7
+2021-06-20,Engativá,125891.0,10
+2021-06-20,Kennedy,146518.0,8
+2021-06-20,Suba,166436.0,11
 2021-06-21,Sumapaz,55.0,20
-2021-06-21,La Candelaria,6080.0,17
+2021-06-21,La Candelaria,6081.0,17
 2021-06-21,Fuera de Bogotá,13902.0,99
-2021-06-21,Los Mártires,15050.0,14
-2021-06-21,Antonio Nariño,15262.0,15
-2021-06-21,Santa Fe,20646.0,3
-2021-06-21,Barrios Unidos,24717.0,12
-2021-06-21,Tunjuelito,24948.0,6
-2021-06-21,Teusaquillo,27756.0,13
-2021-06-21,Chapinero,30503.0,2
-2021-06-21,Usme,37652.0,5
-2021-06-21,Puente Aranda,44142.0,16
-2021-06-21,Rafael Uribe Uribe,50817.0,18
-2021-06-21,San Cristóbal,51115.0,4
-2021-06-21,Fontibón,58299.0,9
-2021-06-21,Ciudad Bolívar,66739.0,19
-2021-06-21,Usaquén,83813.0,1
-2021-06-21,Bosa,84201.0,7
-2021-06-21,Engativá,126779.0,10
-2021-06-21,Kennedy,147198.0,8
-2021-06-21,Suba,167508.0,11
+2021-06-21,Los Mártires,15052.0,14
+2021-06-21,Antonio Nariño,15265.0,15
+2021-06-21,Santa Fe,20650.0,3
+2021-06-21,Barrios Unidos,24720.0,12
+2021-06-21,Tunjuelito,24953.0,6
+2021-06-21,Teusaquillo,27757.0,13
+2021-06-21,Chapinero,30511.0,2
+2021-06-21,Usme,37664.0,5
+2021-06-21,Puente Aranda,44155.0,16
+2021-06-21,Rafael Uribe Uribe,50823.0,18
+2021-06-21,San Cristóbal,51126.0,4
+2021-06-21,Fontibón,58308.0,9
+2021-06-21,Ciudad Bolívar,66769.0,19
+2021-06-21,Usaquén,83829.0,1
+2021-06-21,Bosa,84221.0,7
+2021-06-21,Engativá,126793.0,10
+2021-06-21,Kennedy,147255.0,8
+2021-06-21,Suba,167537.0,11
 2021-06-22,Sumapaz,55.0,20
-2021-06-22,La Candelaria,6149.0,17
+2021-06-22,La Candelaria,6150.0,17
 2021-06-22,Fuera de Bogotá,13906.0,99
-2021-06-22,Los Mártires,15174.0,14
-2021-06-22,Antonio Nariño,15353.0,15
-2021-06-22,Santa Fe,20809.0,3
-2021-06-22,Barrios Unidos,24853.0,12
-2021-06-22,Tunjuelito,25034.0,6
-2021-06-22,Teusaquillo,27944.0,13
-2021-06-22,Chapinero,30739.0,2
-2021-06-22,Usme,37843.0,5
-2021-06-22,Puente Aranda,44384.0,16
-2021-06-22,Rafael Uribe Uribe,51190.0,18
-2021-06-22,San Cristóbal,51458.0,4
-2021-06-22,Fontibón,58582.0,9
-2021-06-22,Ciudad Bolívar,67407.0,19
-2021-06-22,Usaquén,84330.0,1
-2021-06-22,Bosa,84579.0,7
-2021-06-22,Engativá,127499.0,10
-2021-06-22,Kennedy,147924.0,8
-2021-06-22,Suba,168575.0,11
+2021-06-22,Los Mártires,15181.0,14
+2021-06-22,Antonio Nariño,15356.0,15
+2021-06-22,Santa Fe,20815.0,3
+2021-06-22,Barrios Unidos,24858.0,12
+2021-06-22,Tunjuelito,25039.0,6
+2021-06-22,Teusaquillo,27948.0,13
+2021-06-22,Chapinero,30757.0,2
+2021-06-22,Usme,37859.0,5
+2021-06-22,Puente Aranda,44399.0,16
+2021-06-22,Rafael Uribe Uribe,51198.0,18
+2021-06-22,San Cristóbal,51470.0,4
+2021-06-22,Fontibón,58595.0,9
+2021-06-22,Ciudad Bolívar,67442.0,19
+2021-06-22,Usaquén,84352.0,1
+2021-06-22,Bosa,84609.0,7
+2021-06-22,Engativá,127526.0,10
+2021-06-22,Kennedy,147990.0,8
+2021-06-22,Suba,168616.0,11
 2021-06-23,Sumapaz,55.0,20
-2021-06-23,La Candelaria,6182.0,17
+2021-06-23,La Candelaria,6188.0,17
 2021-06-23,Fuera de Bogotá,13906.0,99
-2021-06-23,Los Mártires,15294.0,14
-2021-06-23,Antonio Nariño,15449.0,15
-2021-06-23,Santa Fe,20913.0,3
-2021-06-23,Barrios Unidos,24982.0,12
-2021-06-23,Tunjuelito,25164.0,6
-2021-06-23,Teusaquillo,28189.0,13
-2021-06-23,Chapinero,30888.0,2
-2021-06-23,Usme,38046.0,5
-2021-06-23,Puente Aranda,44619.0,16
-2021-06-23,Rafael Uribe Uribe,51452.0,18
-2021-06-23,San Cristóbal,51801.0,4
-2021-06-23,Fontibón,58914.0,9
-2021-06-23,Ciudad Bolívar,67892.0,19
-2021-06-23,Usaquén,84725.0,1
-2021-06-23,Bosa,85089.0,7
-2021-06-23,Engativá,128325.0,10
-2021-06-23,Kennedy,148699.0,8
-2021-06-23,Suba,169674.0,11
-2021-06-24,Sumapaz,55.0,20
-2021-06-24,La Candelaria,6184.0,17
+2021-06-23,Los Mártires,15309.0,14
+2021-06-23,Antonio Nariño,15460.0,15
+2021-06-23,Santa Fe,20926.0,3
+2021-06-23,Barrios Unidos,24995.0,12
+2021-06-23,Tunjuelito,25179.0,6
+2021-06-23,Teusaquillo,28205.0,13
+2021-06-23,Chapinero,30920.0,2
+2021-06-23,Usme,38072.0,5
+2021-06-23,Puente Aranda,44647.0,16
+2021-06-23,Rafael Uribe Uribe,51484.0,18
+2021-06-23,San Cristóbal,51822.0,4
+2021-06-23,Fontibón,58949.0,9
+2021-06-23,Ciudad Bolívar,67956.0,19
+2021-06-23,Usaquén,84775.0,1
+2021-06-23,Bosa,85145.0,7
+2021-06-23,Engativá,128394.0,10
+2021-06-23,Kennedy,148809.0,8
+2021-06-23,Suba,169773.0,11
+2021-06-24,Sumapaz,56.0,20
+2021-06-24,La Candelaria,6202.0,17
 2021-06-24,Fuera de Bogotá,13906.0,99
-2021-06-24,Los Mártires,15308.0,14
-2021-06-24,Antonio Nariño,15466.0,15
-2021-06-24,Santa Fe,20922.0,3
-2021-06-24,Barrios Unidos,25000.0,12
-2021-06-24,Tunjuelito,25203.0,6
-2021-06-24,Teusaquillo,28206.0,13
-2021-06-24,Chapinero,30912.0,2
-2021-06-24,Usme,38140.0,5
-2021-06-24,Puente Aranda,44680.0,16
-2021-06-24,Rafael Uribe Uribe,51497.0,18
-2021-06-24,San Cristóbal,51850.0,4
-2021-06-24,Fontibón,58993.0,9
-2021-06-24,Ciudad Bolívar,67993.0,19
-2021-06-24,Usaquén,84806.0,1
-2021-06-24,Bosa,85193.0,7
-2021-06-24,Engativá,128508.0,10
-2021-06-24,Kennedy,148904.0,8
-2021-06-24,Suba,169873.0,11
+2021-06-24,Los Mártires,15386.0,14
+2021-06-24,Antonio Nariño,15534.0,15
+2021-06-24,Santa Fe,21001.0,3
+2021-06-24,Barrios Unidos,25113.0,12
+2021-06-24,Tunjuelito,25317.0,6
+2021-06-24,Teusaquillo,28372.0,13
+2021-06-24,Chapinero,31059.0,2
+2021-06-24,Usme,38325.0,5
+2021-06-24,Puente Aranda,44895.0,16
+2021-06-24,Rafael Uribe Uribe,51714.0,18
+2021-06-24,San Cristóbal,52016.0,4
+2021-06-24,Fontibón,59268.0,9
+2021-06-24,Ciudad Bolívar,68350.0,19
+2021-06-24,Usaquén,85159.0,1
+2021-06-24,Bosa,85556.0,7
+2021-06-24,Engativá,129164.0,10
+2021-06-24,Kennedy,149480.0,8
+2021-06-24,Suba,170847.0,11
+2021-06-25,Sumapaz,56.0,20
+2021-06-25,La Candelaria,6218.0,17
+2021-06-25,Fuera de Bogotá,13908.0,99
+2021-06-25,Los Mártires,15460.0,14
+2021-06-25,Antonio Nariño,15583.0,15
+2021-06-25,Santa Fe,21060.0,3
+2021-06-25,Barrios Unidos,25177.0,12
+2021-06-25,Tunjuelito,25409.0,6
+2021-06-25,Teusaquillo,28468.0,13
+2021-06-25,Chapinero,31137.0,2
+2021-06-25,Usme,38439.0,5
+2021-06-25,Puente Aranda,45018.0,16
+2021-06-25,Rafael Uribe Uribe,51824.0,18
+2021-06-25,San Cristóbal,52172.0,4
+2021-06-25,Fontibón,59392.0,9
+2021-06-25,Ciudad Bolívar,68536.0,19
+2021-06-25,Usaquén,85324.0,1
+2021-06-25,Bosa,85803.0,7
+2021-06-25,Engativá,129527.0,10
+2021-06-25,Kennedy,149967.0,8
+2021-06-25,Suba,171248.0,11
